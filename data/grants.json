@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T20:34:35.879Z",
+  "lastUpdated": "2026-05-20T20:43:29.164Z",
   "sources": [
     "GrantConnect",
     "Queensland Government",
@@ -7,7 +7,7 @@
   ],
   "sourceCounts": {
     "GrantConnect": {
-      "fetched": 130,
+      "fetched": 129,
       "matched": 73,
       "displayed": 18
     },
@@ -22,7 +22,7 @@
       "displayed": 0
     }
   },
-  "totalFetched": 130,
+  "totalFetched": 129,
   "totalMatched": 73,
   "totalDisplayed": 18,
   "grants": [
