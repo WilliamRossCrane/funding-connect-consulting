@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T20:35:44.358Z",
+  "lastUpdated": "2026-05-22T20:33:32.156Z",
   "sources": [
     "GrantConnect",
     "Queensland Government",
@@ -7,8 +7,8 @@
   ],
   "sourceCounts": {
     "GrantConnect": {
-      "fetched": 135,
-      "matched": 78,
+      "fetched": 138,
+      "matched": 80,
       "displayed": 18
     },
     "Queensland Government": {
@@ -22,8 +22,8 @@
       "displayed": 0
     }
   },
-  "totalFetched": 135,
-  "totalMatched": 78,
+  "totalFetched": 138,
+  "totalMatched": 80,
   "totalDisplayed": 18,
   "grants": [
     {
@@ -171,6 +171,18 @@
       "source": "GrantConnect"
     },
     {
+      "title": "GO8317: Support for Australian Associated Press Program",
+      "goId": "GO8317",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Support for Australian Associated Press (AAP) grant opportunity was announced as part of a package of measures under the News Media Assistance Program (News MAP) launched in December 2024. News MAP provides a framework and measures to support public interest journalism and media diversity in Australia – recognising these are critical to a healthy democracy, social cohesion and informed citizens. The Australian Government will provide $37 million over 2 financial years from 2026-27 to 2027-28 for the Support for AAP grant opportunity. Funding provided through this grant opportunity will help sustain AAP’s wholesale newswire service through to the end of June 2028. The AAP is an independent, fact-based wholesale newswire service that provides news content to over 400 Australian media outlets. Over 300 of these publications are located in regional areas and provide valuable local jobs and media voices to those communities. The AAP plays an important role in sustaining media diversity in Australia by providing an independent, fact-based wholesale newswire service to Australian news organisations. Newswire services play a role in broadening the range of content available to consumers, including local news content. Many small news organisations, including those located in regional and remote areas, rely on the services of AAP to operate efficiently and effectively. The objective of the grant opportunity is to contribute to media diversity and the broader news ecosystem by ensuring Australian news organisations, the majority of which are in regional and remote Australia, retain access to an independent wholesale newswire service. The intended outcomes of the grant opportunity are: Australian news outlets continue to have access to an independent, fact-based wholesale newswire service AAP core newswire services remain available to support public interest journalism and media diversity, including for regional and remote media outlets.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=359fe886-78f6-4f6b-9322-63ccca306344",
+      "source": "GrantConnect"
+    },
+    {
       "title": "GO8222: News Innovation Fund",
       "goId": "GO8222",
       "agency": "",
@@ -228,18 +240,6 @@
       "amount": "",
       "summary": "The Medical Research Future Fund (MRFF) Traumatic Brain Injury (TBI) Mission aims to enable or support research designed to improve the lives of all Australians who experience a TBI. The objective of this grant opportunity is to provide grants of financial assistance to support medical research and medical innovation projects that:Stream 1 (Priority area 2.1, Targeted Call for Research): test the efficacy and complete a process evaluation of novel treatments, clinical indicators and/or interventions for moderate to severe TBI in reducing time spent in acute care and/or improving long-term patient outcomes. Stream 2 (Priority area 2.3, Targeted Call for Research): conduct research to support effective national adoption and best practice use of clinical guidelines and protocols for mild TBI, including integration of prognostic and predictive approaches, and assessing and addressing barriers to implementation and inequalities including in all of: - Aboriginal and Torres Strait Islander people- People affected by family, domestic and sexual violence- Older people- Rural, regional and remote populations in geographically diverse areas- Culturally and linguistically diverse populations The intended outcome of the research is to improve the health and wellbeing of Australians by:Stream 1: improving acute care and/or long term outcomes for moderate to severe TBI. Stream 2: improving uptake of and access to best practice care for people with mild TBI. Applicants to this grant opportunity must propose research that addresses one of the two Streams of research. This grant opportunity is being administered by NHMRC on behalf of the Australian Government Department of Health, Disability and Ageing. Further information on the Medical Research Future Fund is available from the Department of Health, Disability and Ageing's website. A list of Eligible Organisations can be found on the NHMRC List of MRFF Eligible Organisations webpage.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=2b5ae5c1-d77e-4dd7-9194-7f3269c18c69",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8313: Maker Projects Community STEM Engagement Grants 2026",
-      "goId": "GO8313",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "Maker Projects Grants aim to foster creativity and inquiry-based learning. They support the development of STEM skills in students and youth under 18 years of age in design, engineering and programming, through hands-on learning. The objectives of the grant opportunity are to: deliver projects where students and youth under 18 years of age, at the time of application, can develop and apply their STEM knowledge through experimentation, tinkering and hands-on learning by engaging with a range of technologies encourage practical skills, creativity and entrepreneurial thinking through the delivery of hands-on STEM-related events and activities inspire students and youth under 18 years of age to pursue further studies and careers in STEM make projects accessible to as many young people as possible, including those in regional, rural and disadvantaged areas make a positive and ongoing impact on students and youth under 18 years of age, particularly those historically underrepresented in STEM including as defined in the glossary of the grant opportunity guidelines. The intended outcomes of the grant opportunity are: increased practical knowledge and skills in scientific experimentation, design, technology, innovation and entrepreneurship through hands-on activities for students and youth increased accessibility and participation in STEM-related events and activities for students and youth under 18 years of age, particularly those historically underrepresented in STEM as defined in the glossary positive and ongoing development of STEM skills for participating students and youth, fostered through hands-on inquiry-based learning.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=b907fa90-feb2-412c-bacc-ce950e447897",
       "source": "GrantConnect"
     }
   ]
