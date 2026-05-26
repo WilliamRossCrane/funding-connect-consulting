@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T20:30:25.240Z",
+  "lastUpdated": "2026-05-26T20:41:09.133Z",
   "sources": [
     "GrantConnect",
     "Queensland Government",
@@ -7,8 +7,8 @@
   ],
   "sourceCounts": {
     "GrantConnect": {
-      "fetched": 137,
-      "matched": 80,
+      "fetched": 136,
+      "matched": 79,
       "displayed": 18
     },
     "Queensland Government": {
@@ -22,8 +22,8 @@
       "displayed": 0
     }
   },
-  "totalFetched": 137,
-  "totalMatched": 80,
+  "totalFetched": 136,
+  "totalMatched": 79,
   "totalDisplayed": 18,
   "grants": [
     {
@@ -84,18 +84,6 @@
       "amount": "up to $10,000",
       "summary": "Assessment and notification of outcomes will be into 2 batches. The table below identifies the cut-off dates for all 2 batches: Batch 1 - closes 9:00 PM AEST on 29 July 2026 - ID 2025-5415 - Open Batch 2 - closes 9:00 PM AEDT 21 January 2027 - ID 2025-5416 - Closed The Australian Government is inviting eligible organisations to apply for grant funding under the Saluting Their Service Commemorative Grants Program (STS program). The objective of the STS Program is to commemorate the service and sacrifice of Australia’s service personnel who served in wars, conflicts and peace operations, including National Service personnel, and their families. The intended outcome of the STS Program is to provide funding for projects and activities that: promote appreciation and understanding of the experiences of service, and the role of service personnel preserve, add to the sum of knowledge on, or provide access to information about Australia’s wartime heritage. 1. Community Grants Grants up to $10,000 are available for projects and activities that: are focused on the local community commemorate the service and sacrifice of local community members are primarily accessed by the local community. 2. Major Grants Grants between $10,001 and $150,000 are available for major commemorative projects and activities that are significant from a national, state, territory and/or broader regional perspective. These projects may include the construction of new war or peace memorials where none currently exist, as well as additions to existing memorials. If your project relates to restoring or changing a memorial or other commemorative artefact, there may be heritage and conservation considerations.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=f6ed4eff-7fcd-48ed-9641-9409d12012b9",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8394: National Foundation for Australia-China Relations 2026-27 Competitive Grants Program",
-      "goId": "GO8394",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "Friday 10 July",
-      "amount": "",
-      "summary": "The National Foundation for Australia-China Relations is a national platform which promotes enhanced cooperation between Australia and China in support of Australia’s national interests. Our priority objectives are to: Strengthen risk-informed engagement and practical cooperation between Australia and China, in Australia’s national interests Strengthen Australia’s resilience as a multicultural democracy in which Chinese-Australian communities thrive. Refer to the Foundation’s website and the Grant Opportunity Guidelines for the intended outcomes of this grant opportunity. This year the 2026-27 grant round application process will comprise of two stages. Stage One: applicant submits an Expressions of Interest (EOI) form and 500-word pitch describing their proposed grant activity by 12 noon AEST, Tuesday 26 May. Stage Two: in early June, successful applicants from Stage One will be invited to complete and submit a full grant application. Full applications are due by 12 noon AEST, Friday 10 July.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=0ba215e8-84bc-4e0b-a405-ec0e62d5ac1b",
       "source": "GrantConnect"
     },
     {
@@ -240,6 +228,18 @@
       "amount": "",
       "summary": "The Medical Research Future Fund (MRFF) Traumatic Brain Injury (TBI) Mission aims to enable or support research designed to improve the lives of all Australians who experience a TBI. The objective of this grant opportunity is to provide grants of financial assistance to support medical research and medical innovation projects that:Stream 1 (Priority area 2.1, Targeted Call for Research): test the efficacy and complete a process evaluation of novel treatments, clinical indicators and/or interventions for moderate to severe TBI in reducing time spent in acute care and/or improving long-term patient outcomes. Stream 2 (Priority area 2.3, Targeted Call for Research): conduct research to support effective national adoption and best practice use of clinical guidelines and protocols for mild TBI, including integration of prognostic and predictive approaches, and assessing and addressing barriers to implementation and inequalities including in all of: - Aboriginal and Torres Strait Islander people- People affected by family, domestic and sexual violence- Older people- Rural, regional and remote populations in geographically diverse areas- Culturally and linguistically diverse populations The intended outcome of the research is to improve the health and wellbeing of Australians by:Stream 1: improving acute care and/or long term outcomes for moderate to severe TBI. Stream 2: improving uptake of and access to best practice care for people with mild TBI. Applicants to this grant opportunity must propose research that addresses one of the two Streams of research. This grant opportunity is being administered by NHMRC on behalf of the Australian Government Department of Health, Disability and Ageing. Further information on the Medical Research Future Fund is available from the Department of Health, Disability and Ageing's website. A list of Eligible Organisations can be found on the NHMRC List of MRFF Eligible Organisations webpage.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=2b5ae5c1-d77e-4dd7-9194-7f3269c18c69",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8313: Maker Projects Community STEM Engagement Grants 2026",
+      "goId": "GO8313",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "Maker Projects Grants aim to foster creativity and inquiry-based learning. They support the development of STEM skills in students and youth under 18 years of age in design, engineering and programming, through hands-on learning. The objectives of the grant opportunity are to: deliver projects where students and youth under 18 years of age, at the time of application, can develop and apply their STEM knowledge through experimentation, tinkering and hands-on learning by engaging with a range of technologies encourage practical skills, creativity and entrepreneurial thinking through the delivery of hands-on STEM-related events and activities inspire students and youth under 18 years of age to pursue further studies and careers in STEM make projects accessible to as many young people as possible, including those in regional, rural and disadvantaged areas make a positive and ongoing impact on students and youth under 18 years of age, particularly those historically underrepresented in STEM including as defined in the glossary of the grant opportunity guidelines. The intended outcomes of the grant opportunity are: increased practical knowledge and skills in scientific experimentation, design, technology, innovation and entrepreneurship through hands-on activities for students and youth increased accessibility and participation in STEM-related events and activities for students and youth under 18 years of age, particularly those historically underrepresented in STEM as defined in the glossary positive and ongoing development of STEM skills for participating students and youth, fostered through hands-on inquiry-based learning.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=b907fa90-feb2-412c-bacc-ce950e447897",
       "source": "GrantConnect"
     }
   ]
