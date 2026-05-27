@@ -347,6 +347,66 @@ function setupMarquee(grantCount) {
   };
 }
 
+function setupManualControls(grantCount) {
+  var elements = getCarouselElements();
+  var shell = elements.shell;
+  var track = elements.track;
+
+  if (!shell || !track) return function () {};
+
+  var controlPrev = shell.querySelector('[data-grants-control="prev"]');
+  var controlNext = shell.querySelector('[data-grants-control="next"]');
+  var cards = Array.from(
+    track.querySelectorAll('.grants-carousel-group:not([data-clone]) .grant-card')
+  );
+
+  if (!cards.length || cards.length < 2) {
+    if (controlPrev) controlPrev.style.display = "none";
+    if (controlNext) controlNext.style.display = "none";
+    return function () {};
+  }
+
+  if (controlPrev) controlPrev.style.display = "";
+  if (controlNext) controlNext.style.display = "";
+
+  var currentIndex = 0;
+
+  function focusCard(idx) {
+    currentIndex = ((idx % cards.length) + cards.length) % cards.length;
+    var c = cards[currentIndex];
+    if (c && typeof c.focus === "function") {
+      c.focus();
+      c.scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
+    }
+  }
+
+  function onNext(e) {
+    if (e && typeof e.preventDefault === "function") e.preventDefault();
+    focusCard(currentIndex + 1);
+  }
+
+  function onPrev(e) {
+    if (e && typeof e.preventDefault === "function") e.preventDefault();
+    focusCard(currentIndex - 1);
+  }
+
+  controlNext && controlNext.addEventListener("click", onNext);
+  controlPrev && controlPrev.addEventListener("click", onPrev);
+
+  function onKey(e) {
+    if (e.key === "ArrowRight") onNext();
+    if (e.key === "ArrowLeft") onPrev();
+  }
+
+  shell.addEventListener("keydown", onKey);
+
+  return function cleanupControls() {
+    controlNext && controlNext.removeEventListener("click", onNext);
+    controlPrev && controlPrev.removeEventListener("click", onPrev);
+    shell.removeEventListener("keydown", onKey);
+  };
+}
+
 export async function initGrants() {
   var elements = getCarouselElements();
 
@@ -394,7 +454,16 @@ export async function initGrants() {
     setTrackHtml(buildGrantTrackHtml(grants), { busy: false });
     await waitForNextFrame();
     await waitForNextFrame();
-    grantsCleanup = setupMarquee(grants.length);
+    var cleanupMarquee = setupMarquee(grants.length);
+    var cleanupControls = setupManualControls(grants.length);
+    grantsCleanup = function () {
+      try {
+        cleanupMarquee && cleanupMarquee();
+      } catch (e) {}
+      try {
+        cleanupControls && cleanupControls();
+      } catch (e) {}
+    };
   } catch (error) {
     console.error(
       "Unable to load local grants data from ./data/grants.json:",

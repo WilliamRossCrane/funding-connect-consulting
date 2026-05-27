@@ -2,7 +2,8 @@ name: Update Grants Data
 
 on:
   schedule:
-    - cron: "0 20 * * *"
+    - cron: "0 20 * * 1"
+      timezone: "Australia/Brisbane"
   workflow_dispatch:
 
 permissions:
@@ -16,6 +17,16 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
+      - name: Fortnight guard (skip alternate weeks)
+        id: fortnight
+        run: |
+          WEEK=$(date +%V)
+          if [ $((10#$WEEK % 2)) -ne 0 ]; then
+            echo "run_update=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "run_update=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
@@ -23,6 +34,7 @@ jobs:
           cache: npm
 
       - name: Install dependencies
+        if: steps.fortnight.outputs.run_update == 'true' || github.event_name == 'workflow_dispatch'
         run: |
           if [ -f package-lock.json ]; then
             npm ci
@@ -31,9 +43,11 @@ jobs:
           fi
 
       - name: Fetch latest grants
+        if: steps.fortnight.outputs.run_update == 'true' || github.event_name == 'workflow_dispatch'
         run: npm run fetch:grants
 
       - name: Commit updated grants data
+        if: steps.fortnight.outputs.run_update == 'true' || github.event_name == 'workflow_dispatch'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update grants data"

@@ -76,6 +76,44 @@
   will-change: transform;
 }
 
+.grants-carousel-control {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 36px;
+  height: 36px;
+  border-radius: 18px;
+  border: 1px solid rgba(0,0,0,0.08);
+  background: var(--white);
+  box-shadow: 0 6px 12px rgba(17,28,28,0.06);
+  z-index: 3;
+  cursor: pointer;
+  padding: 0;
+}
+
+.grants-carousel-prev {
+  left: 12px;
+}
+
+.grants-carousel-next {
+  right: 12px;
+}
+
+.grants-carousel-control::after {
+  content: '';
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin: 0 auto;
+  border-top: 2px solid var(--deep);
+  border-right: 2px solid var(--deep);
+  transform: rotate(45deg);
+}
+
+.grants-carousel-prev::after {
+  transform: rotate(-135deg);
+}
+
 .grants-carousel-shell:hover .grants-carousel-track.is-marquee-active,
 .grants-carousel-shell:focus-within .grants-carousel-track.is-marquee-active {
   animation-play-state: paused;

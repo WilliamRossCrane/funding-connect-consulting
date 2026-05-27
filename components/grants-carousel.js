@@ -60,9 +60,11 @@ export function renderGrantsCarousel() {
           "Scrolling grant opportunities - hover or focus to pause"
       ) +
       '">',
+    '    <button class="grants-carousel-control grants-carousel-prev" aria-label="Previous grant" data-grants-control="prev"></button>',
     '    <div class="grants-carousel-track grants-track" id="grantCards" aria-live="polite" aria-busy="true">',
     renderGrantsLoadingCard(),
     "    </div>",
+    '    <button class="grants-carousel-control grants-carousel-next" aria-label="Next grant" data-grants-control="next"></button>',
     "  </div>",
     '  <p class="grants-disclaimer">Grant information is sourced from GrantConnect, Queensland Government and business.gov.au. Please refer to each official grant page for full eligibility and application details.</p>',
     "</section>",
