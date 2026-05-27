@@ -69,15 +69,37 @@
   function closePopup() {
     var overlay = document.getElementById("welcome-overlay");
     if (!overlay) return;
+    // If user requests reduced motion, don't rely on CSS animations
+    var prefersReduced =
+      typeof window !== "undefined" &&
+      window.matchMedia &&
+      window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+    function doRemove() {
+      try {
+        overlay.remove();
+      } catch (e) {}
+    }
 
     overlay.classList.add("closing");
-    overlay.addEventListener(
-      "animationend",
-      function () {
-        overlay.remove();
-      },
-      { once: true },
-    );
+
+    if (prefersReduced) {
+      // Remove immediately when reduced motion is preferred
+      doRemove();
+    } else {
+      // Remove when the animation finishes, with a safety fallback
+      var handled = false;
+      function onEnd() {
+        if (handled) return;
+        handled = true;
+        doRemove();
+      }
+
+      overlay.addEventListener("animationend", onEnd, { once: true });
+
+      // Fallback: ensure removal after 600ms in case animationend doesn't fire
+      window.setTimeout(onEnd, 600);
+    }
 
     // Remember for this session
     try {
@@ -95,15 +117,37 @@
     var popup = createPopup();
     document.body.appendChild(popup);
 
+    // Safety: ensure the popup never hangs indefinitely (e.g. animation events
+    // suppressed by user agent). Auto-close after 12s and mark as seen.
+    var autoCloseId = window.setTimeout(function () {
+      try {
+        closePopup();
+      } catch (e) {}
+    }, 12000);
+
+    // Cancel the auto-close if the user interacts (clicks close/enter)
+    function cancelAutoClose() {
+      if (autoCloseId) {
+        window.clearTimeout(autoCloseId);
+        autoCloseId = null;
+      }
+    }
+
     // Close button
     document
       .getElementById("welcome-close")
-      .addEventListener("click", closePopup);
+      .addEventListener("click", function (e) {
+        cancelAutoClose();
+        closePopup();
+      });
 
     // Enter site button
     document
       .getElementById("welcome-enter")
-      .addEventListener("click", closePopup);
+      .addEventListener("click", function (e) {
+        cancelAutoClose();
+        closePopup();
+      });
 
     // Click on overlay backdrop (outside card) also closes
     popup.addEventListener("click", function (e) {

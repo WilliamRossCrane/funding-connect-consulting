@@ -10,6 +10,7 @@ var REDUCED_MOTION_QUERY = "(prefers-reduced-motion: reduce)";
 var MAX_GRANTS = 6;
 var FALLBACK_MESSAGE =
   "Grant opportunities could not be loaded. Please check back soon.";
+var GRANTS_FETCH_TIMEOUT = 5000; // ms - fallback if grants fetch is slow
 var grantsCleanup = null;
 
 function escapeHtml(value) {
@@ -430,7 +431,24 @@ export async function initGrants() {
   showLoadingCard();
 
   try {
-    var payload = await loadGrants();
+    // Race the grants fetch against a short timeout so slow responses don't
+    // block the page or leave the loading card visible forever.
+    var payload = await Promise.race([
+      loadGrants(),
+      new Promise(function (resolve) {
+        window.setTimeout(function () {
+          resolve({ __timedout: true });
+        }, GRANTS_FETCH_TIMEOUT);
+      }),
+    ]);
+
+    if (payload && payload.__timedout) {
+      console.warn("Grants fetch timed out — showing fallback message.");
+      setTrackHtml(renderFallback("Grant data is taking longer than expected."), { busy: false });
+      // Do not block rendering; return early. If the fetch resolves later it
+      // will not overwrite the UI.
+      return;
+    }
 
     if (!Array.isArray(payload?.grants)) {
       console.error(
