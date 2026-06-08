@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T20:41:09.133Z",
+  "lastUpdated": "2026-06-08T11:34:28.845Z",
   "sources": [
     "GrantConnect",
     "Queensland Government",
@@ -7,8 +7,8 @@
   ],
   "sourceCounts": {
     "GrantConnect": {
-      "fetched": 136,
-      "matched": 79,
+      "fetched": 133,
+      "matched": 75,
       "displayed": 18
     },
     "Queensland Government": {
@@ -22,8 +22,8 @@
       "displayed": 0
     }
   },
-  "totalFetched": 136,
-  "totalMatched": 79,
+  "totalFetched": 133,
+  "totalMatched": 75,
   "totalDisplayed": 18,
   "grants": [
     {
@@ -51,30 +51,6 @@
       "source": "GrantConnect"
     },
     {
-      "title": "GO8402: Healing for Strong Families – Numbulwar",
-      "goId": "GO8402",
-      "agency": "",
-      "category": "",
-      "closeDate": "2026-06-01T00:00:00.000Z",
-      "closeDateText": "01 June 2026",
-      "amount": "",
-      "summary": "The Numbulwar Healing Model reflects local priorities and cultural knowledge, integrating First Nations healing methodologies with relevant therapeutic practices. This grant opportunity seeks providers who are known and trusted within the community, built genuine relationships and uphold cultural protocols. Successful applicants will demonstrate cultural competence, capability and a long-term commitment to working alongside community to deliver healing services that strengthen identity, safety and resilience. Delivering this Healing Model requires more than service delivery; it requires relationship-building, cultural understanding and participatory engagement. Applicants are required to demonstrate: • Need and Community Involvement – Show evidence of strong local connections, trust, and readiness. • Cultural Competence – Respect cultural protocols, understand histories and the impact of colonisation, and embed First Nations knowledge systems in service design and delivery. • Capability – Provide clear evidence of organisational capacity, leadership and experience in delivering culturally-led healing services that integrate therapeutic approaches where appropriate. • Delivering Outcomes – Commit to long-term engagement, ongoing communication and adaptive practice based on community feedback. For information about how the National Indigenous Australians Agency (NIAA) manages personal information in the administration of its grants, please see the Grants and Funding page of the NIAA website - https://www.niaa.gov.au/indigenous-affairs/grants-and-funding. General information about the NIAA’s privacy policies is also included below. This grant opportunity will open on 04 May 2026 and will close at 15:00 AEST 01 June 2026. For details on the Numbulwar Healing Model and application requirements, visit GrantConnect.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=a966bc88-1a57-4878-8e3b-acb52db45f93",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8404: Healing for Strong Families – Ngukurr",
-      "goId": "GO8404",
-      "agency": "",
-      "category": "",
-      "closeDate": "2026-06-01T00:00:00.000Z",
-      "closeDateText": "01 June 2026",
-      "amount": "",
-      "summary": "The Ngukurr Healing Model reflects local priorities and cultural knowledge, integrating First Nations healing methodologies with relevant therapeutic practices. This grant opportunity seeks providers who are known and trusted within the community, built genuine relationships and uphold cultural protocols. Successful applicants will demonstrate cultural competence, capability and a long-term commitment to working alongside community to deliver healing services that strengthen identity, safety and resilience. Delivering this Healing Model requires more than service delivery; it requires relationship-building, cultural understanding and participatory engagement. Applicants are required to demonstrate: Need and Community Involvement – Show evidence of strong local connections, trust, and readiness. Cultural Competence – Respect cultural protocols, understand histories and the impact of colonisation, and embed First Nations knowledge systems in service design and delivery. Capability – Provide clear evidence of organisational capacity, leadership and experience in delivering culturally-led healing services that integrate therapeutic approaches where appropriate. Delivering Outcomes – Commit to long-term engagement, ongoing communication and adaptive practice based on community feedback. For information about how the National Indigenous Australians Agency (NIAA) manages personal information in the administration of its grants, please see the Grants and Funding page of the NIAA website - https://www.niaa.gov.au/indigenous-affairs/grants-and-funding. General information about the NIAA’s privacy policies is also included below. This grant opportunity will open on 04 May 2026 and will close at 15:00 AEST 01 June 2026. For details on the Ngukurr Healing Model and application requirements, visit GrantConnect.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=c1dac357-8b1c-4789-a571-84739b0bb969",
-      "source": "GrantConnect"
-    },
-    {
       "title": "GO8220: Saluting their Service Commemorative Grants Program 2026–27",
       "goId": "GO8220",
       "agency": "",
@@ -87,99 +63,15 @@
       "source": "GrantConnect"
     },
     {
-      "title": "GO8248: Support at Home Pooled Funding Trial",
-      "goId": "GO8248",
+      "title": "GO8449: In Home Care (IHC) Sustainability Support Grant",
+      "goId": "GO8449",
       "agency": "",
       "category": "",
       "closeDate": "",
       "closeDateText": "",
       "amount": "",
-      "summary": "The Support at Home program helps older people remain in their home as they age. The program supports delivery of coordinated care and services to meet an individual’s assessed ageing-related care needs. Support at Home is designed to be a person-centred program that supports aged care providers to deliver services that treat older people as unique individuals. Under the Aged Care Act 2024, older people have the right to quality and safe aged care services, with their individual identity, culture, spirituality, and diversity valued and supported. The Support at Home Pooled Funding Trial (the trial) is part of the Support at Home program. The trial will test whether pooling a portion of participants’ budgets in a group setting can improve service delivery and support older people to access more services through creating economies of scale. The trial involves Support at Home participants accessing services on a more flexible or as-needed basis, similar to that of a subscription model. For example, residents of a retirement village may choose to subscribe to access 24/7 nursing support, rather than arranging individual nursing services separately. Participants from a particular cultural or linguistically diverse group could coordinate some of their funding to access group social support and activities, or other niche service offerings, in their primary language. This grant opportunity invites Support at Home providers to apply to participate in the trial. It will award funding to successful grant applicants to compensate them for the additional administrative costs incurred by managing and delivering the trial. This funding will be paid in addition to the subsidy that providers are eligible for under the Aged Care Act 2024. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=cd2e11b4-99b2-4219-84c2-030329cc74ba",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8414: Volunteer Grants Activity – 2025-26 Volunteer Grants",
-      "goId": "GO8414",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Australian Government is inviting organisations through a closed, non-competitive process to apply for a Volunteer Grant under the Families and Communities Program – Volunteer Grants Activity. The 2025–26 Volunteer Grants round began with a call for Expressions of Interest (EOI) by Federal Members of Parliament (MPs) who consulted with a community committee to develop a list of organisations to nominate. Following the EOI process, MPs nominated organisations to receive an invitation to apply. The nomination period for MPs to submit their nominations closed on 17 April 2026. The Volunteer Grants Activity is an element of the Families and Communities Program, which recognises the valuable work of Australia’s volunteers. This initiative forms part of the Australian Government’s ongoing commitment to encourage, support and increase participation in volunteering. Eligible not for profit community organisations can use grant funding to cover expenses for online communication and insurance items, small equipment, training, and background screening checks for the main purpose of supporting the volunteer cohorts and volunteer-run activities specified in the 2025–26 Volunteer Grants - Grant Opportunity Guidelines. The intended outcome of the activity is to strengthen community functioning by supporting and increasing participation in volunteering.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=d02d025c-d9be-48e8-96d2-d8af072d7be7",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8330: Building Early Education Fund – Small-Scale Grant Opportunity",
-      "goId": "GO8330",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The purpose of the Small-Scale Grant Round is to provide capital grants to high-quality not-for-profit small providers to undertake construction for the delivery of new or expanded Centre-Based Day Care (CBDC) services. Funding is also available to not-for-profit providers to modify buildings to facilitate the provision of in-venue Family Day Care (FDC) by a high-quality provider in areas where no ECEC is available.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=ed3dfe2c-8a32-490c-9f6e-2ef18b107cf1",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8407: Indigenous Repatriation Program – Museum Grants 2026-27",
-      "goId": "GO8407",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Indigenous Repatriation Program – Museum Grants (the Program) facilitates the unconditional return of Aboriginal and Torres Strait Islander (First Nations) ancestral remains (ancestors) and secret sacred objects (objects) held in the collections of the eight major Australian museums to their Traditional Custodians. The participating museums work directly with First Nations communities to identify the provenance of ancestors and objects and return them Country.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=5f382819-a64f-47a7-a995-0b241e2491de",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO7810: Market Adjustment Program",
-      "goId": "GO7810",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Market Adjustment Program grant opportunity builds on the Government’s existing Market Adjustment Program which supports residential aged care providers (providers) that are facing financial viability concerns by expanding that support to Support at Home providers. The program provides funding (including ‘critical failure’ funding) to avoid premature aged care provider closures and, in appropriate situations, to support orderly exits and service or provider consolidation. In addition, the program may also fund initiatives aimed at improving business capability (to reduce likelihood of deteriorating performance). The overarching program intent is to reduce the risk to the safety of care recipients from disorderly closures or financial failure. The Market Adjustment Program Grant Opportunity is to safeguard continuity of care for care recipients through support for providers that are in most need of funding assistance, are strategically important (including those in thin markets) and require support to improve business capability and operations. The MAP grant opportunity will provide grant funding through three streams: Stream 1: Improvement of Business Operations Stream 2: Sale or Closure Stream 3: Critical Failure Grant amounts and the funding stream will be determined by the Department of Health and Aged Care (the department) on a case-by-case basis based on the department’s assessment of the provider’s risk profile and value for money. An applicant can only apply for the Stream the department issues an Invitation to Apply for. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=690e63be-e375-43f2-add5-561e8596e4e4",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8383: Australia-Japan Foundation 2026-27 Grant Round",
-      "goId": "GO8383",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Australia-Japan Foundation (AJF) advances Australia's engagement with Japan by supporting people-to-people links through programs and partnerships aligned with the Australian Government's priorities. The AJF 2026-27 Grant Round invites grant applications for projects in the following priority areas: activities that promote cooperation on bilateral, economic security and broader geostrategic issues activities that expand Japanese literacy in Australia and/or an understanding of Australia in Japan arts, culture, sport, and youth engagement activities that advance cooperation in key emerging sectors, including energy transition, critical minerals, resilient supply chains, agriculture, artificial intelligence, robotics, cybersecurity and advanced technologies. The intended outcomes of the grant round are: delivery of impactful and well-promoted activities that catalyse new, and deepen existing, bilateral, institutional and community partnerships and collaborations based on shared strategic goals. increased public engagement and understanding and awareness of shared interests between Australia and Japan. increased recognition in Japan of Australian excellence and expertise. greater involvement of emerging leaders and youth in shaping the future of bilateral cooperation. visible inclusion of diverse voices and communities. creation of digital assets that can be used to promote the activity and contribute to AJF’s broader communications efforts.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=8670dabe-a950-487c-a451-991175498f0f",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8317: Support for Australian Associated Press Program",
-      "goId": "GO8317",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Support for Australian Associated Press (AAP) grant opportunity was announced as part of a package of measures under the News Media Assistance Program (News MAP) launched in December 2024. News MAP provides a framework and measures to support public interest journalism and media diversity in Australia – recognising these are critical to a healthy democracy, social cohesion and informed citizens. The Australian Government will provide $37 million over 2 financial years from 2026-27 to 2027-28 for the Support for AAP grant opportunity. Funding provided through this grant opportunity will help sustain AAP’s wholesale newswire service through to the end of June 2028. The AAP is an independent, fact-based wholesale newswire service that provides news content to over 400 Australian media outlets. Over 300 of these publications are located in regional areas and provide valuable local jobs and media voices to those communities. The AAP plays an important role in sustaining media diversity in Australia by providing an independent, fact-based wholesale newswire service to Australian news organisations. Newswire services play a role in broadening the range of content available to consumers, including local news content. Many small news organisations, including those located in regional and remote areas, rely on the services of AAP to operate efficiently and effectively. The objective of the grant opportunity is to contribute to media diversity and the broader news ecosystem by ensuring Australian news organisations, the majority of which are in regional and remote Australia, retain access to an independent wholesale newswire service. The intended outcomes of the grant opportunity are: Australian news outlets continue to have access to an independent, fact-based wholesale newswire service AAP core newswire services remain available to support public interest journalism and media diversity, including for regional and remote media outlets.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=359fe886-78f6-4f6b-9322-63ccca306344",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8222: News Innovation Fund",
-      "goId": "GO8222",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "up to $31.5 million",
-      "summary": "The News Innovation Fund Grant Program will run over 2 financial years from 2026-27 to 2027-28. This program is part of the News Media Assistance Program (News MAP), which aims to support public interest journalism and safeguard media diversity. This program aims to support Australian news producers and enabling organisations to increase their commercial sustainability and improve the resilience of the sector through the funding of innovative new projects. There is a total of up to $31.5 million available over 2 years for the program. Grants will be from $10,000 to $9 million. The program will have two streams. Eligible applicants can apply for funding for activities that align with the outcomes under one of the following streams: Stream 1: Journalism Production Activities that increase journalism production and distribution including increasing training and staffing. Applicants may apply for new projects that meet one or more of the following: improve or expand core news content produced and distributed digitally activities that develop the capacity and capability of Australian organisations to produce or expand their digital core news content, establish and support the emergence of new journalism in under-represented areas and/or underserved audiences in Australia (i.e. ‘news deserts’). Stream 2: Organisational Support Activities that support internal capacity building and commercial sustainability of Australian core news producers. Applicants may apply for new projects that: develop or engage resources to build organisational and business capacities, diversify the avenues of support for the digital core news producers, through commercial means; and/or realise innovative economies of scale across multiple organisations in the provision of digital core news content.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=fb2ed0db-e898-4745-bbe9-2fdfe365b6f3",
+      "summary": "The In Home Care (IHC) Sustainability Support Grant provides one-off, targeted financial assistance to existing IHC service providers to support operational costs, financial viability and sustainability. The grant supports continued access to early childhood education and care for families who cannot access other Child Care Subsidy approved services, including those with complex needs, those who are geographically isolated, or requiring non-standard hours care.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=83dda35c-c21a-4e09-bef9-8aeb7ac5e699",
       "source": "GrantConnect"
     },
     {
@@ -207,6 +99,18 @@
       "source": "GrantConnect"
     },
     {
+      "title": "GO8407: Indigenous Repatriation Program – Museum Grants 2026-27",
+      "goId": "GO8407",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Indigenous Repatriation Program – Museum Grants (the Program) facilitates the unconditional return of Aboriginal and Torres Strait Islander (First Nations) ancestral remains (ancestors) and secret sacred objects (objects) held in the collections of the eight major Australian museums to their Traditional Custodians. The participating museums work directly with First Nations communities to identify the provenance of ancestors and objects and return them Country.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=5f382819-a64f-47a7-a995-0b241e2491de",
+      "source": "GrantConnect"
+    },
+    {
       "title": "GO8398: Chronic Conditions Prevention and Integrated Care Program",
       "goId": "GO8398",
       "agency": "",
@@ -214,7 +118,7 @@
       "closeDate": "",
       "closeDateText": "",
       "amount": "",
-      "summary": "This grant opportunity (GO) will drive improved health outcomes for people in Australia, living with, or at risk of, chronic conditions by supporting early detection, prevention and effective management. Guided by the National Strategic Framework for Chronic Conditions 2026-2035 (Framework) the Program will support a strategic and competitive investment approach that ensures transparency, fairness and alignment with Government priorities. The objectives of the GO are: Health Promotion and Education Embedding Prevention and Early Detection System integrated, multidisciplinary and person centred continuity of care Managing Multimorbidity Enhanced and targeted support for health equity. Funding will be awarded to initiatives that demonstrate measurable impact and contribute to long-term, sustainable improvements in chronic conditions health outcomes based on the following Tiers, with Tier 1 being prioritised: Tier 1: National Collaborative Activities - Funding supports large-scale activities with national scope that address multiple chronic conditions and/or risk factors and meet at least two Program objectives/focus areas listed at section 2.1 in the Framework. These initiatives should foster cross-sector collaboration, encouraging partnerships between health organisations, community groups, research institutions, and other relevant stakeholders. Tier 1 projects should use a unified approach, addressing related conditions or common risk factors regardless of specific diagnoses. Tier 2: Targeted Activities - Funding is designed to support short term activities that contribute to at least one of the Program’s objectives. These activities may focus on a single chronic condition or risk factor allowing for targeted interventions including pilot projects and time limited trials. Information session: 7 May 2026. See attachment for details. To view the GO documents please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "summary": "This grant opportunity (GO) will drive improved health outcomes for people in Australia, living with, or at risk of, chronic conditions by supporting early detection, prevention and effective management. Guided by the National Strategic Framework for Chronic Conditions 2026-2035 (Framework) the Program will support a strategic and competitive investment approach that ensures transparency, fairness and alignment with Government priorities. The objectives of the GO are: Health Promotion and Education Embedding Prevention and Early Detection System integrated, multidisciplinary and person centred continuity of care Managing Multimorbidity Enhanced and targeted support for health equity. Funding will be awarded to initiatives that demonstrate measurable impact and contribute to long-term, sustainable improvements in chronic conditions health outcomes based on the following Tiers, with Tier 1 being prioritised: Tier 1: National Collaborative Activities - Funding supports large-scale activities with national scope that address multiple chronic conditions and/or risk factors and meet at least two Program objectives/focus areas listed at section 2.1 in the Framework. These initiatives should foster cross-sector collaboration, encouraging partnerships between health organisations, community groups, research institutions, and other relevant stakeholders. Tier 1 projects should use a unified approach, addressing related conditions or common risk factors regardless of specific diagnoses. Tier 2: Targeted Activities - Funding is designed to support short term activities that contribute to at least one of the Program’s objectives. These activities may focus on a single chronic condition or risk factor allowing for targeted interventions including pilot projects and time limited trials. Note: Updated FAQs and Sample Application form published 4 June 2026. To view the GO documents please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=98d8d603-5d18-40cf-8b15-42a51dafb799",
       "source": "GrantConnect"
     },
@@ -240,6 +144,102 @@
       "amount": "",
       "summary": "Maker Projects Grants aim to foster creativity and inquiry-based learning. They support the development of STEM skills in students and youth under 18 years of age in design, engineering and programming, through hands-on learning. The objectives of the grant opportunity are to: deliver projects where students and youth under 18 years of age, at the time of application, can develop and apply their STEM knowledge through experimentation, tinkering and hands-on learning by engaging with a range of technologies encourage practical skills, creativity and entrepreneurial thinking through the delivery of hands-on STEM-related events and activities inspire students and youth under 18 years of age to pursue further studies and careers in STEM make projects accessible to as many young people as possible, including those in regional, rural and disadvantaged areas make a positive and ongoing impact on students and youth under 18 years of age, particularly those historically underrepresented in STEM including as defined in the glossary of the grant opportunity guidelines. The intended outcomes of the grant opportunity are: increased practical knowledge and skills in scientific experimentation, design, technology, innovation and entrepreneurship through hands-on activities for students and youth increased accessibility and participation in STEM-related events and activities for students and youth under 18 years of age, particularly those historically underrepresented in STEM as defined in the glossary positive and ongoing development of STEM skills for participating students and youth, fostered through hands-on inquiry-based learning.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=b907fa90-feb2-412c-bacc-ce950e447897",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8392: Disability Advocacy Support Program: Sector Strengthening",
+      "goId": "GO8392",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Government has identified three grant opportunities under the Disability Advocacy Support Program: Service Delivery National Advocacy Helpline Sector Strengthening (this Grant Opportunity). The Sector Strengthening grant opportunity supports sector-wide development by funding training, capability building, evidence-informed improvements, and work to identify and elevate systemic advocacy issues. This grant opportunity builds on the National Centre for Disability Advocacy (NCDA), established in 2022. Its actions are targeted towards supporting the organisations delivering the services under the service delivery and national advocacy helpline grants of the program, rather than supporting people with disability directly. Targeted education and training will be delivered by the organisation funded under the Sector Strengthening grant opportunity, focused on building the capabilities essential to achieving the Disability Advocacy Support Program outcomes and objectives. These capabilities are detailed at Appendix B of the Grant Opportunity Guidelines (the Guidelines). The grantee must demonstrate the experience and capabilities needed to achieve program outcomes (Appendix A of the Guidelines). Non-negotiable capabilities form eligibility criteria in the Guidelines. This grant opportunity contributes to the achievement of Outcome 4.1 – Disability and Carers, which supports people with disability and carers to actively participate in community and economic life. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=31dc1fd5-3a7b-4e5c-be61-fb68e01e589a",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8391: Disability Advocacy Support Program: National Advocacy Helpline",
+      "goId": "GO8391",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Government has identified three grant opportunities under the Disability Advocacy Support Program: Service Delivery National Advocacy Helpline (this Grant Opportunity) Sector Strengthening. The National Advocacy Helpline grant opportunity funds the Disability Advocacy Support Helpline (Helpline), a national information and communication technology (ICT)-enabled service that provides short-term individual advocacy support to people with disability, their families, carers and kin. The Helpline also serves as a common entry point for accessing advocacy services through the Disability Gateway. The grantee must demonstrate the experience and capabilities needed to achieve program outcomes (Appendix A of the Grant Opportunity Guidelines). Non negotiable capabilities form eligibility criteria in the Guidelines, while desirable capabilities (Appendix B) may be developed over time. This grant opportunity contributes to the achievement of Outcome 4.1 – Disability and Carers, which supports people with disability and carers to actively participate in community and economic life. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=788d6a27-8f3a-491f-9cb4-fc857402750b",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO7751: Local Investments Funding Grant Opportunity",
+      "goId": "GO7751",
+      "agency": "(NIAA) to apply for funding.",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Local Investments Funding Grant Opportunity enables strategic and rapid response to address local issues to benefit First Nations people and facilitate improved community and government engagement. The objective of a Local Investments Funding grant is to deliver outcomes, aligned to community needs government priorities and Closing the Gap targets by providing funding of no more than $125,000 (GST exclusive) for: • generally small scale, short-term, one-off proposals to address immediate local need and which have community support; • a variety of activities, ranging from small scale infrastructure and cultural activities, through to a co-contribution to larger projects; and • activities that leverage other government funding and may include co-contributions for larger projects with other governments, local councils or organisations. To be eligible, applicants just be invited by the National Indigenous Australians Agency (NIAA) to apply for funding.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=1289dd31-e1f8-4678-8f00-680918f86492",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO6263: Indigenous Advancement Strategy: Support for Community Sector Organisations Grant Opportunity Guidelines",
+      "goId": "GO6263",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "As a part of the October 2022-23 Budget, the NIAA has been allocated $190 million over four years (2022-23 to 2025-26), to support Community Sector Organisations (CSOs) already receiving an Indigenous Advancement Strategy (IAS) grant for an eligible activity. The purpose of this funding is to support these organisations at need of funding supplementation due to additional staff wages pressures and high inflations rates. Funding amounts and the length of grant agreements available to each eligible CSO will be based on: § the duration of existing IAS funding agreements for eligible grant activities § a percentage of the current IAS funding granted to each eligible CSO for each eligible grant activity § the location of service delivery for each eligible grant activity, noting that eligible grant activities delivered in remote and very remote areas may receive a higher percentage of supplementation funding The NIAA expects to conduct annual grant rounds under this grant opportunity to allow the NIAA to refresh its list of eligible organisations and eligible grant activities, and to reflect emerging economic circumstances in its funding calculations. The NIAA may conduct additional, smaller-scale rounds if these are required.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=69efec62-88c0-44b1-ab5f-ad23e16e7795",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO5067: Indigenous Australians' Health Programme Northern Territory Pathways to Community Control",
+      "goId": "GO5067",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "This grant opportunity enables the awarding of grants under the Pathways to Community Control (P2CC) program. The purpose of this grant opportunity is to support an Aboriginal Community Controlled Organisations (ACCHO) to transition health service delivery to Aboriginal community control under the P2CC Program and specifically targets ACCHOs in the Northern Territory. The grant supports the planning and implementation of the transition, which can include: development of corporate and clinical governance models and systems; development of a health plan for the region; community engagement and stakeholder consultation; Memorandum of Understanding (MOUs); required changes to the legal entity of the organisation and related governance structures; capacity building activities; and agreement of an evaluation strategy. The objectives of this grant opportunity are: to support the organisation to build its capacity and capabilities to deliver culturally safe, sustainable and high quality comprehensive primary health care services; no or limited impact on service delivery during the transfer period with all planned programs, staff, and services transferring on the agreed date; and the completion of a successful transition, resulting in the transfer of Indigenous Australians’ Health Programme primary health care funding for the ongoing operation of health services from the Northern Territory Government to the organisation. To view the grant opportunity documents, please select the red Grant Opportunity Documents button on the left-hand side. Note: Total Funding for this grant is $13.75m since originally published in 2021. Earlier funding from previous financial years has been expended.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=1c36fe84-5db7-4136-939d-a45868ea8e3e",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO3141: Community Development Grants (CDG) Programme",
+      "goId": "GO3141",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Australian Government established the CDG Programme in 2013. The program will be delivered under Outcome 3: Strengthening the sustainability, capacity and diversity of our cities and regional economies including through facilitating local partnerships between all levels of government and local communities; through reforms that stimulate economic growth; and providing grants and financial assistance. The objective of the CDG Programme (program) is: to support needed infrastructure that promotes stable, secure and viable local and regional economies. The intended outcomes of the program are: to construct and/or upgrade facilities to provide long term improvements in social and economic viability of local communities to create jobs in the delivery of projects and ongoing use of the infrastructure to improve social amenity, increased health and wellbeing and social cohesion by utilisation of the infrastructure by community groups This program delivers the government’s election commitments and other identified projects for community and regional infrastructure. Only projects identified by the Australian Government will be considered for funding under the CDG Programme, including the Government Election Commitments since 2013 and other government initiated projects. The CDG Programme is a non-competitive grants program. If a project has been identified to receive grant funding the relevant person/organisation will be contacted by the Australian Government. The Programme is administered in accordance with the Commonwealth Grants Rules and Guidelines (CGRGs).",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=3e20cc36-a504-a6e7-432f-b7837255dfb1",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8430: The First Nations Digital Support Hub Program",
+      "goId": "GO8430",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "In the 2024-25 Budget, the Australian Government provided funding to support the digital ability and literacy of First Nations Australians, to help progress Closing the Gap Target 17: By 2026, Aboriginal and Torres Strait Islander people have equal levels of digital inclusion, through the following programs: $4 million over one year to establish the First Nations Digital Support Hub, across two streams of funding: Stream 1 (website): $0.5 million to establish and maintain a website, which delivers digital literacy and connectivity in plain English and in First Nations languages Stream 2 (call centre): $3.5 million to establish a call centre to provide advice on the digital options and connectivity challenges that communities may face. $18 million over one year for a Network of Digital Mentors Refer to the National Agreement on Closing the Gap for more information on these targets and priority reforms. Both programs aim to improve First Nations digital inclusion by providing culturally safe advice and support to First Nations Australians regarding the use of telecommunications services, online safety, accessing essential services and troubleshooting connectivity issues. Delivery will be flexible to ensure the programs are responsive to changes in consumer experiences and expectations over time. First Nations Digital Support Hub The purpose of the First Nations Digital Support Hub Program (Digital Support Hub) is to support digital ability and connectivity literacy for First Nations people and communities, supporting and enabling skills development to be online safely and effectively, and to determine the connectivity options best for community members. It will provide this support through an online website, provide materials and resources, and telephone/email assistance. The Digital Support Hub will not be a walk-in centre that services customers in-person.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=4e19b156-f623-4343-94c1-a6946899d5bf",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8431: The Network of Digital Mentors Program",
+      "goId": "GO8431",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "In the 2024-25 Budget, the Australian Government provided funding to support the digital ability and literacy of First Nations Australians, to help progress Closing the Gap Target 17: By 2026, Aboriginal and Torres Strait Islander people have equal levels of digital inclusion, through the following programs: $18 million over one year for a Network of Digital Mentors $4 million over one year to establish the First Nations Digital Support Hub, across two streams of funding: Stream 1 (website): $0.5 million to establish and maintain a website, which delivers digital literacy and connectivity in plain English and in First Nations languages Stream 2 (call centre): $3.5 million to establish a call centre to provide advice on the digital options and connectivity challenges that communities may face. Refer to the National Agreement on Closing the Gap for more information on these targets and priority reforms. Both programs aim to improve First Nations digital inclusion by providing culturally safe advice and support to First Nations Australians regarding the use of telecommunications services, online safety, accessing essential services and troubleshooting connectivity issues. Delivery will be flexible to ensure the programs are responsive to changes in consumer experiences and expectations over time. Network of Digital Mentors The purpose of the Network of Digital Mentors Program (Network of Digital Mentors) is to establish and train a network of digital mentors in remote First Nations communities to assist people residing within those communities to enhance their access to connectivity, develop digital skills and literacy and to safely participate in the digital economy.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=96a98e57-a157-4ead-b04e-59c83e94429b",
       "source": "GrantConnect"
     }
   ]
