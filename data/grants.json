@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T11:34:28.845Z",
+  "lastUpdated": "2026-06-22T12:00:35.047Z",
   "sources": [
     "GrantConnect",
     "Queensland Government",
@@ -8,7 +8,7 @@
   "sourceCounts": {
     "GrantConnect": {
       "fetched": 133,
-      "matched": 75,
+      "matched": 74,
       "displayed": 18
     },
     "Queensland Government": {
@@ -23,7 +23,7 @@
     }
   },
   "totalFetched": 133,
-  "totalMatched": 75,
+  "totalMatched": 74,
   "totalDisplayed": 18,
   "grants": [
     {
@@ -63,114 +63,6 @@
       "source": "GrantConnect"
     },
     {
-      "title": "GO8449: In Home Care (IHC) Sustainability Support Grant",
-      "goId": "GO8449",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The In Home Care (IHC) Sustainability Support Grant provides one-off, targeted financial assistance to existing IHC service providers to support operational costs, financial viability and sustainability. The grant supports continued access to early childhood education and care for families who cannot access other Child Care Subsidy approved services, including those with complex needs, those who are geographically isolated, or requiring non-standard hours care.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=83dda35c-c21a-4e09-bef9-8aeb7ac5e699",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8397: Indigenous Advancement Strategy - Investing in Youth - Central Australia Plan",
-      "goId": "GO8397",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The National Indigenous Australians Agency invites eligible entities to apply for Investing in Youth - Central Australian Plan (IIY-CAP) grant funding. This grant opportunity seeks to deliver improved outcomes for First Nation young people in the Central Australian region with funding available over two years (2026-27 to 2027-28) for projects supporting: 1. service delivery: enhancing the capability and capacity of the First Nation youth service sector to meet young people’s needs 2. infrastructure: delivering minor upgrades to youth infrastructure and resources 3. community governance (including funding models): supporting local decision making (including community design) of youth service provision and bolstering community control 4. monitoring and evaluation: building local sector capacity to monitor and evaluate youth focused activities consistently and meaningfully, so evidence informs continuous learning, adaptation and future funding decisions.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=28919ba2-4e5a-434b-88ed-c488eb3f25a0",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8393: Mobile Network Hardening Program – Perth Hills Round",
-      "goId": "GO8393",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Australian Government is providing $1.2 million (GST exclusive) for the Perth Hills Round of the Mobile Network Hardening Program (the Program) to strengthen the resilience of mobile network communications in regional and peri-urban areas of the Perth Hills, Western Australia. The Perth Hills Round of the Program provides co-funding to Mobile Network Operators and Mobile Network Infrastructure Providers to upgrade battery back-up power reserves to at least 20 hours and/or install Automatic Transfer Switches at up to 23 mobile telecommunications infrastructure sites in the Perth Hills. The Perth Hills Round is funding projects located in the Local Government Areas (LGAs) of Serpentine,Jarrahdale, Armadale, Mundaring, Kalamunda, and Swan, which comprise the Perth Hills for the purposes of the Program.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=e1d4251d-8cf8-4cde-aa0d-4f1bd3f1715d",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8407: Indigenous Repatriation Program – Museum Grants 2026-27",
-      "goId": "GO8407",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Indigenous Repatriation Program – Museum Grants (the Program) facilitates the unconditional return of Aboriginal and Torres Strait Islander (First Nations) ancestral remains (ancestors) and secret sacred objects (objects) held in the collections of the eight major Australian museums to their Traditional Custodians. The participating museums work directly with First Nations communities to identify the provenance of ancestors and objects and return them Country.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=5f382819-a64f-47a7-a995-0b241e2491de",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8398: Chronic Conditions Prevention and Integrated Care Program",
-      "goId": "GO8398",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "This grant opportunity (GO) will drive improved health outcomes for people in Australia, living with, or at risk of, chronic conditions by supporting early detection, prevention and effective management. Guided by the National Strategic Framework for Chronic Conditions 2026-2035 (Framework) the Program will support a strategic and competitive investment approach that ensures transparency, fairness and alignment with Government priorities. The objectives of the GO are: Health Promotion and Education Embedding Prevention and Early Detection System integrated, multidisciplinary and person centred continuity of care Managing Multimorbidity Enhanced and targeted support for health equity. Funding will be awarded to initiatives that demonstrate measurable impact and contribute to long-term, sustainable improvements in chronic conditions health outcomes based on the following Tiers, with Tier 1 being prioritised: Tier 1: National Collaborative Activities - Funding supports large-scale activities with national scope that address multiple chronic conditions and/or risk factors and meet at least two Program objectives/focus areas listed at section 2.1 in the Framework. These initiatives should foster cross-sector collaboration, encouraging partnerships between health organisations, community groups, research institutions, and other relevant stakeholders. Tier 1 projects should use a unified approach, addressing related conditions or common risk factors regardless of specific diagnoses. Tier 2: Targeted Activities - Funding is designed to support short term activities that contribute to at least one of the Program’s objectives. These activities may focus on a single chronic condition or risk factor allowing for targeted interventions including pilot projects and time limited trials. Note: Updated FAQs and Sample Application form published 4 June 2026. To view the GO documents please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=98d8d603-5d18-40cf-8b15-42a51dafb799",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8208: MRFF – Traumatic Brain Injury Mission – 2026 Traumatic Brain Injury Grant Opportunity",
-      "goId": "GO8208",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Medical Research Future Fund (MRFF) Traumatic Brain Injury (TBI) Mission aims to enable or support research designed to improve the lives of all Australians who experience a TBI. The objective of this grant opportunity is to provide grants of financial assistance to support medical research and medical innovation projects that:Stream 1 (Priority area 2.1, Targeted Call for Research): test the efficacy and complete a process evaluation of novel treatments, clinical indicators and/or interventions for moderate to severe TBI in reducing time spent in acute care and/or improving long-term patient outcomes. Stream 2 (Priority area 2.3, Targeted Call for Research): conduct research to support effective national adoption and best practice use of clinical guidelines and protocols for mild TBI, including integration of prognostic and predictive approaches, and assessing and addressing barriers to implementation and inequalities including in all of: - Aboriginal and Torres Strait Islander people- People affected by family, domestic and sexual violence- Older people- Rural, regional and remote populations in geographically diverse areas- Culturally and linguistically diverse populations The intended outcome of the research is to improve the health and wellbeing of Australians by:Stream 1: improving acute care and/or long term outcomes for moderate to severe TBI. Stream 2: improving uptake of and access to best practice care for people with mild TBI. Applicants to this grant opportunity must propose research that addresses one of the two Streams of research. This grant opportunity is being administered by NHMRC on behalf of the Australian Government Department of Health, Disability and Ageing. Further information on the Medical Research Future Fund is available from the Department of Health, Disability and Ageing's website. A list of Eligible Organisations can be found on the NHMRC List of MRFF Eligible Organisations webpage.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=2b5ae5c1-d77e-4dd7-9194-7f3269c18c69",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8313: Maker Projects Community STEM Engagement Grants 2026",
-      "goId": "GO8313",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "Maker Projects Grants aim to foster creativity and inquiry-based learning. They support the development of STEM skills in students and youth under 18 years of age in design, engineering and programming, through hands-on learning. The objectives of the grant opportunity are to: deliver projects where students and youth under 18 years of age, at the time of application, can develop and apply their STEM knowledge through experimentation, tinkering and hands-on learning by engaging with a range of technologies encourage practical skills, creativity and entrepreneurial thinking through the delivery of hands-on STEM-related events and activities inspire students and youth under 18 years of age to pursue further studies and careers in STEM make projects accessible to as many young people as possible, including those in regional, rural and disadvantaged areas make a positive and ongoing impact on students and youth under 18 years of age, particularly those historically underrepresented in STEM including as defined in the glossary of the grant opportunity guidelines. The intended outcomes of the grant opportunity are: increased practical knowledge and skills in scientific experimentation, design, technology, innovation and entrepreneurship through hands-on activities for students and youth increased accessibility and participation in STEM-related events and activities for students and youth under 18 years of age, particularly those historically underrepresented in STEM as defined in the glossary positive and ongoing development of STEM skills for participating students and youth, fostered through hands-on inquiry-based learning.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=b907fa90-feb2-412c-bacc-ce950e447897",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8392: Disability Advocacy Support Program: Sector Strengthening",
-      "goId": "GO8392",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Government has identified three grant opportunities under the Disability Advocacy Support Program: Service Delivery National Advocacy Helpline Sector Strengthening (this Grant Opportunity). The Sector Strengthening grant opportunity supports sector-wide development by funding training, capability building, evidence-informed improvements, and work to identify and elevate systemic advocacy issues. This grant opportunity builds on the National Centre for Disability Advocacy (NCDA), established in 2022. Its actions are targeted towards supporting the organisations delivering the services under the service delivery and national advocacy helpline grants of the program, rather than supporting people with disability directly. Targeted education and training will be delivered by the organisation funded under the Sector Strengthening grant opportunity, focused on building the capabilities essential to achieving the Disability Advocacy Support Program outcomes and objectives. These capabilities are detailed at Appendix B of the Grant Opportunity Guidelines (the Guidelines). The grantee must demonstrate the experience and capabilities needed to achieve program outcomes (Appendix A of the Guidelines). Non-negotiable capabilities form eligibility criteria in the Guidelines. This grant opportunity contributes to the achievement of Outcome 4.1 – Disability and Carers, which supports people with disability and carers to actively participate in community and economic life. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=31dc1fd5-3a7b-4e5c-be61-fb68e01e589a",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8391: Disability Advocacy Support Program: National Advocacy Helpline",
-      "goId": "GO8391",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Government has identified three grant opportunities under the Disability Advocacy Support Program: Service Delivery National Advocacy Helpline (this Grant Opportunity) Sector Strengthening. The National Advocacy Helpline grant opportunity funds the Disability Advocacy Support Helpline (Helpline), a national information and communication technology (ICT)-enabled service that provides short-term individual advocacy support to people with disability, their families, carers and kin. The Helpline also serves as a common entry point for accessing advocacy services through the Disability Gateway. The grantee must demonstrate the experience and capabilities needed to achieve program outcomes (Appendix A of the Grant Opportunity Guidelines). Non negotiable capabilities form eligibility criteria in the Guidelines, while desirable capabilities (Appendix B) may be developed over time. This grant opportunity contributes to the achievement of Outcome 4.1 – Disability and Carers, which supports people with disability and carers to actively participate in community and economic life. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=788d6a27-8f3a-491f-9cb4-fc857402750b",
-      "source": "GrantConnect"
-    },
-    {
       "title": "GO7751: Local Investments Funding Grant Opportunity",
       "goId": "GO7751",
       "agency": "(NIAA) to apply for funding.",
@@ -207,6 +99,18 @@
       "source": "GrantConnect"
     },
     {
+      "title": "GO8424: Strengthening Community Safety - Blue Light Victoria",
+      "goId": "GO8424",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Program will provide $7.376 million over 4 years to Blue Light Victoria to deliver prevention and early intervention activities that target young people aged 17 or younger involved in, or at risk of being involved in, the criminal justice system. It is expected that activities will be aimed at the participation of young people at-risk to decrease patterns of recidivism and provide alternative pathways for youth at-risk. This grant opportunity will run over 4 years from 2026-27 to 2029-30. The grant opportunity is part of the Department of Home Affairs Program 1.2 – National Security and Resilience, to provide services to support inclusive, safe and secure communities. The objectives of the grant opportunity are to: provide alternative pathways for young people who are at risk of being engaged in criminal and/or anti-social behaviour promote inclusion, build community resilience and strengthen family support structures enable young people at-risk to break patterns of recidivism and cyclical engagement in criminal activity help young people at-risk to develop life skills to prevent them from becoming entrenched in the criminal justice system and to promote inclusion and build community resilience. The intended outcomes of the grant opportunity are: improved engagement of young people at-risk in education, work ready programs and the community more generally decreased anti-social behaviour or engagement in criminal activity an increase in positive community and family engagement to reduce the incidence of engagement in criminal activity by young people at-risk and decrease recidivism rates among the same cohort.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=01565b5d-16b1-4177-9e9e-34e72d0066e1",
+      "source": "GrantConnect"
+    },
+    {
       "title": "GO3141: Community Development Grants (CDG) Programme",
       "goId": "GO3141",
       "agency": "",
@@ -240,6 +144,102 @@
       "amount": "",
       "summary": "In the 2024-25 Budget, the Australian Government provided funding to support the digital ability and literacy of First Nations Australians, to help progress Closing the Gap Target 17: By 2026, Aboriginal and Torres Strait Islander people have equal levels of digital inclusion, through the following programs: $18 million over one year for a Network of Digital Mentors $4 million over one year to establish the First Nations Digital Support Hub, across two streams of funding: Stream 1 (website): $0.5 million to establish and maintain a website, which delivers digital literacy and connectivity in plain English and in First Nations languages Stream 2 (call centre): $3.5 million to establish a call centre to provide advice on the digital options and connectivity challenges that communities may face. Refer to the National Agreement on Closing the Gap for more information on these targets and priority reforms. Both programs aim to improve First Nations digital inclusion by providing culturally safe advice and support to First Nations Australians regarding the use of telecommunications services, online safety, accessing essential services and troubleshooting connectivity issues. Delivery will be flexible to ensure the programs are responsive to changes in consumer experiences and expectations over time. Network of Digital Mentors The purpose of the Network of Digital Mentors Program (Network of Digital Mentors) is to establish and train a network of digital mentors in remote First Nations communities to assist people residing within those communities to enhance their access to connectivity, develop digital skills and literacy and to safely participate in the digital economy.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=96a98e57-a157-4ead-b04e-59c83e94429b",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO6341: Local Roads and Community Infrastructure (LRCI) Program - Phase 4",
+      "goId": "GO6341",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "Funding under Phase 4 of the Local Roads and Community Infrastructure (LRCI) Program is available from 1 July 2023 to support Eligible Funding Recipients to deliver priority local road and community infrastructure projects across Australia. LRCI Phase 4 continues the objective of the program to provide temporary, targeted support for creating and maintaining local jobs through road infrastructure and construction activities in communities across Australia. The intended outcomes of the program are to: deliver benefits to communities, such as improved road safety, accessibility and visual amenity; and create local short-term employment opportunities through funding construction projects",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=b21c06c4-f7e3-4fe7-9b97-13ae6e6dcd46",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO7781: Local Environmental Projects",
+      "goId": "GO7781",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Local Environmental Projects program will run from 2025–26 to 2027–28 as part of the Department of Climate Change, Energy, the Environment and Water's Outcome 2, supporting nature-positive conservation and sustainable management of Australia’s natural resources. Announced during the 2025 federal election, the program funds locally informed, place-based projects that protect and restore threatened species and habitats, enhance coasts and waterways, and improve community access to nature, especially in urban green and blue spaces. Projects must show long-term environmental and social benefits through sustainable management and local engagement, aligning with national goals under the EPBC Act and Australia’s Strategy for Nature 2024–2030. The program also supports Australia’s international commitments under the Convention on Biological Diversity. Participation by First Nations groups is encouraged, including sharing ecological knowledge. Projects promoting women’s workforce participation are also supported.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=cd6c079c-ae01-47b5-8df4-59e38e21f034",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO7153: Grants to the United Nations and related peacebuilding and peacekeeping organisations",
+      "goId": "GO7153",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The purpose of the grant is to provide funding to the United Nations and related peacebuilding and peacekeeping organisations to support peacebuilding and peacekeeping activities outside Australia. The objective of the grant is to provide funding to be used by the UN and related peacebuilding and peacekeeping organisations to support: • education, training and capacity building activities for civil or military personnel on peace related activities; • the provision of equipment or services to support foreign countries’ participation in peace operations; • research and policy development on peace related issues; • the engagement of civil or military personnel in peace operations and institutions; and • improvement of infrastructure used in peace operations.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=e854877a-4339-439b-ab12-b6698be53ecc",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO4966: Performance of representative body functions",
+      "goId": "GO4966",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Native Title Act 1993 (the Act) provides for the Australian Government, through the National Indigenous Australians Agency, to fund entities to perform the ‘representative body’ functions listed in section 203B of the Act. These functions include assisting native title claimants and holders to progress native title claims, negotiate native title agreements and resolve native title disputes. This grant opportunity will continue the delivery of these services by funding selected entities to perform these functions.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=0519f54c-a50a-4c1a-94d1-3bcf8415783f",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO7237: Indigenous Visual Arts Industry Support program, Closed Non-Competitive Grant Round 2025-26",
+      "goId": "GO7237",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "Funding will be provided to organisations for activities that best contribute to delivery of the following Program outcomes: a professional, viable and ethical Indigenous visual arts industry that features strong participation by, and provides economic opportunities for, Aboriginal and Torres Strait Islander people the continued production, exhibition, critique, purchase and collection of Indigenous visual art.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=935c34bc-6dce-4ccf-9c87-f6f7dc39138f",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO5214: Prescribed Bodies Corporate (PBC) Capacity Building Grant Opportunity",
+      "goId": "GO5214",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "Prescribed Bodies Corporate (PBC) Capacity Building Grant Funding is available to support PBCs to maximise the economic and social potential of native title through the effective and sustainable management of their land. The objectives of the PBC Capacity Building Grant are to: 1. Increase the capacity of PBCs to take advantage of economic opportunities 2. Build long-term organisational capacity within PBCs through training and obtaining professional expertise 3. Support effective native title agreement-making The outcomes of the PBC Capacity Building Grant are to: · Build capacity of PBCs to maximise the social, cultural and economic aspirations of their native title holding group Build capacity of PBCs to meet corporate compliance and native title obligations, and promote greater efficiency in land use decision-making",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=b4e8fc10-614a-4745-9467-359bb01f1788",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO7754: Indigenous Languages and Arts – Strategic Projects 2025-26",
+      "goId": "GO7754",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The ILA Program supports Aboriginal and Torres Strait Islanders to express, conserve and maintain their cultures through Indigenous languages and arts activities.Grant funding allocated through the ILA Program supports activities that: Conserve, revitalise and sustain Indigenous languages by: Supporting the use of spoken language in everyday life by facilitating language transmission and practise in a range of contexts through culturally appropriate learning and teaching activities. Supporting community members to improve their language knowledge and skills and build capacity in the sector by providing language learning and teaching pathways that include opportunities to gain formal qualifications in learning and teaching an Indigenous language. Recording, conserving and making available Indigenous languages using digital technology in an innovative and culturally appropriate way. Facilitating the use of Indigenous languages in everyday life by producing and providing access to language materials used in activities that facilitate the transmission of language, enabling community to enjoy, learn, use and teach their languages. Create, promote and celebrate Indigenous community-based arts activities by: Developing, producing, presenting, exhibiting or performing a diverse range of traditional and contemporary Indigenous art forms which could include dance, theatre, film, literature, music and traditional Indigenous arts and crafts. Promoting and celebrating Indigenous art forms and providing access to arts activities that enable community to enjoy, connect and take pride in their cultures.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=e83cbb62-47a6-4084-96da-49cdca62f413",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8264: Disability Peer Support and Connections Program 2026-27",
+      "goId": "GO8264",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "This open competitive grant opportunity represents part of a phased approach to disability reform, including reform of the former ILC program, through the new Disability Peer Support and Connections (DPSC) Program. This grant opportunity aims to distribute funding to meet the unique needs of Australians with disability under the age of 65, their families, carers and kin. Supports funded under the grant opportunity may provide benefit to children aged 0-8 and their families where this forms part of a broader service offer or scope. Successful organisations will be funded to deliver activities that strengthen support networks, including peer support networks, empower people with disability, and foster meaningful connections across diverse communities. This grant opportunity will be split into three (3) activity streams: - Stream 1: Individual and Family Capacity Building, - Stream 2: Community Capacity Building, - Stream 3: Information, Advice and Referral. Applicants may apply for more than one (1) stream (although this is not a requirement) and will need to complete a separate application for each stream being applied for. To support applicants in understanding the grant opportunity, the department has prepared an industry briefing video, which includes full captioning and Auslan interpretation. Click here to watch. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=26632357-3abc-4bda-bf0b-39aa0e06a2ab",
       "source": "GrantConnect"
     }
   ]
