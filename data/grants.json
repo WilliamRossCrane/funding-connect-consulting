@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T11:30:01.499Z",
+  "lastUpdated": "2026-07-20T12:08:25.604Z",
   "sources": [
     "GrantConnect",
     "Queensland Government",
@@ -7,8 +7,8 @@
   ],
   "sourceCounts": {
     "GrantConnect": {
-      "fetched": 115,
-      "matched": 65,
+      "fetched": 113,
+      "matched": 66,
       "displayed": 18
     },
     "Queensland Government": {
@@ -22,8 +22,8 @@
       "displayed": 0
     }
   },
-  "totalFetched": 115,
-  "totalMatched": 65,
+  "totalFetched": 113,
+  "totalMatched": 66,
   "totalDisplayed": 18,
   "grants": [
     {
@@ -39,15 +39,15 @@
       "source": "GrantConnect"
     },
     {
-      "title": "GO8484: Game on - Teaming up for Climate action - Round 1",
-      "goId": "GO8484",
+      "title": "GO8416: Farm Business Transition - Round 2",
+      "goId": "GO8416",
       "agency": "",
       "category": "",
-      "closeDate": "2026-07-28T00:00:00.000Z",
-      "closeDateText": "28 July 2026",
-      "amount": "up to $100,000",
-      "summary": "The Australian Government is inviting applications via an open non-competitive process to apply to deliver services under the Outcome 1, Program 1.2: Support reliable, secure and affordable energy. The Game on: Teaming up for climate action (the Program) will deliver $35.262 million over 2 funding rounds and will run over 3 years from 2026–27 to 2028–29. The program was announced as part of the Support for the Net Zero Plan. The program will provide support for up to 500 community sports clubs, helping them upgrade their facilities to be more climate resilient and energy efficient. Eligible sporting clubs will be able to apply for one-off grants of up to $100,000. Groups of clubs can also apply together. This allows funding to support upgrades across multiple clubs. Applications may close earlier than 28 July 2026 if funding capacity has been exceeded. We encourage applicants to apply as soon they can once the round opens. The Department will hold a webinar about the Game On program on 2 July 2026. The webinar will be recorded and made available online. Email GameOn@dcceew.gov.au to register for the webinar.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=0b25774d-a46e-436b-be9d-63a88513baca",
+      "closeDate": "2026-07-22T00:00:00.000Z",
+      "closeDateText": "22 July 2026",
+      "amount": "up to $75,000",
+      "summary": "This round has been extended to close at 7:00 pm AWST/9:00 pm AEST on 22 July 2026. Applicants may apply to both the Farm Business Transition and Supply Chain Capacity programs but won’t receive funding for the same activity from both. The Australian Government is inviting sheep producers to apply for Round 2 of the open competitive Farm Business Transition Program (the program). Grant funding may be used for a range of activities, including planning, professional and technical advice, application of research and development innovations extension activities, and investment in on-farm infrastructure and improvements. These activities are intended to support the adoption of alternative farming systems and practices. Grant funding of up to $75,000 (GST exclusive) over both rounds, per eligible applicant is available. Costs incurred before a grant agreement is executed or the agreed activity start date are ineligible. Applicants are required to provide 1:1 cash co-contribution, matching the dollar value of the grant funding approved. In-kind contributions will not be accepted as matched funding. You must demonstrate you have actively participated in the live sheep exports by sea industry since 1 July 2020. Applicants from Round 1: Applicants awarded the maximum grant of $75,000 (GST exclusive) in Round 1 are not eligible to apply for further funding under Round 2. Applicants awarded less than the maximum grant of $75,000 (GST exclusive) under Round 1 may apply under Round 2 for up to the remaining balance of the grant funding for different grant activities. Applicants who were unsuccessful in Round 1 may apply in Round 2 for the same project or a different project. Funding for this program is provided under the Phase Out of Live Sheep Exports by Sea - transition assistance initiative.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=8dfa7a62-236c-41ed-99de-f8c06ecf0f74",
       "source": "GrantConnect"
     },
     {
@@ -63,78 +63,6 @@
       "source": "GrantConnect"
     },
     {
-      "title": "GO8448: National Early Childhood Program: Thriving Kids - Autism Helpline and Information Supports",
-      "goId": "GO8448",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The grant program aims to deliver a National Autism helpline and information supports for families, cares and kin of children aged 0–8 with autism or neuro-developmental concerns. It will be delivered as part of the Commonwealth’s Thriving Kids initiative, under the National Early Childhood Program (NECP). Delivery will support value for money investment by leveraging existing community-based helpline and digital web-based infrastructure. The main focus of the program will be on offering telephone-based supports, with information and resources in a digital hub as a secondary support. Support would improve early development outcomes by increasing access to evidence-based information, advice, and connection to community-based support. It will strengthen parents’ skills, to support their child or children, including supporting priority and vulnerable groups, such as Aboriginal and Torres Strait Islander, culturally and linguistically diverse, regional and remote children and families, and parents that may have disability. Information provided through the helpline and information hub will also support professionals working with families with a child with autism or neuro-developmental concerns. Thriving Kids complements this by promoting early identification of developmental needs, improving access to evidence-based supports, and empowering families through integrated national services. It emphasises child- and family-centred, culturally safe, and evidence-informed approaches delivered in accessible settings. Overall, the grant seeks to improve family knowledge and confidence, enhance early support pathways, and ensure better coordination across the broader Thriving Kids service system with an autism-specific focus. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side. NOTE: Please refer to the most recent version of the FAQs (Version 2) published on 15 June 2026.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=e949c8c9-f7a1-4051-b33f-97578bea5bee",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8379: National Tax Clinic Program First Nations Communities and Remote Communities - Grant Round 2",
-      "goId": "GO8379",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The objectives of the grant opportunity are to provide dedicated and targeted support for individual and small business taxpayers from First Nations Communities and Remote Communities in line with the stated objectives of the program: Provide advice to clients to better understand the tax system Represent unrepresented taxpayers and small businesses when they need to interact with the ATO Undertake educational activities to better inform students, taxpayers and the broader community on matters of interest and concern Advocate on behalf of clients when systemic taxation related issues are identified in their dealings with regulatory or government agencies The intended outcomes of this grant opportunity are: Increased financial literacy and economic outcomes by providing tailored tax and superannuation services for First Nations Communities and Remote Communities, including small businesses Enhanced understanding of Australia’s taxation and superannuation systems amongst services for First Nations Communities and Remote Communities Enhanced in-person engagement and access to information and services for First Nations Communities and Remote Communities Improved economic inclusion for First Nations Communities by better supporting participation in the taxation system",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=aceeffa8-a024-4c71-8ee0-87be8231258a",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8412: Livestock Transport Industry Transition - Round 2",
-      "goId": "GO8412",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "up to $40,000",
-      "summary": "The Australian Government is inviting applications through an open competitive process to apply for grants under Round 2 of the Livestock Transport Industry Transition Program (the program). The program will assist livestock transport businesses, including those who have made investments in transportation of sheep and the delivery of essential export-related goods such as feed, bedding, water systems, veterinary supplies and handling equipment specifically for the live sheep export by sea trade, to transition to other transport-related activities which may require further investment. Grant funding can be used for planning, professional and technical advice, training and co-funded investment in asset modification and acquisition. Grant funding of up to $40,000 (GST exclusive) over both rounds, covers up to 50% of eligible costs is available. Cash co-contribution of 1:1 is required - the applicant must match the dollar value of the grant funding approved. In-kind contributions are not accepted as matching funding. Costs incurred before a grant agreement is executed or the agreed activity start date are ineligible. You must demonstrate a connection to the live sheep export by sea trade since 1 July 2020. Applicants from Round 1 Applicants who were awarded the maximum grant of $40,000 (GST exclusive) in Round 1 are not eligible to apply for further funding under Round 2. Applicants awarded less than the maximum grant of $40,000 (GST exclusive) under Round 1 may apply under Round 2 for up to the remaining balance of the grant funding for different grant activities. Applicants who were unsuccessful in Round 1 may apply in Round 2 for the same project or a different project.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=e0af6b79-2df4-475d-afc4-5b540c5fc6ac",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO7982: MRFF 2026 National Critical Research Infrastructure",
-      "goId": "GO7982",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The 2026 National Critical Research Infrastructure initiative invests in research infrastructure to ensure Australian researchers find innovative solutions to complex health problems in areas of unmet medical need. This grant opportunity has four streams. Stream 1 - Innovation enablers Address an area of unmet medical need by promoting the development and implementation of new research infrastructure by supporting development and/or expansion of research enablers such as biobanks, tissue repositories, novel platforms, and secure health data environments to create valuable research resources. Stream 2 - Digitisation of health care Translate or implement innovative artificial intelligence technologies into health applications that: benefit multiple health disciplines/areas involve consumers in the research journey to ensure the research is applicable to the needs of the Australian community; and increase artificial intelligence workforce capacity and capability, particularly in relation to health, through cross-sector and interdisciplinary collaboration. Stream 3 - Co-investment partnerships Utilise co-investment (cash only) with the research sector, state and/or territory governments, and industry, in significant critical research infrastructure (e.g. facilities, personnel and equipment): to support development of research capacity, capability and/or effectiveness in an area of unmet medical need, or to enable Australian research using new platforms, systems and services in an area of unmet medical need. Stream 4 - mRNA technology enablers Leverage and enhance emerging mRNA technologies, platforms, and/or equipment to accelerate development of mRNA-based vaccines and therapeutics in an area of unmet medical need. An application may only be submitted to one of the above four streams. Applicants must specify the stream to which they are applying in their application.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=4017d163-0836-4fb9-b009-3145dc7d3b0d",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8416: Farm Business Transition - Round 2",
-      "goId": "GO8416",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "up to $75,000",
-      "summary": "Applicants may apply to both the Farm Business Transition and Supply Chain Capacity programs but won’t receive funding for the same activity from both. The Australian Government is inviting sheep producers to apply for Round 2 of the open competitive Farm Business Transition Program (the program). Grant funding may be used for a range of activities, including planning, professional and technical advice, application of research and development innovations extension activities, and investment in on-farm infrastructure and improvements. These activities are intended to support the adoption of alternative farming systems and practices. Grant funding of up to $75,000 (GST exclusive) over both rounds, per eligible applicant is available. Costs incurred before a grant agreement is executed or the agreed activity start date are ineligible. Applicants are required to provide 1:1 cash co-contribution, matching the dollar value of the grant funding approved. In-kind contributions will not be accepted as matched funding. You must demonstrate you have actively participated in the live sheep exports by sea industry since 1 July 2020. Applicants from Round 1: Applicants awarded the maximum grant of $75,000 (GST exclusive) in Round 1 are not eligible to apply for further funding under Round 2. Applicants awarded less than the maximum grant of $75,000 (GST exclusive) under Round 1 may apply under Round 2 for up to the remaining balance of the grant funding for different grant activities. Applicants who were unsuccessful in Round 1 may apply in Round 2 for the same project or a different project. Funding for this program is provided under the Phase Out of Live Sheep Exports by Sea - transition assistance initiative.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=8dfa7a62-236c-41ed-99de-f8c06ecf0f74",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8390: Disability Advocacy Support Program: Service Delivery",
-      "goId": "GO8390",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Government has identified three grant opportunities under the Disability Advocacy Support Program: Service Delivery (this Grant Opportunity) National Advocacy Helpline Sector Strengthening. The Service Delivery grant opportunity funds organisations to provide individual disability advocacy to people with disability, their families, carers and kin in defined service areas nationally. Services are expected to be delivered predominantly in person, where possible and appropriate. This includes the organisation’s business premises as well as community settings. Grantees must demonstrate the experience and capabilities needed to achieve program outcomes (Appendix A of the Grant Opportunity Guidelines). Non negotiable capabilities form eligibility criteria in the Guidelines, while desirable capabilities (Appendix B) may be developed over time. Six year grants will be offered to successful applicants with strong capabilities that improve national coverage, including: lead organisations in networks/consortia; individual providers able to deliver across large regions, including at national, state or territory coverage; and Aboriginal Community Controlled Organisations with advocacy experience. Applicants not fully meeting desired capabilities may receive three year grants and must show progress to be considered for funding beyond June 2029. Smaller organisations serving limited regions may apply, but are unlikely to receive six year grants due to limited funding and the focus on national coverage. This grant opportunity contributes to Outcome 4.1 – supporting people with disability and carers to participate in community and economic life. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side. Note: Please refer to the most recent version of the GoGs, FAQs and Attachment Pack published on 25 June 2026.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=5ae26103-8392-4637-a86e-1c396fe00022",
-      "source": "GrantConnect"
-    },
-    {
       "title": "GO8498: Medicare Thriving Kids",
       "goId": "GO8498",
       "agency": "",
@@ -144,6 +72,18 @@
       "amount": "",
       "summary": "Continue the operation and delivery of the Pregnancy, Birth and Baby (PBB) service and establish an information, advice and navigation service, leveraging the Commonwealth’s investment in technology for the 1800MEDICARE service delivered through Healthdirect Australia (Healthdirect). The PBB helpline and website is a national Australian Government service providing support and information for expecting parents and parents of children, from birth to 5 years of age administered by Healthdirect. The established service will deliver: • a redesigned Pregnancy, Birth and Baby (PBB) service providing dedicated midwifery-led support for parents and families from preconception to one-year postpartum via helpline, video call, website content and a mobile application. • advice and service-finding support to families, carers and others in the community who interact with children aged 1-8 with queries about early development and behavioural concerns. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=600f6174-6234-4a70-89c3-3a2251683ace",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8426: COP31 Climate Conference Travel Support Program",
+      "goId": "GO8426",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The objective of the grant opportunity is to support the travel of individuals from diverse and underrepresented groups, primarily First Nations Australians and youth (over the age of 18), to attend and contribute to Australia’s inclusive climate engagement at COP31, to be held in Antalya, Türkiye, from 9 to 20 November 2026. The intended outcomes of the grant opportunity are: enhance inclusion and diversity of Australian participation in COP31, the Australian National Pavilion and the COP Climate Action Agenda promote voices and perspectives of First Nations Australians and youth (over the age of 18) enhance relationships between the Australian Government and Australian stakeholders support participation and engagement in the Australian Pavilion’s events program and the COP Action Agenda facilitate support and engagement with Australia’s climate negotiations teams build practical and operational understanding of the UNFCCC and COP’s process amongst Australian groups and stakeholders.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=92d60d01-4b15-445b-877c-99bd756c239a",
       "source": "GrantConnect"
     },
     {
@@ -168,6 +108,18 @@
       "amount": "",
       "summary": "The Program will provide $7.376 million over 4 years to Blue Light Victoria to deliver prevention and early intervention activities that target young people aged 17 or younger involved in, or at risk of being involved in, the criminal justice system. It is expected that activities will be aimed at the participation of young people at-risk to decrease patterns of recidivism and provide alternative pathways for youth at-risk. This grant opportunity will run over 4 years from 2026-27 to 2029-30. The grant opportunity is part of the Department of Home Affairs Program 1.2 – National Security and Resilience, to provide services to support inclusive, safe and secure communities. The objectives of the grant opportunity are to: provide alternative pathways for young people who are at risk of being engaged in criminal and/or anti-social behaviour promote inclusion, build community resilience and strengthen family support structures enable young people at-risk to break patterns of recidivism and cyclical engagement in criminal activity help young people at-risk to develop life skills to prevent them from becoming entrenched in the criminal justice system and to promote inclusion and build community resilience. The intended outcomes of the grant opportunity are: improved engagement of young people at-risk in education, work ready programs and the community more generally decreased anti-social behaviour or engagement in criminal activity an increase in positive community and family engagement to reduce the incidence of engagement in criminal activity by young people at-risk and decrease recidivism rates among the same cohort.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=01565b5d-16b1-4177-9e9e-34e72d0066e1",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8476: National expansion of the Mental Health in Primary Schools (MHiPS) Program",
+      "goId": "GO8476",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The purpose of this grant opportunity is to support the national expansion of the existing Mental Health in Primary Schools (MHiPS) program, which helps primary schools recognise and respond to student mental health and wellbeing needs. This grant will not fund delivery of the existing MHiPS program. The grant will support two key components: Establishment of a national coordination office to guide consistent but flexible implementation of MHiPS across jurisdictions. Development of a tailored, place-based strategy for regional, rural and remote schools to test models suited to communities with fewer services and higher needs. This includes scoping and design work for national scale-up, engagement with state and territory governments to support readiness for potential statewide rollout, and work with jurisdictions to identify local needs while maintaining national consistency. It also includes accessible resources, tailored implementation proposals, partnership building across sectors, and sharing lessons from jurisdictions already piloting or delivering MHiPS. The place-based strategy will include community-led co-design with First Nations communities, CALD communities and local stakeholders, in partnership with Aboriginal and Torres Strait Islander researchers, experts and community members to ensure inclusive and culturally safe approaches. The grant will also support data collection, evaluation and reporting, including an interim report to the department by the end of August 2027. The objectives are to support jurisdictional readiness, strengthen coordination and capability, and generate national evidence to inform future policy and investment. In the short term, jurisdictions will be better prepared to implement MHiPS. Over time, MHiPS will be adapted for place-based contexts and implemented with greater consistency and quality. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=13b751b9-8530-4946-863c-ea4a114069f1",
       "source": "GrantConnect"
     },
     {
@@ -207,6 +159,18 @@
       "source": "GrantConnect"
     },
     {
+      "title": "GO8497: Remote Vocational Training Scheme (RVTS)",
+      "goId": "GO8497",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The purpose of the Remote Vocational Training Scheme (RVTS) grant is to provide funding to RVTS Ltd. for the delivery of General Practitioner (GP) and Rural Generalist (RG) fellowship education and training from the beginning of the 2027 training year through to the end of the 2030 training year. The RVTS provides vocational training for doctors to achieve fellowship with the Australian College of Rural and Remote Medicine (ACRRM), the Royal Australian College of General Practitioners (RACGP) or both Colleges. The RVTS is a three- or four-year training program (depending on fellowship endpoint) and focuses on facilitating structured distance education and supervision, including workforce retention in rural, remote and Aboriginal and Torres Strait Islander communities. The program supports doctors to complete specialist training under a place-based model through either a Remote or Aboriginal and Torres Strait Islander Health pathway. Through its workforce retention model the program supports GP and RG workforce stability and continuity of care in high need communities. Training is provided across two pathways: Remote Pathway: Doctors working in rural and remote regions MM 4-7 as classified by the Modified Monash Model (MMM). Aboriginal and Torres Strait Islander Health Pathway: Doctors working in Aboriginal Community Controlled Health Services (ACCHS) and Aboriginal Medical Services (AMS) within MM 2-7 locations. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=6f1bb80f-932f-4742-ac05-74263acc5169",
+      "source": "GrantConnect"
+    },
+    {
       "title": "GO8471: Targeted Call for Research: Reframing Women's Health 2026",
       "goId": "GO8471",
       "agency": "",
@@ -216,6 +180,18 @@
       "amount": "",
       "summary": "A Targeted Call for Research (TCR) is a one-time request for grant applications designed to stimulate research in a particular area that will benefit the health of Australians or address a specific health issue. A TCR specifies the scope and objectives of the research to be proposed, application requirements and procedures, and the review criteria to be applied in the evaluation of applications submitted in response to the TCR.This TCR aims to advance high-quality research that addresses critical gaps in women’s health and transforms how health and medical research is conceptualised, conducted, analysed, and translated. It seeks to strengthen the integration of sex- and gender-based approaches, broaden the understanding of women’s health beyond reproductive and sexual health, generating findings that can inform clinicians, policymakers, industry, and the public. The outcomes of this TCR will catalyse change in women’s health research and produce actionable evidence to improve health outcomes across the life course through innovative, multidisciplinary projects that address priority health issues for women.The objectives of the TCR are to facilitate research that: Improves the quality of sex- and gender- sensitive research design and reporting. Addresses priority health issues that disproportionately or differentially affect women. Builds researcher capability and shifts research culture. Mobilises collaboration and strengthen research ecosystems. Enhances translation into policy, education, and practice.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=f03d69f3-9285-4d49-99a4-ba931d6fa846",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8509: Destination Australia Cheung Kong Exchange Program 2027 (Round 6)",
+      "goId": "GO8509",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "This Grant Opportunity is for the Destination Australia Cheung Kong Exchange Program 2027 (DACKEP Round 6). The Department of Education invites Australian universities to apply for funding under DACKEP Round 6. This grant opportunity is available by invitation only to eligible Australian universities. Grant funding totalling $1.3 million is available for Round 6 and will be distributed equally among all universities that submit a successful application. If every invited university submits a successful application, each will receive approximately $31,700. DACKEP is a joint funding initiative of the Australian Government and the Cheung Kong Group. DACKEP provides funding to eligible universities to support scholarships for short-term student mobility opportunities for: Australian students to undertake study opportunities in select Asian countries; and Students from select Asian countries to undertake study opportunities in Australia. The program aims to strengthen partnerships between Australian universities and their counterparts across Asia while providing students with the benefits of an international study experience.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=0e483605-a0e9-46a5-9a54-07e7f3526d5a",
       "source": "GrantConnect"
     },
     {
@@ -240,6 +216,30 @@
       "amount": "Up to $20 million",
       "summary": "The Australian Government, through the Department of Agriculture, Fisheries and Forestry (the Department), invites applications for grants, through a targeted competitive process, under the Future Drought Fund Long-term Trials of Drought Resilient Farming Practices Program Round 3 (the Program). The Program builds on the success of the existing Long-term Trials Rounds 1 and 2, which are delivering projects to investigate innovative and transformational cropping, grazing, horticulture and mixed farming practices through the lens of drought resilience and associated risk management. The Program objectives remain the same as previous rounds, to investigate innovative farming practices and technologies through evidence-based trials to inform farmers, and foster transformational change to build economic, environmental and social resilience to drought and climate variability. The Program will support extensions to existing trials under the Long-term Trials Round 1 program and new projects from the recommended but unfunded applicants to the Long-term Trials Round 1 and Round 2 programs. Projects will commence from 2026–27. Up to $20 million (GST exclusive) is available over 4 years, with a minimum of $2 million and a maximum of $5 million per project. Projects must use robust, scientific trials to test, refine, and demonstrate the effectiveness of practices and technologies. This evidence-based approach is designed to support and drive adoption by providing farmers with the confidence to apply new techniques on farm and at scale. Larger and longer-term projects are encouraged to deliver lasting change.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=50ad2463-a47b-460e-92a5-d2f621baeec2",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8444: Discovery Indigenous for funding commencing in 2027",
+      "goId": "GO8444",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Discovery Indigenous scheme provides grant funding to support research projects conducted by Aboriginal and/or Torres Strait Islander researchers. The Discovery Indigenous scheme objectives are to: support the retention of excellent Aboriginal and/or Torres Strait Islander researchers in higher education institutions to expand research capacity in Australia; support excellent pure basic, strategic basic and applied research and research training, across all disciplines excluding clinical and other medical research, by Aboriginal and/or Torres Strait Islander researchers as individuals and as teams; enhance the scale and focus of research in Australian Government priority areas and create economic, commercial, environmental, social and/or cultural benefits for Australia; and support national and international research collaboration. The intended outcomes of the Discovery Indigenous scheme are: an expanded knowledge base and research capacity in Australia; and economic, commercial, environmental, social and/or cultural benefits for Australia.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=53a0c022-0d15-4b43-affb-ebffc61f123f",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8516: Mobile Black Spot Program - West Coast Tasmania Mobile Capacity Uplift Round",
+      "goId": "GO8516",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "up to $9.8 million",
+      "summary": "The Mobile Black Spot Program West Coast Tasmania Mobile Capacity Uplift Round (the Round) will provide grant funding of up to $9.8 million (GST exclusive) to boost mobile coverage and capacity in the Local Government Areas of Circular Head, Waratah-Wynyard, and West Coast on the west coast of Tasmania. Eligible grant activities include upgrades to mobile base stations and backhaul networks, and construction of new mobile base stations. This grant opportunity is funded under the Australian Government’s Better Connectivity Plan for Regional and Rural Australia.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=9bd2612e-bf6a-4c67-9da0-9a8f97910c65",
       "source": "GrantConnect"
     }
   ]
