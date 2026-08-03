@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T12:08:25.604Z",
+  "lastUpdated": "2026-08-03T12:49:03.356Z",
   "sources": [
     "GrantConnect",
     "Queensland Government",
@@ -7,8 +7,8 @@
   ],
   "sourceCounts": {
     "GrantConnect": {
-      "fetched": 113,
-      "matched": 66,
+      "fetched": 117,
+      "matched": 65,
       "displayed": 18
     },
     "Queensland Government": {
@@ -22,8 +22,8 @@
       "displayed": 0
     }
   },
-  "totalFetched": 113,
-  "totalMatched": 66,
+  "totalFetched": 117,
+  "totalMatched": 65,
   "totalDisplayed": 18,
   "grants": [
     {
@@ -39,18 +39,6 @@
       "source": "GrantConnect"
     },
     {
-      "title": "GO8416: Farm Business Transition - Round 2",
-      "goId": "GO8416",
-      "agency": "",
-      "category": "",
-      "closeDate": "2026-07-22T00:00:00.000Z",
-      "closeDateText": "22 July 2026",
-      "amount": "up to $75,000",
-      "summary": "This round has been extended to close at 7:00 pm AWST/9:00 pm AEST on 22 July 2026. Applicants may apply to both the Farm Business Transition and Supply Chain Capacity programs but won’t receive funding for the same activity from both. The Australian Government is inviting sheep producers to apply for Round 2 of the open competitive Farm Business Transition Program (the program). Grant funding may be used for a range of activities, including planning, professional and technical advice, application of research and development innovations extension activities, and investment in on-farm infrastructure and improvements. These activities are intended to support the adoption of alternative farming systems and practices. Grant funding of up to $75,000 (GST exclusive) over both rounds, per eligible applicant is available. Costs incurred before a grant agreement is executed or the agreed activity start date are ineligible. Applicants are required to provide 1:1 cash co-contribution, matching the dollar value of the grant funding approved. In-kind contributions will not be accepted as matched funding. You must demonstrate you have actively participated in the live sheep exports by sea industry since 1 July 2020. Applicants from Round 1: Applicants awarded the maximum grant of $75,000 (GST exclusive) in Round 1 are not eligible to apply for further funding under Round 2. Applicants awarded less than the maximum grant of $75,000 (GST exclusive) under Round 1 may apply under Round 2 for up to the remaining balance of the grant funding for different grant activities. Applicants who were unsuccessful in Round 1 may apply in Round 2 for the same project or a different project. Funding for this program is provided under the Phase Out of Live Sheep Exports by Sea - transition assistance initiative.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=8dfa7a62-236c-41ed-99de-f8c06ecf0f74",
-      "source": "GrantConnect"
-    },
-    {
       "title": "GO8220: Saluting their Service Commemorative Grants Program 2026–27",
       "goId": "GO8220",
       "agency": "",
@@ -58,68 +46,8 @@
       "closeDate": "2026-07-29T00:00:00.000Z",
       "closeDateText": "29 July 2026",
       "amount": "up to $10,000",
-      "summary": "Assessment and notification of outcomes will be into 2 batches. The table below identifies the cut-off dates for all 2 batches: Batch 1 - closes 9:00 PM AEST on 29 July 2026 - ID 2025-5415 - Open Batch 2 - closes 9:00 PM AEDT 21 January 2027 - ID 2025-5416 - Closed The Australian Government is inviting eligible organisations to apply for grant funding under the Saluting Their Service Commemorative Grants Program (STS program). The objective of the STS Program is to commemorate the service and sacrifice of Australia’s service personnel who served in wars, conflicts and peace operations, including National Service personnel, and their families. The intended outcome of the STS Program is to provide funding for projects and activities that: promote appreciation and understanding of the experiences of service, and the role of service personnel preserve, add to the sum of knowledge on, or provide access to information about Australia’s wartime heritage. 1. Community Grants Grants up to $10,000 are available for projects and activities that: are focused on the local community commemorate the service and sacrifice of local community members are primarily accessed by the local community. 2. Major Grants Grants between $10,001 and $150,000 are available for major commemorative projects and activities that are significant from a national, state, territory and/or broader regional perspective. These projects may include the construction of new war or peace memorials where none currently exist, as well as additions to existing memorials. If your project relates to restoring or changing a memorial or other commemorative artefact, there may be heritage and conservation considerations.",
+      "summary": "Assessment and notification of outcomes will be into 2 batches. The table below identifies the cut-off dates for all 2 batches: Batch 1 - closes 9:00 PM AEST on 29 July 2026 - ID 2025-5415 - Closed Batch 2 - closes 9:00 PM AEDT 21 January 2027 - ID 2025-5416 - Open. The Australian Government is inviting eligible organisations to apply for grant funding under the Saluting Their Service Commemorative Grants Program (STS program). The objective of the STS Program is to commemorate the service and sacrifice of Australia’s service personnel who served in wars, conflicts and peace operations, including National Service personnel, and their families. The intended outcome of the STS Program is to provide funding for projects and activities that: promote appreciation and understanding of the experiences of service, and the role of service personnel preserve, add to the sum of knowledge on, or provide access to information about Australia’s wartime heritage. 1. Community Grants Grants up to $10,000 are available for projects and activities that: are focused on the local community commemorate the service and sacrifice of local community members are primarily accessed by the local community. 2. Major Grants Grants between $10,001 and $150,000 are available for major commemorative projects and activities that are significant from a national, state, territory and/or broader regional perspective. These projects may include the construction of new war or peace memorials where none currently exist, as well as additions to existing memorials. If your project relates to restoring or changing a memorial or other commemorative artefact, there may be heritage and conservation considerations.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=f6ed4eff-7fcd-48ed-9641-9409d12012b9",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8498: Medicare Thriving Kids",
-      "goId": "GO8498",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "Continue the operation and delivery of the Pregnancy, Birth and Baby (PBB) service and establish an information, advice and navigation service, leveraging the Commonwealth’s investment in technology for the 1800MEDICARE service delivered through Healthdirect Australia (Healthdirect). The PBB helpline and website is a national Australian Government service providing support and information for expecting parents and parents of children, from birth to 5 years of age administered by Healthdirect. The established service will deliver: • a redesigned Pregnancy, Birth and Baby (PBB) service providing dedicated midwifery-led support for parents and families from preconception to one-year postpartum via helpline, video call, website content and a mobile application. • advice and service-finding support to families, carers and others in the community who interact with children aged 1-8 with queries about early development and behavioural concerns. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=600f6174-6234-4a70-89c3-3a2251683ace",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8426: COP31 Climate Conference Travel Support Program",
-      "goId": "GO8426",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The objective of the grant opportunity is to support the travel of individuals from diverse and underrepresented groups, primarily First Nations Australians and youth (over the age of 18), to attend and contribute to Australia’s inclusive climate engagement at COP31, to be held in Antalya, Türkiye, from 9 to 20 November 2026. The intended outcomes of the grant opportunity are: enhance inclusion and diversity of Australian participation in COP31, the Australian National Pavilion and the COP Climate Action Agenda promote voices and perspectives of First Nations Australians and youth (over the age of 18) enhance relationships between the Australian Government and Australian stakeholders support participation and engagement in the Australian Pavilion’s events program and the COP Action Agenda facilitate support and engagement with Australia’s climate negotiations teams build practical and operational understanding of the UNFCCC and COP’s process amongst Australian groups and stakeholders.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=92d60d01-4b15-445b-877c-99bd756c239a",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8107: Regional Airports Program - Round 5",
-      "goId": "GO8107",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "up to $15 million",
-      "summary": "The program provides grants to improve the safety, accessibility and climate resilience of airports and aerodromes in regional areas of Australia. It will support critical air infrastructure that will: improve the safety of aircraft, operators and passengers using regional airports or aerodromes facilitate improved delivery of essential goods and services such as food supplies, health care and passenger air services improve the connectivity of Australia’s regions to domestic and global market opportunities meet the operational requirements of aeromedical and other emergency services in the region assist air services to transition to net zero aviation technology. There is a total of up to $15 million available for this grant round. Grants will be from $20,000 to $5 million. The grant amount will be up to 50% of eligible project costs (grant percentage). If the applicant (you) and a third party (this could include state, territory or local government or other non-government funding) are both contributing to eligible project costs, the grant amount for this opportunity may be reduced to a third of eligible project costs.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=0055696f-687d-46bf-a9c1-769f532de180",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8424: Strengthening Community Safety - Blue Light Victoria",
-      "goId": "GO8424",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Program will provide $7.376 million over 4 years to Blue Light Victoria to deliver prevention and early intervention activities that target young people aged 17 or younger involved in, or at risk of being involved in, the criminal justice system. It is expected that activities will be aimed at the participation of young people at-risk to decrease patterns of recidivism and provide alternative pathways for youth at-risk. This grant opportunity will run over 4 years from 2026-27 to 2029-30. The grant opportunity is part of the Department of Home Affairs Program 1.2 – National Security and Resilience, to provide services to support inclusive, safe and secure communities. The objectives of the grant opportunity are to: provide alternative pathways for young people who are at risk of being engaged in criminal and/or anti-social behaviour promote inclusion, build community resilience and strengthen family support structures enable young people at-risk to break patterns of recidivism and cyclical engagement in criminal activity help young people at-risk to develop life skills to prevent them from becoming entrenched in the criminal justice system and to promote inclusion and build community resilience. The intended outcomes of the grant opportunity are: improved engagement of young people at-risk in education, work ready programs and the community more generally decreased anti-social behaviour or engagement in criminal activity an increase in positive community and family engagement to reduce the incidence of engagement in criminal activity by young people at-risk and decrease recidivism rates among the same cohort.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=01565b5d-16b1-4177-9e9e-34e72d0066e1",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8476: National expansion of the Mental Health in Primary Schools (MHiPS) Program",
-      "goId": "GO8476",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The purpose of this grant opportunity is to support the national expansion of the existing Mental Health in Primary Schools (MHiPS) program, which helps primary schools recognise and respond to student mental health and wellbeing needs. This grant will not fund delivery of the existing MHiPS program. The grant will support two key components: Establishment of a national coordination office to guide consistent but flexible implementation of MHiPS across jurisdictions. Development of a tailored, place-based strategy for regional, rural and remote schools to test models suited to communities with fewer services and higher needs. This includes scoping and design work for national scale-up, engagement with state and territory governments to support readiness for potential statewide rollout, and work with jurisdictions to identify local needs while maintaining national consistency. It also includes accessible resources, tailored implementation proposals, partnership building across sectors, and sharing lessons from jurisdictions already piloting or delivering MHiPS. The place-based strategy will include community-led co-design with First Nations communities, CALD communities and local stakeholders, in partnership with Aboriginal and Torres Strait Islander researchers, experts and community members to ensure inclusive and culturally safe approaches. The grant will also support data collection, evaluation and reporting, including an interim report to the department by the end of August 2027. The objectives are to support jurisdictional readiness, strengthen coordination and capability, and generate national evidence to inform future policy and investment. In the short term, jurisdictions will be better prepared to implement MHiPS. Over time, MHiPS will be adapted for place-based contexts and implemented with greater consistency and quality. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=13b751b9-8530-4946-863c-ea4a114069f1",
       "source": "GrantConnect"
     },
     {
@@ -219,6 +147,18 @@
       "source": "GrantConnect"
     },
     {
+      "title": "GO8505: Rural Health Multidisciplinary Training Program (2027-2031)",
+      "goId": "GO8505",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The purpose of this grant opportunity is to encourage, prepare and support health students (including First Nations students) to pursue health careers in MMM 2-7 areas of Australia through training, recruitment, selection, education, and research activities which are innovative, agile, and in line with available evidence on improved rural health workforce recruitment and retention. The Rural Health Multidisciplinary Training Program (RHMT) supports health students to undertake rural training through a network of rural clinical schools, university departments of rural health, dental faculties offering extended rural placements, and end-to-end rural medical training arrangements. The RHMT also supports regional training hubs, which build medical training pathways within a region and guide students and trainees through these. The aim of the RHMT is to improve the recruitment and retention of health professionals in rural and remote Australia. The Government has announced RHMT reforms to strengthen rural workforce outcomes, consolidate funding streams, improve delivery and reduce administrative burden. The reformed RHMT will: • shift to an outcomes-focused model for rural retention and workforce shortages • strengthen universities’ roles in meeting local and national workforce needs • encourage innovation and agility • remove outdated requirements and focus on longer-term outcomes • support continuous improvement across the RHMT network • reduce red tape and administrative burden • enhance qualitative and quantitative reporting • provide greater funding certainty to universities. A Briefing Session will be held at 2:00pm (AEST) on 30 July 2026. See attachment for details. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=de337c34-cf77-47e2-9224-98e85c8e579a",
+      "source": "GrantConnect"
+    },
+    {
       "title": "GO8444: Discovery Indigenous for funding commencing in 2027",
       "goId": "GO8444",
       "agency": "",
@@ -231,6 +171,18 @@
       "source": "GrantConnect"
     },
     {
+      "title": "GO8524: Great Barrier Reef Marine Debris Management and Mitigation Round 2",
+      "goId": "GO8524",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Australian Government is inviting organisations in an open process to apply to deliver services under this grant opportunity. Objectives of the Round 2 grant opportunity are to: deliver large scale management and reduction of the threat of marine debris to species such as coral, turtles, dugongs and seabirds mitigate negative impacts of marine debris on tourism, recreation and fishing (commercial and recreational) within the Reef support activities that reduce water pollution from urban sources within Reef catchments improve water quality through the removal of marine debris from Reef coastlines and urban waterways develop and deliver targeted education and awareness raising activities to reduce and prevent litter, including plastics, from entering Reef waterways encourage greater community stewardship and involvement, including with First Nations peoples, promoting a shared sense of responsibility for Reef pollutants inform and contribute to wider plastic management and mitigation strategic policy for state and/or national scale implementation identify and support local or regional opportunities in circular or renewable material economies and/or activities.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=90672985-8ab2-441d-9d4e-8a1fc2e2a72d",
+      "source": "GrantConnect"
+    },
+    {
       "title": "GO8516: Mobile Black Spot Program - West Coast Tasmania Mobile Capacity Uplift Round",
       "goId": "GO8516",
       "agency": "",
@@ -240,6 +192,54 @@
       "amount": "up to $9.8 million",
       "summary": "The Mobile Black Spot Program West Coast Tasmania Mobile Capacity Uplift Round (the Round) will provide grant funding of up to $9.8 million (GST exclusive) to boost mobile coverage and capacity in the Local Government Areas of Circular Head, Waratah-Wynyard, and West Coast on the west coast of Tasmania. Eligible grant activities include upgrades to mobile base stations and backhaul networks, and construction of new mobile base stations. This grant opportunity is funded under the Australian Government’s Better Connectivity Plan for Regional and Rural Australia.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=9bd2612e-bf6a-4c67-9da0-9a8f97910c65",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8269: DRIVEN - Charger Grant Stream",
+      "goId": "GO8269",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The DRIVEN Charger Grant Stream grant opportunity makes $20 million available for the installation of new, public, fast EV charging stations at automotive dealership and EV repairer premises and, in turn, bolsters Australia’s public fast charger network. The objectives of the DRIVEN Charger Grant Stream are to: deliver charging stations at automotive dealership and EV repairer premises encourage installation of charging stations in regional areas of Australia support automotive dealerships and EV repairers looking to host charging stations facilitate partnerships between Australian automotive dealerships or EV repairers and EV charging businesses (e.g. Charge Point Operators). Register of interested site hosts To assist potential applicants, the Department of Climate Change, Energy, the Environment and Water (DCCEEW) will facilitate a registration of interest process for potential site hosts (dealerships and EV repairers) interested in hosting charging stations. This register is intended to support partnership development and help applicants identify suitable sites for their projects. Use of the register is not mandatory and applicants may still identify suitable sites and site hosts not contained in the register. Access the DRIVEN Public EV Charging - Site Host Registration of Interest.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=b9dbca63-d3ec-45c7-8118-b39b15f2019a",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8139: First Nations Clean Energy Advice Grants Round 1",
+      "goId": "GO8139",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The First Nations Clean Energy Advice Grants Round 1 was announced as part of the implementation of the Government’s First Nations Clean Energy Strategy. The objectives of the program are to support First Nations communities to participate in clean energy development and: build clean energy project skills and knowledge access technical and professional support make informed decisions as per principles of Free, Prior and Informed Consent (FPIC). The intended outcomes of the program are for First Nations communities to gain increased: access to technical and professional support confidence in engagement with clean energy developers and clean energy development opportunities collaboration and engagement with the clean energy industry clean energy project skills and knowledge participation in clean energy projects benefits from participation in clean energy development. Round 1 of the program will run from 2025-26 to 2026-27.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=3a2d235f-3373-41cf-9eb7-9c77be3b4a26",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8527: WA Roadmap Implementation Fund: Farm System Productivity Program",
+      "goId": "GO8527",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The program was announced as part of the $5.0 million WA Roadmap Implementation Fund in support of the recommendations in the WA Sheep Industry Roadmap to 2028 (the Roadmap)(www.thefutureflock.com.au/wa-roadmap-to-2028). The Roadmap sets out a forward-looking plan to guide Western Australia’s (WA) sheep industry transition away from live sheep exports by sea. Developed by industry and informed by extensive consultation, it identifies key challenges and opportunities and outlines a clear, practical path for growth, innovation and sustainability. The Roadmap outlines strategies and initiatives to address these challenges and opportunities, guiding future development, investment and collaboration. The program targets opportunities identified in the Roadmap and supports projects that are aligned with the strategies and initiatives identified in the Roadmap against the three goals: The whole supply chain operating efficiently to optimise market value and profitability Informed, confident decision-making across the industry A vibrant, positive and collaborative industry culture The program will consider a broad range of project proposals from the not-for-profit and commercial sectors to improve productivity, profitability and industry collaboration in implementing the Roadmap. Successful project proposals will demonstrate benefit to the broader WA sheep industry. The objective of this grant opportunity is: To assist sheep producers affected by the phase out of live sheep exports by sea by supporting projects that will enhanceon-farm systems and productivity, improve whole of supply chain profitability, and support a more collaborative industry culture. The intended outcome of this grant opportunity is: To improve confidence and productivity in farm systems as sheep producers adjust to changing markets and transition away from live sheep exports by sea.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=70f2ab8f-0a02-455c-b550-0f265d1af1f6",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8511: Round 3 – Closing the Gap – Major Capital Works Program – 2026-27",
+      "goId": "GO8511",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "up to $180 million",
+      "summary": "For this grant opportunity, up to $180 million is available over two years (2026–27 to 2027–28). The funding aims to strengthen the Aboriginal Community Controlled Health Service (ACCHS) sector through improved infrastructure, including new and upgraded health clinics and associated housing for health professionals. Two funding rounds totalling $210 million have already been delivered under the Closing the Gap Major Capital Works (MCW) Program (Round 1 through GO5504 and Round 2 through GO6522). The current round represents Round 3 of the Closing the Gap MCW Program. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=710a8500-2a58-4cee-bb2b-2dc93511da30",
       "source": "GrantConnect"
     }
   ]
