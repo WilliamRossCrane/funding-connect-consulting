@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T12:49:03.356Z",
+  "lastUpdated": "2026-08-17T10:21:11.693Z",
   "sources": [
     "GrantConnect",
     "Queensland Government",
@@ -7,8 +7,8 @@
   ],
   "sourceCounts": {
     "GrantConnect": {
-      "fetched": 117,
-      "matched": 65,
+      "fetched": 121,
+      "matched": 68,
       "displayed": 18
     },
     "Queensland Government": {
@@ -22,8 +22,8 @@
       "displayed": 0
     }
   },
-  "totalFetched": 117,
-  "totalMatched": 65,
+  "totalFetched": 121,
+  "totalMatched": 68,
   "totalDisplayed": 18,
   "grants": [
     {
@@ -51,90 +51,6 @@
       "source": "GrantConnect"
     },
     {
-      "title": "GO8468: New Colombo Plan Mobility Program 2027 Round",
-      "goId": "GO8468",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The strategic objective of the New Colombo Plan (NCP), as described in Program 1.5 of the Department of Foreign Affairs and Trade (DFAT) Portfolio Budget Statement (PBS) is to advance Australia’s interests and bilateral relationships through enduring people-to-people, institutional and business links with the Indo-Pacific region. The intended outcomes of the NCP are: for participants to acquire Indo-Pacific capability and Asia literacy to foster deeper people-to-people and education relationships between Australia and the Indo-Pacific, and to increase Australia's economic engagement with the region by supporting NCP participants to build job-ready skills, and supporting NCP alumni to maintain their ties to the Indo-Pacific. The 2027 NCP Mobility Program will provide funding to Australian universities to deliver 4–9 week mobility projects. The objective of the NCP Mobility Program is to support Australian undergraduate students to develop Indo-Pacific capability by undertaking shorter term programs in the region, including structured learning, internships, mentorships, practicums and research, in areas of Australia’s strategic interests. The intended outcomes of the NCP Mobility Program include: participants develop their Indo-Pacific knowledge and capability, including language skills, in line with Australia’s strategic interests Australian universities leverage institutional partnerships in the Indo-Pacific and there is an expansion of engagement with counterpart institutions in priority host locations and languages alumni maintain and develop their Indo-Pacific capability, including language skills, and engagement with the region, and from the 2027 Round, strengthened First Nations engagement in the Indo-Pacific, including growing First Nations trade and investment with our region.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=0bc903df-c277-4cd5-b12c-3c2fed675b6c",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8470: New Colombo Plan Scholarship Program 2027 Round",
-      "goId": "GO8470",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The strategic objective of the New Colombo Plan (NCP), as described in Program 1.5 of the Department of Foreign Affairs and Trade (DFAT) Portfolio Budget Statement is to advance Australia’s interests and bilateral relationships through enduring people-to-people, institutional and business links with the Indo-Pacific region. The intended outcomes of the NCP are: for participants to acquire Indo-Pacific capability and Asia literacy to foster deeper people-to-people and education relationships between Australia and the Indo-Pacific, and to increase Australia’s economic engagement with the region by supporting NCP participants to build job-ready skills, and supporting NCP alumni to maintain their ties to the Indo-Pacific. The 2027 NCP Scholarship Program will provide scholarships for up to 19 months in eligible Indo-Pacific host locations. The objective of the NCP Scholarship Program is to provide opportunities for Australian undergraduate students to strengthen their Indo-Pacific capability and Asia literacy, including in priority Asian languages, through immersive, long-term structured learning and internships in the region, in areas of Australia’s strategic and economic interests. The intended outcomes of the NCP Scholarship Program include: scholars strengthen their Indo-Pacific capability and Asia literacy in areas of Australia’s strategic interest, including in priority host locations, languages and sectors scholars are supported to engage with Australian business operating in the region, including through internships, to build the cohort of work-ready, Indo-Pacific capable Australians and to increase Australia’s economic engagement with the region, and program alumni maintain their Indo-Pacific knowledge and capability, including language skills, and undertake continued engagement with the Indo-Pacific.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=17f8bdc8-5543-49bf-84ae-cf22846e4e61",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8467: New Colombo Plan Semester Program 2027 Round",
-      "goId": "GO8467",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The strategic objective of the New Colombo Plan (NCP), as described in Program 1.5 of the Department of Foreign Affairs and Trade (DFAT) Portfolio Budget Statement (PBS) is to advance Australia’s interests and bilateral relationships through enduring people-to-people, institutional and business links with the Indo-Pacific region. The intended outcomes of the NCP are: for participants to acquire Indo-Pacific capability and Asia literacy to foster deeper people-to-people and education relationships between Australia and the Indo-Pacific, and to increase Australia's economic engagement with the region by supporting NCP participants to build job-ready skills, and supporting NCP alumni to maintain their ties to the Indo-Pacific. The 2027 NCP Semester Program will provide funding to Australian universities to leverage their partnership arrangements to support 1 to 2 semester-length experiences for Australian undergraduate students. Credit-bearing internships and other programs that contribute to mandatory course completion can also be undertaken. The objective of the NCP Semester Program is to provide opportunities for Australian undergraduate students to build their Indo-Pacific capability and Asia literacy, including Asian language learning, through semester-length structured learning programs in areas of Australia’s strategic and economic interests. The intended outcomes of the NCP Semester Program include: participants develop their Indo-Pacific knowledge and capability, including language skills, in line with Australia’s strategic and economic interests Australian universities leverage institutional partnerships in the Indo-Pacific and there is an expansion of engagement with counterpart institutions in priority host locations, languages and sectors, and alumni maintain and develop their Indo-Pacific capability, including language skills, and engagement with the region.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=60c4a2ff-f44c-4ae7-8538-c9ed59473ac5",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8497: Remote Vocational Training Scheme (RVTS)",
-      "goId": "GO8497",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The purpose of the Remote Vocational Training Scheme (RVTS) grant is to provide funding to RVTS Ltd. for the delivery of General Practitioner (GP) and Rural Generalist (RG) fellowship education and training from the beginning of the 2027 training year through to the end of the 2030 training year. The RVTS provides vocational training for doctors to achieve fellowship with the Australian College of Rural and Remote Medicine (ACRRM), the Royal Australian College of General Practitioners (RACGP) or both Colleges. The RVTS is a three- or four-year training program (depending on fellowship endpoint) and focuses on facilitating structured distance education and supervision, including workforce retention in rural, remote and Aboriginal and Torres Strait Islander communities. The program supports doctors to complete specialist training under a place-based model through either a Remote or Aboriginal and Torres Strait Islander Health pathway. Through its workforce retention model the program supports GP and RG workforce stability and continuity of care in high need communities. Training is provided across two pathways: Remote Pathway: Doctors working in rural and remote regions MM 4-7 as classified by the Modified Monash Model (MMM). Aboriginal and Torres Strait Islander Health Pathway: Doctors working in Aboriginal Community Controlled Health Services (ACCHS) and Aboriginal Medical Services (AMS) within MM 2-7 locations. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=6f1bb80f-932f-4742-ac05-74263acc5169",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8471: Targeted Call for Research: Reframing Women's Health 2026",
-      "goId": "GO8471",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "A Targeted Call for Research (TCR) is a one-time request for grant applications designed to stimulate research in a particular area that will benefit the health of Australians or address a specific health issue. A TCR specifies the scope and objectives of the research to be proposed, application requirements and procedures, and the review criteria to be applied in the evaluation of applications submitted in response to the TCR.This TCR aims to advance high-quality research that addresses critical gaps in women’s health and transforms how health and medical research is conceptualised, conducted, analysed, and translated. It seeks to strengthen the integration of sex- and gender-based approaches, broaden the understanding of women’s health beyond reproductive and sexual health, generating findings that can inform clinicians, policymakers, industry, and the public. The outcomes of this TCR will catalyse change in women’s health research and produce actionable evidence to improve health outcomes across the life course through innovative, multidisciplinary projects that address priority health issues for women.The objectives of the TCR are to facilitate research that: Improves the quality of sex- and gender- sensitive research design and reporting. Addresses priority health issues that disproportionately or differentially affect women. Builds researcher capability and shifts research culture. Mobilises collaboration and strengthen research ecosystems. Enhances translation into policy, education, and practice.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=f03d69f3-9285-4d49-99a4-ba931d6fa846",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8509: Destination Australia Cheung Kong Exchange Program 2027 (Round 6)",
-      "goId": "GO8509",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "This Grant Opportunity is for the Destination Australia Cheung Kong Exchange Program 2027 (DACKEP Round 6). The Department of Education invites Australian universities to apply for funding under DACKEP Round 6. This grant opportunity is available by invitation only to eligible Australian universities. Grant funding totalling $1.3 million is available for Round 6 and will be distributed equally among all universities that submit a successful application. If every invited university submits a successful application, each will receive approximately $31,700. DACKEP is a joint funding initiative of the Australian Government and the Cheung Kong Group. DACKEP provides funding to eligible universities to support scholarships for short-term student mobility opportunities for: Australian students to undertake study opportunities in select Asian countries; and Students from select Asian countries to undertake study opportunities in Australia. The program aims to strengthen partnerships between Australian universities and their counterparts across Asia while providing students with the benefits of an international study experience.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=0e483605-a0e9-46a5-9a54-07e7f3526d5a",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8429: Future Drought Fund Drought Resilience Hubs",
-      "goId": "GO8429",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Australian Government is inviting applications via an open process to apply to deliver services under the Future Drought Fund Drought Resilience Hubs Program nationally from 2026–27 to 2031–2032. The program will establish 7 Drought Resilience Hubs (Hubs) across Australia, with the vision to build drought resilience across the drought cycle by connecting farmers and communities to regional experts, innovations, new practices and services. The objectives of the program are: to facilitate the delivery of place-based extension and adoption activities with a realistic prospect of impact strong collaboration across the 7 Hubs, with Australian, state and territory governments, Research and Development Corporations and other relevant bodies robust governance frameworks that enable efficient, effective delivery with strong transparency and accountability mechanisms to build stakeholder trust. The outcomes of the program are: increased farmer and community understanding of drought-resilient practices, innovations and services increased adoption of drought-resilient practices by farmers and regional and rural communities improved analysis and understanding by Hubs, Hub partners and government policymakers of drought-resilient extension and adoption gaps in the service region and identification of place-based solutions improved collaborative planning and delivery of drought-resilient activities between Hubs, state and territory governments, Research and Development Corporations, and industry/community stakeholders improved linkages between farmers and communities’ research needs and experts and researchers to support co-designed research solutions.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=2cdb7803-d4f8-42fc-b45f-6f91a9b3aa21",
-      "source": "GrantConnect"
-    },
-    {
       "title": "GO8482: Long-term Trials of Drought Resilient Farming Practices Program Round 3",
       "goId": "GO8482",
       "agency": "",
@@ -147,6 +63,42 @@
       "source": "GrantConnect"
     },
     {
+      "title": "GO8521: Carer Peak Body Organisational Support and National Carers Week",
+      "goId": "GO8521",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Carers Peak Body Organisation Support and National Carers Week programs (the programs) will run over 5 years from 2026-27 to 2030-31. The program is a continuation of the Carer Peak Bodies and National Carers Week program (2019-25). It provides organisation support for peak representation of carers and their interests as representatives. The program would receive funding of $4,725,000 (indexed) to continue to provide organisation support for peak representation of carers and their interests as representatives into 2030-31. The purpose of this grant opportunity is twofold: to represent the Australian Government as the National Carers Peak Body and to deliver on the objectives of both the Carers Peak Body Organisation Support and National Carers Week programs. Expected outcomes include improved policies and services, greater recognition of carers, increased community awareness, stronger engagement, and better access to supports. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=10a7d69a-bf73-4ac6-82db-3c0a8dc3b63d",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8520: Carer Inclusive Workplace Initiative",
+      "goId": "GO8520",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Carer Inclusive Workplace Initiative Program (the program) will run over 2 years from 2026-27 to 2027-28. This grant program supports the Australian Government’s contribution to outcomes for Disability and Carers by advancing the objectives of Program 4.1 - Disability and Carers. The objective of the grant opportunity is to assist and encourage employers to develop and adopt practices that encourages and support employees with caring responsibilities. The purpose of this grant opportunity is to expand carer inclusivity in workplaces around Australia. It will enable businesses, in particular small businesses, to self-identify as a carer inclusive organisation without the time commitment and cost associated with a full accreditation process. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=4ee7561c-d258-4a18-8424-c85caa6428e5",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8552: 2026-27 Grants in Aid Program",
+      "goId": "GO8552",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Australian Government is inviting national ex-service organisations (ESOs) through a closed non-competitive process to apply to deliver services under the Grants in Aid (GIA) Program, which forms part of Program 2.4 Veterans’ Community Care and Support. The 2026-27 GIA Program aims to support the role of national ESOs to provide coordinating and representational support for the Australian veteran and Defence community. This program is open to national ESOs by invitation and provides funding to encourage cooperation and communication between the ex-service community, ESOs and the Australian Government. Funding for national ESOs aims to encourage the national advancement of the objectives of ESOs. The objective of the grant opportunity is to fund discrete projects or activities by national ESOs that address a specific problem or issue and achieve a clear benefit to the ex-service and Defence community. The intended outcomes of the program are to: · assist national ESOs to support their branches, sub-branches and affiliated organisations in performing compensation and/or wellbeing advocacy or wellbeing support work · assist national ESOs to advance the objectives of all ESOs more generally · assist national ESOs to improve co-operation and communication between national bodies, branches, sub-branches and affiliated organisations on repatriation and military compensation matters · encourage co-operation and communication between the ex-service community, ESOs and the Australian Government.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=ca1e59bf-3580-419d-ad78-fb75f3e6725e",
+      "source": "GrantConnect"
+    },
+    {
       "title": "GO8505: Rural Health Multidisciplinary Training Program (2027-2031)",
       "goId": "GO8505",
       "agency": "",
@@ -154,7 +106,7 @@
       "closeDate": "",
       "closeDateText": "",
       "amount": "",
-      "summary": "The purpose of this grant opportunity is to encourage, prepare and support health students (including First Nations students) to pursue health careers in MMM 2-7 areas of Australia through training, recruitment, selection, education, and research activities which are innovative, agile, and in line with available evidence on improved rural health workforce recruitment and retention. The Rural Health Multidisciplinary Training Program (RHMT) supports health students to undertake rural training through a network of rural clinical schools, university departments of rural health, dental faculties offering extended rural placements, and end-to-end rural medical training arrangements. The RHMT also supports regional training hubs, which build medical training pathways within a region and guide students and trainees through these. The aim of the RHMT is to improve the recruitment and retention of health professionals in rural and remote Australia. The Government has announced RHMT reforms to strengthen rural workforce outcomes, consolidate funding streams, improve delivery and reduce administrative burden. The reformed RHMT will: • shift to an outcomes-focused model for rural retention and workforce shortages • strengthen universities’ roles in meeting local and national workforce needs • encourage innovation and agility • remove outdated requirements and focus on longer-term outcomes • support continuous improvement across the RHMT network • reduce red tape and administrative burden • enhance qualitative and quantitative reporting • provide greater funding certainty to universities. A Briefing Session will be held at 2:00pm (AEST) on 30 July 2026. See attachment for details. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "summary": "The purpose of this grant opportunity is to encourage, prepare and support health students (including First Nations students) to pursue health careers in MMM 2-7 areas of Australia through training, recruitment, selection, education, and research activities which are innovative, agile, and in line with available evidence on improved rural health workforce recruitment and retention. The Rural Health Multidisciplinary Training Program (RHMT) supports health students to undertake rural training through a network of rural clinical schools, university departments of rural health, dental faculties offering extended rural placements, and end-to-end rural medical training arrangements. The RHMT also supports regional training hubs, which build medical training pathways within a region and guide students and trainees through these. The aim of the RHMT is to improve the recruitment and retention of health professionals in rural and remote Australia. The Government has announced RHMT reforms to strengthen rural workforce outcomes, consolidate funding streams, improve delivery and reduce administrative burden. The reformed RHMT will: • shift to an outcomes-focused model for rural retention and workforce shortages • strengthen universities’ roles in meeting local and national workforce needs • encourage innovation and agility • remove outdated requirements and focus on longer-term outcomes • support continuous improvement across the RHMT network • reduce red tape and administrative burden • enhance qualitative and quantitative reporting • provide greater funding certainty to universities. Note: Please refer to Program FAQs, Briefing Session Recording, Transcript and Slide Presentation published on 11 August 2026. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=de337c34-cf77-47e2-9224-98e85c8e579a",
       "source": "GrantConnect"
     },
@@ -207,6 +159,42 @@
       "source": "GrantConnect"
     },
     {
+      "title": "GO8557: Gender Equality in Music Initiative",
+      "goId": "GO8557",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Gender Equality in Music Initiative grant provides an opportunity to support targeted, practical activities that build safer and more inclusive industry settings, strengthen pathways for women into creative and technical roles, improve women’s access to leadership and professional development, and help shape a music industry that better reflects the diversity of the Australian community. The grant contributes to the vision of Working for Women: A Strategy for Gender Equality: an Australia where people are safe, treated with respect, have choices, and have access to resources and equal outcomes no matter their gender. By supporting targeted action in the music industry, the grant aligns most strongly with the priority areas of gender-based violence, economic equality and security, and leadership, representation and decision-making. The intended grant outcomes are: · Increased visibility and recognition of women in all their diversity across the Australian music industry · Improved pathways for women in all their diversity into paid work, professional networks, mentoring and leadership opportunities, particularly in male-dominated technical, production and programming roles · A safer and more inclusive industry that supports participation without discrimination, harassment or exclusion · Improved access to sector-level intersectional gender disaggregated data and practical tools to support gender equality outcomes in recruitment, programming and industry accountability · Strengthened cultural leadership and national visibility for First Nations women artists, musicians, producers and storytellers, including those from regional and remote communities.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=dad2a580-e1f1-43f0-b549-64ede809714b",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8549: Intensive Employment Services",
+      "goId": "GO8549",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "As part of its employment services reform, the Australian Government is inviting organisations via a restricted process to apply to deliver the early roll out of an Intensive Employment Service. The Intensive Employment Service is for people with complex and interconnected barriers to employment, who have been unemployed for a significant period, may need additional support to build their confidence, capacity and capability and progress towards and into a job. The program will test and refine the delivery of an intensive service model with wraparound support, ahead of a proposed national rollout. The objectives of the program are to: test and refine an intensive service model that provides tailored, wraparound support delivered by skilled mentors to support people with diverse and intersecting employment challenges into employment improve participants’ confidence, capacity and capability to progress towards employment strengthen links between employment assistance and complementary supports that address barriers to participation in employment and work readiness generate evidence about effective service settings, delivery approaches and enabling conditions for future employment services reform support shared learning across grantees through a community of practice to inform continuous improvement and future service design.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=a6456cbb-c8dc-4f51-a843-bfe34b086611",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8531: Revive Live - Round 3",
+      "goId": "GO8531",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "up to $250,000",
+      "summary": "The Australian Government’s National Cultural Policy Revive recognises the importance of the live music sector and is increasing the support for the music industry. The Revive Live program was announced as part of the Government’s Critical Support for the Live Music and Festivals measure in the 2024/25 Federal Budget. The Government provided a further $25 million to extend the program for an additional two years to 30 June 2027. Revive Live will provide essential support to established live music venues and Australian music festivals to assist them to continue to operate in the current operating climate, limiting venue closures and event cancellations, and stimulating long-term sustainability. Revive Live will also have a focus on improving accessibility for disabled artists and patrons. Revive Live will: Increase performance opportunities including the development and discoverability of original contemporary music by Australian artists support a sustainable Australian live music ecosystem, allowing established live music venues to continue operating, and avoiding cancellation of Australian music festivals support stability in live music venues and music festivals, building resilience to change and risk, safety, inclusivity and representative programming improve accessibility at live music venues and music festivals, providing participation opportunities for audiences with disability as well as career pathways for musicians and music workers with disability. Revive Live will run from 1 July 2026 to 30 June 2027, with a total of $12.5 million available in 2026-27. The maximum grant amount is $150,000 for venues and small festivals, and larger festivals with more than 10,000 attendees can receive funding of up to $250,000",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=d5c713b3-e276-4a05-b08f-3114cd5f0c57",
+      "source": "GrantConnect"
+    },
+    {
       "title": "GO8139: First Nations Clean Energy Advice Grants Round 1",
       "goId": "GO8139",
       "agency": "",
@@ -240,6 +228,18 @@
       "amount": "up to $180 million",
       "summary": "For this grant opportunity, up to $180 million is available over two years (2026–27 to 2027–28). The funding aims to strengthen the Aboriginal Community Controlled Health Service (ACCHS) sector through improved infrastructure, including new and upgraded health clinics and associated housing for health professionals. Two funding rounds totalling $210 million have already been delivered under the Closing the Gap Major Capital Works (MCW) Program (Round 1 through GO5504 and Round 2 through GO6522). The current round represents Round 3 of the Closing the Gap MCW Program. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=710a8500-2a58-4cee-bb2b-2dc93511da30",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8560: Indigenous Broadcasting and Media Program – Strengthening Community Broadcasting Grant Opportunity",
+      "goId": "GO8560",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "up to $4 million",
+      "summary": "The Indigenous Broadcasting and Media Program – Strengthening Community Broadcasting Grant Opportunity will provide grant funding of up to $4 million (GST exclusive) for grant activities to eligible applicants to strengthen the First Nations community broadcasting sector. Program objectives include supporting the First Nations broadcasting and media sector to modernise and stabilise operations and supporting the First Nations broadcasting and media sector to deliver reliable, high quality, culturally and locally relevant broadcasting services. The intended outcomes of the grant are: Improved capacity of First Nations broadcasting and media services to deliver high quality broadcasting services. Relevant First Nations news, information, cultural and educational programs remain accessible. Opportunities for training and development in the First Nations Broadcasting and Media sector are provided. Increase in the number of First Nations community broadcasting services operating in Australia.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=1c109943-43bf-4aad-bcb8-16471331b600",
       "source": "GrantConnect"
     }
   ]
