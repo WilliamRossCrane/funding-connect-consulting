@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T10:21:11.693Z",
+  "lastUpdated": "2026-08-31T17:17:55.553Z",
   "sources": [
     "GrantConnect",
     "Queensland Government",
@@ -7,8 +7,8 @@
   ],
   "sourceCounts": {
     "GrantConnect": {
-      "fetched": 121,
-      "matched": 68,
+      "fetched": 116,
+      "matched": 65,
       "displayed": 18
     },
     "Queensland Government": {
@@ -22,8 +22,8 @@
       "displayed": 0
     }
   },
-  "totalFetched": 121,
-  "totalMatched": 68,
+  "totalFetched": 116,
+  "totalMatched": 65,
   "totalDisplayed": 18,
   "grants": [
     {
@@ -51,18 +51,6 @@
       "source": "GrantConnect"
     },
     {
-      "title": "GO8482: Long-term Trials of Drought Resilient Farming Practices Program Round 3",
-      "goId": "GO8482",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "Up to $20 million",
-      "summary": "The Australian Government, through the Department of Agriculture, Fisheries and Forestry (the Department), invites applications for grants, through a targeted competitive process, under the Future Drought Fund Long-term Trials of Drought Resilient Farming Practices Program Round 3 (the Program). The Program builds on the success of the existing Long-term Trials Rounds 1 and 2, which are delivering projects to investigate innovative and transformational cropping, grazing, horticulture and mixed farming practices through the lens of drought resilience and associated risk management. The Program objectives remain the same as previous rounds, to investigate innovative farming practices and technologies through evidence-based trials to inform farmers, and foster transformational change to build economic, environmental and social resilience to drought and climate variability. The Program will support extensions to existing trials under the Long-term Trials Round 1 program and new projects from the recommended but unfunded applicants to the Long-term Trials Round 1 and Round 2 programs. Projects will commence from 2026–27. Up to $20 million (GST exclusive) is available over 4 years, with a minimum of $2 million and a maximum of $5 million per project. Projects must use robust, scientific trials to test, refine, and demonstrate the effectiveness of practices and technologies. This evidence-based approach is designed to support and drive adoption by providing farmers with the confidence to apply new techniques on farm and at scale. Larger and longer-term projects are encouraged to deliver lasting change.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=50ad2463-a47b-460e-92a5-d2f621baeec2",
-      "source": "GrantConnect"
-    },
-    {
       "title": "GO8521: Carer Peak Body Organisational Support and National Carers Week",
       "goId": "GO8521",
       "agency": "",
@@ -87,123 +75,27 @@
       "source": "GrantConnect"
     },
     {
-      "title": "GO8552: 2026-27 Grants in Aid Program",
-      "goId": "GO8552",
+      "title": "GO8511: Round 3 – Closing the Gap – Major Capital Works Program – 2026-27",
+      "goId": "GO8511",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "up to $180 million",
+      "summary": "For this grant opportunity, up to $180 million is available over two years (2026–27 to 2027–28). The funding aims to strengthen the Aboriginal Community Controlled Health Service (ACCHS) sector through improved infrastructure, including new and upgraded health clinics and associated housing for health professionals. Two funding rounds totalling $210 million have already been delivered under the Closing the Gap Major Capital Works (MCW) Program (Round 1 through GO5504 and Round 2 through GO6522). The current round represents Round 3 of the Closing the Gap MCW Program. Note: Please refer to updated Grant Opportunity Guidelines - Version 2 - published on 24 August 2026. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=710a8500-2a58-4cee-bb2b-2dc93511da30",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8562: Community Controlled Transition Care (CCTC)",
+      "goId": "GO8562",
       "agency": "",
       "category": "",
       "closeDate": "",
       "closeDateText": "",
       "amount": "",
-      "summary": "The Australian Government is inviting national ex-service organisations (ESOs) through a closed non-competitive process to apply to deliver services under the Grants in Aid (GIA) Program, which forms part of Program 2.4 Veterans’ Community Care and Support. The 2026-27 GIA Program aims to support the role of national ESOs to provide coordinating and representational support for the Australian veteran and Defence community. This program is open to national ESOs by invitation and provides funding to encourage cooperation and communication between the ex-service community, ESOs and the Australian Government. Funding for national ESOs aims to encourage the national advancement of the objectives of ESOs. The objective of the grant opportunity is to fund discrete projects or activities by national ESOs that address a specific problem or issue and achieve a clear benefit to the ex-service and Defence community. The intended outcomes of the program are to: · assist national ESOs to support their branches, sub-branches and affiliated organisations in performing compensation and/or wellbeing advocacy or wellbeing support work · assist national ESOs to advance the objectives of all ESOs more generally · assist national ESOs to improve co-operation and communication between national bodies, branches, sub-branches and affiliated organisations on repatriation and military compensation matters · encourage co-operation and communication between the ex-service community, ESOs and the Australian Government.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=ca1e59bf-3580-419d-ad78-fb75f3e6725e",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8505: Rural Health Multidisciplinary Training Program (2027-2031)",
-      "goId": "GO8505",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The purpose of this grant opportunity is to encourage, prepare and support health students (including First Nations students) to pursue health careers in MMM 2-7 areas of Australia through training, recruitment, selection, education, and research activities which are innovative, agile, and in line with available evidence on improved rural health workforce recruitment and retention. The Rural Health Multidisciplinary Training Program (RHMT) supports health students to undertake rural training through a network of rural clinical schools, university departments of rural health, dental faculties offering extended rural placements, and end-to-end rural medical training arrangements. The RHMT also supports regional training hubs, which build medical training pathways within a region and guide students and trainees through these. The aim of the RHMT is to improve the recruitment and retention of health professionals in rural and remote Australia. The Government has announced RHMT reforms to strengthen rural workforce outcomes, consolidate funding streams, improve delivery and reduce administrative burden. The reformed RHMT will: • shift to an outcomes-focused model for rural retention and workforce shortages • strengthen universities’ roles in meeting local and national workforce needs • encourage innovation and agility • remove outdated requirements and focus on longer-term outcomes • support continuous improvement across the RHMT network • reduce red tape and administrative burden • enhance qualitative and quantitative reporting • provide greater funding certainty to universities. Note: Please refer to Program FAQs, Briefing Session Recording, Transcript and Slide Presentation published on 11 August 2026. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=de337c34-cf77-47e2-9224-98e85c8e579a",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8444: Discovery Indigenous for funding commencing in 2027",
-      "goId": "GO8444",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Discovery Indigenous scheme provides grant funding to support research projects conducted by Aboriginal and/or Torres Strait Islander researchers. The Discovery Indigenous scheme objectives are to: support the retention of excellent Aboriginal and/or Torres Strait Islander researchers in higher education institutions to expand research capacity in Australia; support excellent pure basic, strategic basic and applied research and research training, across all disciplines excluding clinical and other medical research, by Aboriginal and/or Torres Strait Islander researchers as individuals and as teams; enhance the scale and focus of research in Australian Government priority areas and create economic, commercial, environmental, social and/or cultural benefits for Australia; and support national and international research collaboration. The intended outcomes of the Discovery Indigenous scheme are: an expanded knowledge base and research capacity in Australia; and economic, commercial, environmental, social and/or cultural benefits for Australia.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=53a0c022-0d15-4b43-affb-ebffc61f123f",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8524: Great Barrier Reef Marine Debris Management and Mitigation Round 2",
-      "goId": "GO8524",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Australian Government is inviting organisations in an open process to apply to deliver services under this grant opportunity. Objectives of the Round 2 grant opportunity are to: deliver large scale management and reduction of the threat of marine debris to species such as coral, turtles, dugongs and seabirds mitigate negative impacts of marine debris on tourism, recreation and fishing (commercial and recreational) within the Reef support activities that reduce water pollution from urban sources within Reef catchments improve water quality through the removal of marine debris from Reef coastlines and urban waterways develop and deliver targeted education and awareness raising activities to reduce and prevent litter, including plastics, from entering Reef waterways encourage greater community stewardship and involvement, including with First Nations peoples, promoting a shared sense of responsibility for Reef pollutants inform and contribute to wider plastic management and mitigation strategic policy for state and/or national scale implementation identify and support local or regional opportunities in circular or renewable material economies and/or activities.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=90672985-8ab2-441d-9d4e-8a1fc2e2a72d",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8516: Mobile Black Spot Program - West Coast Tasmania Mobile Capacity Uplift Round",
-      "goId": "GO8516",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "up to $9.8 million",
-      "summary": "The Mobile Black Spot Program West Coast Tasmania Mobile Capacity Uplift Round (the Round) will provide grant funding of up to $9.8 million (GST exclusive) to boost mobile coverage and capacity in the Local Government Areas of Circular Head, Waratah-Wynyard, and West Coast on the west coast of Tasmania. Eligible grant activities include upgrades to mobile base stations and backhaul networks, and construction of new mobile base stations. This grant opportunity is funded under the Australian Government’s Better Connectivity Plan for Regional and Rural Australia.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=9bd2612e-bf6a-4c67-9da0-9a8f97910c65",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8269: DRIVEN - Charger Grant Stream",
-      "goId": "GO8269",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The DRIVEN Charger Grant Stream grant opportunity makes $20 million available for the installation of new, public, fast EV charging stations at automotive dealership and EV repairer premises and, in turn, bolsters Australia’s public fast charger network. The objectives of the DRIVEN Charger Grant Stream are to: deliver charging stations at automotive dealership and EV repairer premises encourage installation of charging stations in regional areas of Australia support automotive dealerships and EV repairers looking to host charging stations facilitate partnerships between Australian automotive dealerships or EV repairers and EV charging businesses (e.g. Charge Point Operators). Register of interested site hosts To assist potential applicants, the Department of Climate Change, Energy, the Environment and Water (DCCEEW) will facilitate a registration of interest process for potential site hosts (dealerships and EV repairers) interested in hosting charging stations. This register is intended to support partnership development and help applicants identify suitable sites for their projects. Use of the register is not mandatory and applicants may still identify suitable sites and site hosts not contained in the register. Access the DRIVEN Public EV Charging - Site Host Registration of Interest.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=b9dbca63-d3ec-45c7-8118-b39b15f2019a",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8557: Gender Equality in Music Initiative",
-      "goId": "GO8557",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Gender Equality in Music Initiative grant provides an opportunity to support targeted, practical activities that build safer and more inclusive industry settings, strengthen pathways for women into creative and technical roles, improve women’s access to leadership and professional development, and help shape a music industry that better reflects the diversity of the Australian community. The grant contributes to the vision of Working for Women: A Strategy for Gender Equality: an Australia where people are safe, treated with respect, have choices, and have access to resources and equal outcomes no matter their gender. By supporting targeted action in the music industry, the grant aligns most strongly with the priority areas of gender-based violence, economic equality and security, and leadership, representation and decision-making. The intended grant outcomes are: · Increased visibility and recognition of women in all their diversity across the Australian music industry · Improved pathways for women in all their diversity into paid work, professional networks, mentoring and leadership opportunities, particularly in male-dominated technical, production and programming roles · A safer and more inclusive industry that supports participation without discrimination, harassment or exclusion · Improved access to sector-level intersectional gender disaggregated data and practical tools to support gender equality outcomes in recruitment, programming and industry accountability · Strengthened cultural leadership and national visibility for First Nations women artists, musicians, producers and storytellers, including those from regional and remote communities.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=dad2a580-e1f1-43f0-b549-64ede809714b",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8549: Intensive Employment Services",
-      "goId": "GO8549",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "As part of its employment services reform, the Australian Government is inviting organisations via a restricted process to apply to deliver the early roll out of an Intensive Employment Service. The Intensive Employment Service is for people with complex and interconnected barriers to employment, who have been unemployed for a significant period, may need additional support to build their confidence, capacity and capability and progress towards and into a job. The program will test and refine the delivery of an intensive service model with wraparound support, ahead of a proposed national rollout. The objectives of the program are to: test and refine an intensive service model that provides tailored, wraparound support delivered by skilled mentors to support people with diverse and intersecting employment challenges into employment improve participants’ confidence, capacity and capability to progress towards employment strengthen links between employment assistance and complementary supports that address barriers to participation in employment and work readiness generate evidence about effective service settings, delivery approaches and enabling conditions for future employment services reform support shared learning across grantees through a community of practice to inform continuous improvement and future service design.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=a6456cbb-c8dc-4f51-a843-bfe34b086611",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8531: Revive Live - Round 3",
-      "goId": "GO8531",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "up to $250,000",
-      "summary": "The Australian Government’s National Cultural Policy Revive recognises the importance of the live music sector and is increasing the support for the music industry. The Revive Live program was announced as part of the Government’s Critical Support for the Live Music and Festivals measure in the 2024/25 Federal Budget. The Government provided a further $25 million to extend the program for an additional two years to 30 June 2027. Revive Live will provide essential support to established live music venues and Australian music festivals to assist them to continue to operate in the current operating climate, limiting venue closures and event cancellations, and stimulating long-term sustainability. Revive Live will also have a focus on improving accessibility for disabled artists and patrons. Revive Live will: Increase performance opportunities including the development and discoverability of original contemporary music by Australian artists support a sustainable Australian live music ecosystem, allowing established live music venues to continue operating, and avoiding cancellation of Australian music festivals support stability in live music venues and music festivals, building resilience to change and risk, safety, inclusivity and representative programming improve accessibility at live music venues and music festivals, providing participation opportunities for audiences with disability as well as career pathways for musicians and music workers with disability. Revive Live will run from 1 July 2026 to 30 June 2027, with a total of $12.5 million available in 2026-27. The maximum grant amount is $150,000 for venues and small festivals, and larger festivals with more than 10,000 attendees can receive funding of up to $250,000",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=d5c713b3-e276-4a05-b08f-3114cd5f0c57",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8139: First Nations Clean Energy Advice Grants Round 1",
-      "goId": "GO8139",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The First Nations Clean Energy Advice Grants Round 1 was announced as part of the implementation of the Government’s First Nations Clean Energy Strategy. The objectives of the program are to support First Nations communities to participate in clean energy development and: build clean energy project skills and knowledge access technical and professional support make informed decisions as per principles of Free, Prior and Informed Consent (FPIC). The intended outcomes of the program are for First Nations communities to gain increased: access to technical and professional support confidence in engagement with clean energy developers and clean energy development opportunities collaboration and engagement with the clean energy industry clean energy project skills and knowledge participation in clean energy projects benefits from participation in clean energy development. Round 1 of the program will run from 2025-26 to 2026-27.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=3a2d235f-3373-41cf-9eb7-9c77be3b4a26",
+      "summary": "The Indigenous Australians’ Health Programme (IAHP) aims to increase access to culturally appropriate and self-determined health care by prioritising Aboriginal Community Controlled Health Services (ACCHSs) to lead the delivery of programs and services. This grant opportunity’s purpose is to provide the National Aboriginal Community Controlled Health Organisation (NACCHO) with funding to deliver the Community Controlled Transition Care (CCTC) program. The CCTC program will involve the co-design and delivery of a community controlled transition care model for First Nations peoples exiting custody. It will seek to improve health care access and outcomes for First Nations people in the custodial system, providing First Nations peoples with improved discharge planning, reintegration support and culturally safe health care post-release. The Australian Government has announced a total of $14,497,810 over 3 years for the CCTC grant opportunity. The grant opportunity will run from November 2026 to June 2029. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=7244eb12-38c7-4a1c-b796-e97c9e03de58",
       "source": "GrantConnect"
     },
     {
@@ -219,18 +111,6 @@
       "source": "GrantConnect"
     },
     {
-      "title": "GO8511: Round 3 – Closing the Gap – Major Capital Works Program – 2026-27",
-      "goId": "GO8511",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "up to $180 million",
-      "summary": "For this grant opportunity, up to $180 million is available over two years (2026–27 to 2027–28). The funding aims to strengthen the Aboriginal Community Controlled Health Service (ACCHS) sector through improved infrastructure, including new and upgraded health clinics and associated housing for health professionals. Two funding rounds totalling $210 million have already been delivered under the Closing the Gap Major Capital Works (MCW) Program (Round 1 through GO5504 and Round 2 through GO6522). The current round represents Round 3 of the Closing the Gap MCW Program. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=710a8500-2a58-4cee-bb2b-2dc93511da30",
-      "source": "GrantConnect"
-    },
-    {
       "title": "GO8560: Indigenous Broadcasting and Media Program – Strengthening Community Broadcasting Grant Opportunity",
       "goId": "GO8560",
       "agency": "",
@@ -240,6 +120,126 @@
       "amount": "up to $4 million",
       "summary": "The Indigenous Broadcasting and Media Program – Strengthening Community Broadcasting Grant Opportunity will provide grant funding of up to $4 million (GST exclusive) for grant activities to eligible applicants to strengthen the First Nations community broadcasting sector. Program objectives include supporting the First Nations broadcasting and media sector to modernise and stabilise operations and supporting the First Nations broadcasting and media sector to deliver reliable, high quality, culturally and locally relevant broadcasting services. The intended outcomes of the grant are: Improved capacity of First Nations broadcasting and media services to deliver high quality broadcasting services. Relevant First Nations news, information, cultural and educational programs remain accessible. Opportunities for training and development in the First Nations Broadcasting and Media sector are provided. Increase in the number of First Nations community broadcasting services operating in Australia.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=1c109943-43bf-4aad-bcb8-16471331b600",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8551: WA Roadmap Implementation Fund: Training Capability and Farm Systems Program",
+      "goId": "GO8551",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The program was announced as part of the $5.0 million WA Roadmap Implementation Fund in support of the recommendations in the WA Sheep Industry Roadmap to 2028 (the Roadmap)(www.thefutureflock.com.au/wa-roadmap-to-2028). The Roadmap sets out a forward-looking plan to guide Western Australia’s (WA) sheep industry transition away from live sheep exports by sea. Developed by industry and informed by extensive consultation, it identifies key challenges and opportunities and outlines a clear, practical path for growth, innovation and sustainability. The Roadmap outlines strategies and initiatives to address these challenges and opportunities, guiding future development, investment and collaboration. The program targets opportunities identified in the Roadmap and supports projects that are aligned with the strategies and initiatives identified in the Roadmap against the three goals: The whole supply chain operating efficiently to optimise market value and profitability Informed, confident decision-making across the industry A vibrant, positive and collaborative industry culture This program support projects that help improve productivity and build capability across WA’s sheep industry. Projects should align with the opportunities identified in the WA Roadmap to 2028 and may include activities including but not limited to train-the-trainer programs, peer-to-peer training for producers and supply chain participants, leadership development, demonstration sites, and relevant equipment needed to support those activities. The objective of the program is: To assist sheep producers affected by the phase out of live sheep exports by sea to improve their capability, productivity and sustainability. The intended outcomes of the program are: Increased confidence and productivity in farm systems as sheep producers adapt to changing markets and transition away from live sheep exports by sea.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=17971433-a716-4982-b1a5-3391d533e330",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8232: MRFF – Clinical Trials Activity Initiative – 2026 International Clinical Trial Collaborations Grant Opportunity",
+      "goId": "GO8232",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Medical Research Future Fund (MRFF) Clinical Trials Activity Initiative (the Initiative) aims to increase clinical trial activity in Australia in order to improve the evidence base supporting clinical care and to help patients access trials relevant to their health circumstances and enable researchers to bring international trials to Australian patients. The objective of this grant opportunity is to provide grants of financial assistance to support medical research and medical innovation projects that: Promote Australian involvement in international collaborative investigator-initiated clinical trials research through the establishment and co-ordination of clinical trial site/s in Australia. Provide high-quality evidence of the effectiveness of novel health treatments, drugs or devices in ‘usual care’ settings, which will support a decision on whether to deliver the intervention in an Australian setting. The intended outcome of the research is to improve the health and wellbeing of Australians by investing in new clinical trials that support increased access to high-quality, evidence-based and effective health care. Applicants to this grant opportunity must propose a clinical trial in Australia in collaboration with international counterparts. The clinical trial should not have commenced recruitment at the Australian trial site/s. Please note the 2026 MRFF International Clinical Trial Collaborations grant opportunity will be open for one round only. This grant opportunity is being administered by NHMRC on behalf of the Australian Government Department of Health, Disability and Ageing. Further information on the Medical Research Future Fund is available from the Department of Health, Disability and Ageing's website. A list of Eligible Organisations can be found on the NHMRC List of MRFF Eligible Organisations webpage",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=01b50890-22c3-449b-9f1b-1d44b77d7e37",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8494: Regional, Rural and Remote Capacity Building grant opportunity 2026",
+      "goId": "GO8494",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The objectives of this grant opportunity are to provide financial assistance to support: •established regional, rural or remote (RRR) researchers, as they lead and develop a team of early to mid-career RRR researchers to build RRR research capacity •emerging RRR researchers, including clinician researchers, to be future research leaders in their communities •place-based research conducted in RRR areas that aims to benefit individuals and communities living in those areas. The intended outcomes of this grant opportunity are to: •build capacity in the RRR research workforce across Australia, including clinician researchers •strengthen health and medical research in RRR communities to improve health equity. Funding will be available under 2 application streams: •Stream 1: the Chief Investigators are primarily resident in a regional, rural, remote or very remote area according to the Modified Monash Model (MM 2–7). •Stream 2: the Chief Investigators are primarily resident in a rural, remote or very remote area according to the Modified Monash Model (MM 3–7). The applicant team may be based at a single institution, organisation or campus in one RRR region or may be a geographically disparate network linking across more than one RRR region. Applications that include at least one health service provider and clinician researcher are encouraged. Applications that address health services and programs to improve health outcomes for Aboriginal and/or Torres Strait Islander people are also encouraged. Grants are to support a program of research that may consist of multiple smaller-scale research projects. Grantees will have the flexibility to pursue important new research directions as they arise, adjust their resources accordingly, and to form collaborations as needed.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=62797db9-1558-4900-b189-234030f3bf90",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8555: COALAR Grant Round 2026-27",
+      "goId": "GO8555",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "up to $300,000",
+      "summary": "The Council on Australia Latin America Relations (COALAR) Grant Program is an annual grant program offering funding to organisations and individuals to support projects or activities which advance Australia's engagement with Latin America, including exchanges, partnerships and other collaborations aligned with COALAR’s strategic priority areas and goals. COALAR’s Strategic Priority Areas are: 1 - Culture and Entrepreneurship; 2 - Education and Research; 3 - Environment and Energy Transition; 4 - First Nations; and 5 - Mining, Mining Equipment, Technology and Services (METS), and Resources. COALAR’s Strategic Goals are: Goal 1 - Raise awareness of COALAR and Latin America-Australia relations; Goal 2 - Strengthen commercial ties; Goal 3 - Expand social and cultural connections; and Goal 4 -Foster and promote gender equality and women’s leadership. Applications will be prioritised for projects taking place in the following countries: Argentina, Australia, Brazil, Chile, Colombia, Costa Rica, Cuba, Ecuador, El Salvador, Guatemala, México, Panamá, Perú and Uruguay. Grants between $15,000 to $50,000, from a total funding pool of up to $300,000, is available to support projects for a maximum of 12 months. Grant projects must commence no earlier than 1 March 2027 and before 30 June 2027. The grant round will be conducted in a one-stage full application process.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=34fa1794-8916-4ce5-9113-5507bfb2f9e4",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8439: Defence Strategic Policy Research Program",
+      "goId": "GO8439",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Defence Strategic Policy Research Program grant opportunity will provide operating funding to the Australian strategic policy sector for up to five years, from 2027–28 to 2031–32. This grant opportunity was established to implement the government response to the 2024 Independent Review of Commonwealth funding for strategic policy work (the Varghese review). The grant opportunity is confined to activities that support the Australian Defence Force (or other defence purposes), with the majority of an organisation’s business-as-usual activities directed toward the annual national security policy research priorities, set by the Secretaries’ Committee on National Security (SCNS) and published by the Department of the Prime Minister and Cabinet. The objectives of the grant opportunity are to promote the development of Australia’s defence and national security policy and strategy by: informing and shaping debate through quality research, discussion fora, and other strategic policy work on Australian strategic and defence policy issues deepening public discussion on Australia’s strategic and defence policy choices strengthening engagement between Defence and the strategic policy sector. The intended outcomes of the grant opportunity are: published original, evidence-based strategic policy research development of new and emerging talent within the Australian strategic policy sector, promoting equitable and diverse participation, including with gender-diverse and/or First Nations-led organisations enhanced engagement with public and private sector experts, including outside metropolitan locations enriched professional development for Defence personnel (military and civilian).",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=23fd2c18-fabd-4ab7-94c9-f994285d24af",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8455: Integrated Carer Support Service: Carer Gateway Service Providers (CGSPs)",
+      "goId": "GO8455",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The purpose of this grant opportunity is to select a network of providers to deliver supports and services for unpaid carers across 19 Carer Gateway service areas. Only one provider will be selected per service area, however providers may apply for, and be selected for multiple service areas. Services offered include support planning, counselling, coaching, training, peer support, tailored support packages, referrals to access planned and emergency respite, navigation assistance with mainstream services and information and advice. Services will be prioritised and delivered, based on the needs of carers. Successful providers must deliver all the service types listed, however there is flexibility in delivery models and how much funding is applied to each service. Providers will monitor demand in the service area and configure services and allocate resources to maximise outcomes based on to carers’ needs within the service area. It is expected that service delivery will change over time in response to changes in demand, and as new support options and approaches emerge. Providers are to establish and maintain outreach activities, and link to social, health, education, community and cultural groups, to better understand carer cohorts in the service area, including (but not limited to) those in regional, rural and remote locations and the specific carer cohorts identified in the National Carer Strategy 2024-2034 and National Carer Strategy Action Plan 2024-2027. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=a020c53d-f494-4cbd-b199-1332107a832a",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8554: Continuation of viral hepatitis prevention and response measures",
+      "goId": "GO8554",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The purpose of this grant opportunity is to provide funding to support organisations in the design and delivery of national viral hepatitis community-led initiatives and awareness raising campaigns that engage priority populations, including people at higher risk of acquiring viral hepatitis or with limited access to health care. These activities will help reduce stigma and encourage individuals to seek care and reduce hepatitis-related cancer mortality. This includes: • $6.9 million from 1 January 2027 to 30 June 2029 for National Hepatitis B projects. • $9.0 million 1 January 2027 to 30 June 2029 for National Hepatitis C projects. The objectives of the grant are: • To provide funding to eligible organisations to maintain nationally coordinated activities that improve prevention, testing, diagnosis and treatment outcomes for hepatitis B and C. • To provide funding to eligible organisations to deliver evidence-based activities that address gaps in hepatitis B and C continuum of care. • To address goals and targets in the Strategies. The intended outcomes of the grant opportunity are: • To support harm reduction, public awareness and education, and targeted approaches that increase testing, reduce stigma and discrimination, and strengthen access to culturally safe and appropriate care, particularly among priority populations experiencing inequitable health outcomes. • To reduce hepatitis-related cancer mortality. • To support the national elimination of hepatitis B and C as public health challenges in Australia by 2030. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=dfae1066-13b5-4bd4-bf5f-6bdbc71aad71",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO7926: General Practice Incentive Fund",
+      "goId": "GO7926",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Primary Health Networks (PHN) Program General Practice Incentive Fund (GPIF) grant opportunity (the grant opportunity) will enable the design and implementation of health care services in communities where primary care and related service systems: fail are at imminent risk of failure, or are characterised by ongoing instability. The department will identify intervention sites for where the grant opportunity may be targeted. Once a site is identified, the Decision Maker will agree for the relevant PHN to be invited to the grant opportunity. The site identification process includes consultation with relevant jurisdictions (state and territory governments). It will consider information available to the department regarding community impact of service instability or failure. The PHN and/or Rural Workforce Agency (RWA) specific to the identified site may also be consulted to understand local issues. Phase 1: Planning/co-design PHN undertakes consultation with relevant stakeholders for planning and co-design of a service system recovery plan (SSRP). Phase 2: Implementation Implement and evaluate approved SSRP activities. Funding for implementation activities will be determined through assessment of applications (i.e. SSRPs submitted according to the Application Form). Note: Please refer to the most recent version of the Attachment Pack (Implementation Plan, Engagement Strategy, Budget and Risk Management Plan) published on 4 December 2025. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=e766d4bd-7e28-41ad-a5c5-b67091200253",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8518: First Nations Clean Energy Projects – Pilot Grants",
+      "goId": "GO8518",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "up to $10 million",
+      "summary": "The First Nations Clean Energy Projects – Pilot Grants provides funding to First Nations organisations. This program was announced as part of the implementation of the Government’s First Nations Clean Energy Strategy. The objectives of the program are to: support up to 2 First Nations organisations to progress their clean energy projects beyond feasibility towards financial close build evidence of the factors that enable increased investment in First Nations clean energy projects share First Nations clean energy project development lessons learnt with the sector. The intended outcome of the program is to support the economic development and self-determination of First Nations peoples through increased opportunities to lead and benefit from clean energy project developments. There is a total of up to $10 million available for this grant program. Grants will be from $1 million to $10 million. The grant amount will be up to 100% of eligible expenditure.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=2a11693c-b805-4b0b-a875-baf5a17eecfd",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8507: Dementia Training Program",
+      "goId": "GO8507",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Dementia Training Program (DTP), first established nationally in 2016, aims to strengthen the capability of Australia’s health and aged care workforce to provide high-quality, evidence-based dementia care. The purpose of this grant opportunity is to fund the delivery of accredited and non-accredited education, upskilling and professional development in dementia care. The delivery of DTP activities will reflect the emerging dementia, health and aged care landscape, including recent aged care reforms and increasing demand for services. DTP activities will: • Be aligned with a National Dementia Training and Education Standards Framework. • Expand experiential, immersive, peer mentoring and interprofessional training. • Adopt tailored approaches for diverse workforce groups and communities including for First Nations people, those from culturally and linguistically diverse backgrounds and people from regional, rural and remote locations. • Build organisational capability and leadership for high quality dementia care, including sustainable practice change. • Deliver key service elements responding to the Royal Commission into Aged Care Quality and Safety. There are two funding streams: Stream 1 aims to improve capability of health and aged care workers to provide high quality dementia care for non-Indigenous Australians, including people from diverse backgrounds. Stream 2 focuses on culturally safe, community-led dementia training for First Nations communities and workforces. NOTE: Please refer to the most recent Frequently Asked Questions (Version 3) published 20 August 2026. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=87164228-1930-4dbd-adb4-cf1fd32de562",
       "source": "GrantConnect"
     }
   ]
