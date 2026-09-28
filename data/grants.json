@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T16:02:48.199Z",
+  "lastUpdated": "2026-09-28T17:52:03.855Z",
   "sources": [
     "GrantConnect",
     "Queensland Government",
@@ -7,8 +7,8 @@
   ],
   "sourceCounts": {
     "GrantConnect": {
-      "fetched": 121,
-      "matched": 66,
+      "fetched": 128,
+      "matched": 72,
       "displayed": 18
     },
     "Queensland Government": {
@@ -22,10 +22,22 @@
       "displayed": 0
     }
   },
-  "totalFetched": 121,
-  "totalMatched": 66,
+  "totalFetched": 128,
+  "totalMatched": 72,
   "totalDisplayed": 18,
   "grants": [
+    {
+      "title": "GO8606: Remote Training Hubs Network: Central Australia Remote Training Hubs Grant - Round 3",
+      "goId": "GO8606",
+      "agency": "",
+      "category": "",
+      "closeDate": "2024-02-13T00:00:00.000Z",
+      "closeDateText": "13 February 2024",
+      "amount": "",
+      "summary": "The Australian Government is inviting organisations via a closed, non-competitive process to apply to deliver services under Program 2.1: Building Skills and Capability from February 2027 to 30 June 2028. The Central Australia Remote Training Hubs Grant, funded through the Remote Training Hubs Network measure, was announced by the Prime Minister on 13 February 2024, under the A Better, Safer Future for Central Australia (Central Australia Plan), to support the delivery of vocational education and training in up to 7 remote community clusters in Central Australia, through the provision of funding for capital assets or improvements, remote training hub coordination and mentoring and participant transport to 30 June 2028. This third round of the Central Australia Remote Training Hubs grant opportunity is open to The Plenty cluster only. The remaining community clusters will be invited to apply in subsequent grant round(s). The Central Australia Mobile Training Units (MTUs) Grant (ID GO7445) is linked to this grant opportunity. If successful, you will be required to work in partnership with the Registered Training Organisations (RTOs) delivering services via the MTUs.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=f3fa75b1-eef2-46eb-b343-b62075b7e5ac",
+      "source": "GrantConnect"
+    },
     {
       "title": "GO8341: Modernised Multicultural Grants Program: Infrastructure for Multicultural Communities",
       "goId": "GO8341",
@@ -51,63 +63,27 @@
       "source": "GrantConnect"
     },
     {
-      "title": "GO8551: WA Roadmap Implementation Fund: Training Capability and Farm Systems Program",
-      "goId": "GO8551",
+      "title": "GO8507: Dementia Training Program",
+      "goId": "GO8507",
       "agency": "",
       "category": "",
       "closeDate": "",
       "closeDateText": "",
       "amount": "",
-      "summary": "The program was announced as part of the $5.0 million WA Roadmap Implementation Fund in support of the recommendations in the WA Sheep Industry Roadmap to 2028 (the Roadmap)(www.thefutureflock.com.au/wa-roadmap-to-2028). The Roadmap sets out a forward-looking plan to guide Western Australia’s (WA) sheep industry transition away from live sheep exports by sea. Developed by industry and informed by extensive consultation, it identifies key challenges and opportunities and outlines a clear, practical path for growth, innovation and sustainability. The Roadmap outlines strategies and initiatives to address these challenges and opportunities, guiding future development, investment and collaboration. The program targets opportunities identified in the Roadmap and supports projects that are aligned with the strategies and initiatives identified in the Roadmap against the three goals: The whole supply chain operating efficiently to optimise market value and profitability Informed, confident decision-making across the industry A vibrant, positive and collaborative industry culture This program support projects that help improve productivity and build capability across WA’s sheep industry. Projects should align with the opportunities identified in the WA Roadmap to 2028 and may include activities including but not limited to train-the-trainer programs, peer-to-peer training for producers and supply chain participants, leadership development, demonstration sites, and relevant equipment needed to support those activities. The objective of the program is: To assist sheep producers affected by the phase out of live sheep exports by sea to improve their capability, productivity and sustainability. The intended outcomes of the program are: Increased confidence and productivity in farm systems as sheep producers adapt to changing markets and transition away from live sheep exports by sea.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=17971433-a716-4982-b1a5-3391d533e330",
+      "summary": "The Dementia Training Program (DTP), first established nationally in 2016, aims to strengthen the capability of Australia’s health and aged care workforce to provide high-quality, evidence-based dementia care. The purpose of this grant opportunity is to fund the delivery of accredited and non-accredited education, upskilling and professional development in dementia care. The delivery of DTP activities will reflect the emerging dementia, health and aged care landscape, including recent aged care reforms and increasing demand for services. DTP activities will: • Be aligned with a National Dementia Training and Education Standards Framework. • Expand experiential, immersive, peer mentoring and interprofessional training. • Adopt tailored approaches for diverse workforce groups and communities including for First Nations people, those from culturally and linguistically diverse backgrounds and people from regional, rural and remote locations. • Build organisational capability and leadership for high quality dementia care, including sustainable practice change. • Deliver key service elements responding to the Royal Commission into Aged Care Quality and Safety. There are two funding streams: Stream 1 aims to improve capability of health and aged care workers to provide high quality dementia care for non-Indigenous Australians, including people from diverse backgrounds. Stream 2 focuses on culturally safe, community-led dementia training for First Nations communities and workforces. NOTE: Please refer to the most recent Frequently Asked Questions (Version 4) published 2 September 2026. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=87164228-1930-4dbd-adb4-cf1fd32de562",
       "source": "GrantConnect"
     },
     {
-      "title": "GO8232: MRFF – Clinical Trials Activity Initiative – 2026 International Clinical Trial Collaborations Grant Opportunity",
-      "goId": "GO8232",
+      "title": "GO8582: Embedding and Promoting the National Best Practice Framework for Early Childhood Intervention",
+      "goId": "GO8582",
       "agency": "",
       "category": "",
       "closeDate": "",
       "closeDateText": "",
       "amount": "",
-      "summary": "The Medical Research Future Fund (MRFF) Clinical Trials Activity Initiative (the Initiative) aims to increase clinical trial activity in Australia in order to improve the evidence base supporting clinical care and to help patients access trials relevant to their health circumstances and enable researchers to bring international trials to Australian patients. The objective of this grant opportunity is to provide grants of financial assistance to support medical research and medical innovation projects that: Promote Australian involvement in international collaborative investigator-initiated clinical trials research through the establishment and co-ordination of clinical trial site/s in Australia. Provide high-quality evidence of the effectiveness of novel health treatments, drugs or devices in ‘usual care’ settings, which will support a decision on whether to deliver the intervention in an Australian setting. The intended outcome of the research is to improve the health and wellbeing of Australians by investing in new clinical trials that support increased access to high-quality, evidence-based and effective health care. Applicants to this grant opportunity must propose a clinical trial in Australia in collaboration with international counterparts. The clinical trial should not have commenced recruitment at the Australian trial site/s. Please note the 2026 MRFF International Clinical Trial Collaborations grant opportunity will be open for one round only. This grant opportunity is being administered by NHMRC on behalf of the Australian Government Department of Health, Disability and Ageing. Further information on the Medical Research Future Fund is available from the Department of Health, Disability and Ageing's website. A list of Eligible Organisations can be found on the NHMRC List of MRFF Eligible Organisations webpage",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=01b50890-22c3-449b-9f1b-1d44b77d7e37",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8494: Regional, Rural and Remote Capacity Building grant opportunity 2026",
-      "goId": "GO8494",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The objectives of this grant opportunity are to provide financial assistance to support: •established regional, rural or remote (RRR) researchers, as they lead and develop a team of early to mid-career RRR researchers to build RRR research capacity •emerging RRR researchers, including clinician researchers, to be future research leaders in their communities •place-based research conducted in RRR areas that aims to benefit individuals and communities living in those areas. The intended outcomes of this grant opportunity are to: •build capacity in the RRR research workforce across Australia, including clinician researchers •strengthen health and medical research in RRR communities to improve health equity. Funding will be available under 2 application streams: •Stream 1: the Chief Investigators are primarily resident in a regional, rural, remote or very remote area according to the Modified Monash Model (MM 2–7). •Stream 2: the Chief Investigators are primarily resident in a rural, remote or very remote area according to the Modified Monash Model (MM 3–7). The applicant team may be based at a single institution, organisation or campus in one RRR region or may be a geographically disparate network linking across more than one RRR region. Applications that include at least one health service provider and clinician researcher are encouraged. Applications that address health services and programs to improve health outcomes for Aboriginal and/or Torres Strait Islander people are also encouraged. Grants are to support a program of research that may consist of multiple smaller-scale research projects. Grantees will have the flexibility to pursue important new research directions as they arise, adjust their resources accordingly, and to form collaborations as needed.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=62797db9-1558-4900-b189-234030f3bf90",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8555: COALAR Grant Round 2026-27",
-      "goId": "GO8555",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "up to $300,000",
-      "summary": "The Council on Australia Latin America Relations (COALAR) Grant Program is an annual grant program offering funding to organisations and individuals to support projects or activities which advance Australia's engagement with Latin America, including exchanges, partnerships and other collaborations aligned with COALAR’s strategic priority areas and goals. COALAR’s Strategic Priority Areas are: 1 - Culture and Entrepreneurship; 2 - Education and Research; 3 - Environment and Energy Transition; 4 - First Nations; and 5 - Mining, Mining Equipment, Technology and Services (METS), and Resources. COALAR’s Strategic Goals are: Goal 1 - Raise awareness of COALAR and Latin America-Australia relations; Goal 2 - Strengthen commercial ties; Goal 3 - Expand social and cultural connections; and Goal 4 -Foster and promote gender equality and women’s leadership. Applications will be prioritised for projects taking place in the following countries: Argentina, Australia, Brazil, Chile, Colombia, Costa Rica, Cuba, Ecuador, El Salvador, Guatemala, México, Panamá, Perú and Uruguay. Grants between $15,000 to $50,000, from a total funding pool of up to $300,000, is available to support projects for a maximum of 12 months. Grant projects must commence no earlier than 1 March 2027 and before 30 June 2027. The grant round will be conducted in a one-stage full application process.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=34fa1794-8916-4ce5-9113-5507bfb2f9e4",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8561: Bulk Billing Practices in Central Coast, Newcastle, Lake Macquarie and Hunter Region",
-      "goId": "GO8561",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "This grant opportunity seeks to provide people in the Newcastle, Lower Hunter, Lake Macquarie and Central Coast region with access to more bulk billed General Practitioner (GP) services by establishing new bulk billing clinics in the region. Accessible and affordable primary health care in the community means people can access care earlier and more conveniently. This funding seeks to support a long-term increase in access to bulk billed primary care services for the targeted region. For this grant opportunity, $25.3 million is available over three years from 2026-27 to 2028-29 for the Hunter New England and Central Coast (HNECC) PHN to conduct a process (such as an expression-of-interest or competitive open tender) to determine and provide funding to one or more appropriate “private provider(s)” of six new bulk billing general practices. HNECC PHN will also be responsible for determining the suitability of the locations of the new practices to ensure they are accessible to those most in need of the services. As part of the commissioning process, private provider(s) will be required to demonstrate how the grant would be used to establish the bulk billing practices, and how the practice(s) will continue to viably operate under a fully bulk billing model, after funding has ceased. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=ef19b182-3835-449e-9c30-658a85552413",
+      "summary": "This grant opportunity forms part of the Australian Government’s investment in the Thriving Kids program announced in the 2026-27 Federal Budget and supports activities that strengthened best practice early childhood intervention across Australia. The National Best Practice Framework for Early Childhood Intervention (the Framework) sets out what high-quality, evidence-informed early childhood intervention looks like for children under 9 years of age with developmental concerns, delay or disability, and their families. It provides guidance to services, practitioners and families on delivering and accessing effective, tailored supports, to enable participation in everyday life and achieve the best possible outcomes. The purpose of this grant opportunity is to promote and embed the Framework across the sector by improving awareness, capability and uptake of best practice early childhood intervention (ECI) approaches across workforce groups and the broader community including ECI practitioners, organisations, families, carers, kin and other stakeholders. This will contribute to improved quality, consistency and accessibility of ECI supports across Australia, supporting delivery of the objectives of the Thriving Kids National Model. The Department will engage University of Melbourne and Professionals and Researchers in Early Childhood Intervention (PRECI) to deliver activities to ECI practitioners and organisations, as well as families and communities, to use and apply the Framework consistently across Australia and promote best practice ECI approaches for the children and families they support. Note: Please see updated Attachment Pack – Version 2 published on 24 September 2026. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=90ce46ab-f98f-49ad-b562-15751877f2aa",
       "source": "GrantConnect"
     },
     {
@@ -120,66 +96,6 @@
       "amount": "",
       "summary": "The Defence Strategic Policy Research Program grant opportunity will provide operating funding to the Australian strategic policy sector for up to five years, from 2027–28 to 2031–32. This grant opportunity was established to implement the government response to the 2024 Independent Review of Commonwealth funding for strategic policy work (the Varghese review). The grant opportunity is confined to activities that support the Australian Defence Force (or other defence purposes), with the majority of an organisation’s business-as-usual activities directed toward the annual national security policy research priorities, set by the Secretaries’ Committee on National Security (SCNS) and published by the Department of the Prime Minister and Cabinet. The objectives of the grant opportunity are to promote the development of Australia’s defence and national security policy and strategy by: informing and shaping debate through quality research, discussion fora, and other strategic policy work on Australian strategic and defence policy issues deepening public discussion on Australia’s strategic and defence policy choices strengthening engagement between Defence and the strategic policy sector. The intended outcomes of the grant opportunity are: published original, evidence-based strategic policy research development of new and emerging talent within the Australian strategic policy sector, promoting equitable and diverse participation, including with gender-diverse and/or First Nations-led organisations enhanced engagement with public and private sector experts, including outside metropolitan locations enriched professional development for Defence personnel (military and civilian).",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=23fd2c18-fabd-4ab7-94c9-f994285d24af",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8455: Integrated Carer Support Service: Carer Gateway Service Providers (CGSPs)",
-      "goId": "GO8455",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The purpose of this grant opportunity is to select a network of providers to deliver supports and services for unpaid carers across 19 Carer Gateway service areas. Only one provider will be selected per service area, however providers may apply for, and be selected for multiple service areas. Services offered include support planning, counselling, coaching, training, peer support, tailored support packages, referrals to access planned and emergency respite, navigation assistance with mainstream services and information and advice. Services will be prioritised and delivered, based on the needs of carers. Successful providers must deliver all the service types listed, however there is flexibility in delivery models and how much funding is applied to each service. Providers will monitor demand in the service area and configure services and allocate resources to maximise outcomes based on to carers’ needs within the service area. It is expected that service delivery will change over time in response to changes in demand, and as new support options and approaches emerge. Providers are to establish and maintain outreach activities, and link to social, health, education, community and cultural groups, to better understand carer cohorts in the service area, including (but not limited to) those in regional, rural and remote locations and the specific carer cohorts identified in the National Carer Strategy 2024-2034 and National Carer Strategy Action Plan 2024-2027. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=a020c53d-f494-4cbd-b199-1332107a832a",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8554: Continuation of viral hepatitis prevention and response measures",
-      "goId": "GO8554",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The purpose of this grant opportunity is to provide funding to support organisations in the design and delivery of national viral hepatitis community-led initiatives and awareness raising campaigns that engage priority populations, including people at higher risk of acquiring viral hepatitis or with limited access to health care. These activities will help reduce stigma and encourage individuals to seek care and reduce hepatitis-related cancer mortality. This includes: • $6.9 million from 1 January 2027 to 30 June 2029 for National Hepatitis B projects. • $9.0 million 1 January 2027 to 30 June 2029 for National Hepatitis C projects. The objectives of the grant are: • To provide funding to eligible organisations to maintain nationally coordinated activities that improve prevention, testing, diagnosis and treatment outcomes for hepatitis B and C. • To provide funding to eligible organisations to deliver evidence-based activities that address gaps in hepatitis B and C continuum of care. • To address goals and targets in the Strategies. The intended outcomes of the grant opportunity are: • To support harm reduction, public awareness and education, and targeted approaches that increase testing, reduce stigma and discrimination, and strengthen access to culturally safe and appropriate care, particularly among priority populations experiencing inequitable health outcomes. • To reduce hepatitis-related cancer mortality. • To support the national elimination of hepatitis B and C as public health challenges in Australia by 2030. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=dfae1066-13b5-4bd4-bf5f-6bdbc71aad71",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO7926: General Practice Incentive Fund",
-      "goId": "GO7926",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Primary Health Networks (PHN) Program General Practice Incentive Fund (GPIF) grant opportunity (the grant opportunity) will enable the design and implementation of health care services in communities where primary care and related service systems: fail are at imminent risk of failure, or are characterised by ongoing instability. The department will identify intervention sites for where the grant opportunity may be targeted. Once a site is identified, the Decision Maker will agree for the relevant PHN to be invited to the grant opportunity. The site identification process includes consultation with relevant jurisdictions (state and territory governments). It will consider information available to the department regarding community impact of service instability or failure. The PHN and/or Rural Workforce Agency (RWA) specific to the identified site may also be consulted to understand local issues. Phase 1: Planning/co-design PHN undertakes consultation with relevant stakeholders for planning and co-design of a service system recovery plan (SSRP). Phase 2: Implementation Implement and evaluate approved SSRP activities. Funding for implementation activities will be determined through assessment of applications (i.e. SSRPs submitted according to the Application Form). Note: Please refer to the most recent version of the Attachment Pack (Implementation Plan, Engagement Strategy, Budget and Risk Management Plan) published on 4 December 2025. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=e766d4bd-7e28-41ad-a5c5-b67091200253",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8518: First Nations Clean Energy Projects – Pilot Grants",
-      "goId": "GO8518",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "up to $10 million",
-      "summary": "The First Nations Clean Energy Projects – Pilot Grants provides funding to First Nations organisations. This program was announced as part of the implementation of the Government’s First Nations Clean Energy Strategy. The objectives of the program are to: support up to 2 First Nations organisations to progress their clean energy projects beyond feasibility towards financial close build evidence of the factors that enable increased investment in First Nations clean energy projects share First Nations clean energy project development lessons learnt with the sector. The intended outcome of the program is to support the economic development and self-determination of First Nations peoples through increased opportunities to lead and benefit from clean energy project developments. There is a total of up to $10 million available for this grant program. Grants will be from $1 million to $10 million. The grant amount will be up to 100% of eligible expenditure.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=2a11693c-b805-4b0b-a875-baf5a17eecfd",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8507: Dementia Training Program",
-      "goId": "GO8507",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Dementia Training Program (DTP), first established nationally in 2016, aims to strengthen the capability of Australia’s health and aged care workforce to provide high-quality, evidence-based dementia care. The purpose of this grant opportunity is to fund the delivery of accredited and non-accredited education, upskilling and professional development in dementia care. The delivery of DTP activities will reflect the emerging dementia, health and aged care landscape, including recent aged care reforms and increasing demand for services. DTP activities will: • Be aligned with a National Dementia Training and Education Standards Framework. • Expand experiential, immersive, peer mentoring and interprofessional training. • Adopt tailored approaches for diverse workforce groups and communities including for First Nations people, those from culturally and linguistically diverse backgrounds and people from regional, rural and remote locations. • Build organisational capability and leadership for high quality dementia care, including sustainable practice change. • Deliver key service elements responding to the Royal Commission into Aged Care Quality and Safety. There are two funding streams: Stream 1 aims to improve capability of health and aged care workers to provide high quality dementia care for non-Indigenous Australians, including people from diverse backgrounds. Stream 2 focuses on culturally safe, community-led dementia training for First Nations communities and workforces. NOTE: Please refer to the most recent Frequently Asked Questions (Version 4) published 2 September 2026. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=87164228-1930-4dbd-adb4-cf1fd32de562",
       "source": "GrantConnect"
     },
     {
@@ -240,6 +156,90 @@
       "amount": "from $5,000 to $4 million",
       "summary": "The Remote Airstrip Upgrade Program provides grants to enhance the safety and accessibility of aerodromes/airports in remote and very remote areas of Australia. This will: improve the safety of aircraft, operators and passengers using remote and very remote airstrips facilitate improved delivery of essential goods and services such as food supplies, health care, community mail and passenger air services complement air services delivery to communities subsidised under the Australian Government’s Remote Air Services Subsidy (RASS) Scheme meet operational requirements of aeromedical (including the RFDS) and emergency services support improved access to air services for people with disability. Grants will be from $5,000 to $4 million. The grant will be up to 50% of eligible project costs (grant percentage), unless either: the applicant (you) and a third party (could include state, territory or local government or other non-government funding) are both contributing to eligible project costs, the grant amount for this opportunity may be reduced to a third of eligible project costs the applicant (you) meets the definition in the grant opportunity guidelines as an Indigenous Owned and/or Operated Aerodrome, the grant will be up to 100% of eligible project costs.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=a8a89148-3e39-4f74-b167-16736d2ee8e6",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8369: Protecting the Great Barrier Reef - Community Stewardship Program Round 2",
+      "goId": "GO8369",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "up to $12.5 million",
+      "summary": "The Australian Government is inviting applications by an open competitive process to apply to deliver services under the Protecting the Great Barrier Reef — Community Stewardship Program Round 2. The Australian Government announced a total of up to $12.5 million (GST exclusive) over 7 years from 2023–24 to 2029–30 for the Protecting the Great Barrier Reef – Community Stewardship Program. For this grant opportunity (Round 2), up to $7.538 million (GST exclusive) is available over 4 years from 2026–27 to 2029–30. Objectives of the Round 2 grant opportunity are to: deliver community-based, on-ground actions that measurably improve the health and resilience of key Reef species and habitats build a long-lasting inclusive and interconnected community stewardship network that mobilises and coordinates communities, Traditional Owners and partners to protect the Reef. Intended outcomes of the Round 2 grant opportunity are to: contribute to the delivery of the Reef 2050 Plan and at least one of the Reef Trust Outcomes support actions addressing the threats to the Reef’s ecosystem and heritage values associated with climate change, coastal development, land-based runoff and direct use, identified in the Great Barrier Reef Outlook Report 2024 increase community-based protection of the Reef through environmentally responsible practices and strengthen coordination of Reef protection activities by local communities empower local communities, including Traditional Owners, to engage in a culture of stewardship that delivers positive outcomes for the Reef.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=0732ad8a-0bb2-4dfd-97d2-4e6b118212e6",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8622: Children's Mobility Capacity",
+      "goId": "GO8622",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Australian Government is inviting one organisation via a restricted process to apply to deliver services under the Families and Communities Program – Families and Children Activity – Children and Parenting Support program in the Perth – North West (SA4) area in 2026–27. The FaC Activity aims to support families, strengthen relationships, improve the wellbeing of children and young people and increase participation of people in community life to enhance family and community functioning. The Children and Parent Support program contributes to achieving the objectives of the FaC Activity, and focuses on providing: early intervention and prevention services aimed at improving children’s development and wellbeing adjunct care and early leaning services support to those in a parenting/carer role. The objectives of the grant opportunity are: support the purchase and installation of new CNC machines strengthen Wheelchairs for Kids Australia’s production reliability and operational sustainability. The intended outcomes of the grant opportunity are: increased organisational capacity to manufacture safe, durable and adjustable all-terrain wheelchairs for children with disability continued delivery of wheelchairs at no cost to children and families, improving children’s mobility, dignity, social participation and access to education improved long-term sustainability of the organisation’s manufacturing operations through modernised equipment with reduced maintenance risks.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=ce60843f-0c72-4e24-a57a-8ed4b202150d",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8586: Australian Orphanage Museum Operations",
+      "goId": "GO8586",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Australian Government is inviting application via a restricted process to apply to deliver services under the Families and Communities – National Find and Connect Program in 2027–28 to 2029–30. The Museum memorialises the history and experiences of approximately 500,000 children who grew up in facilities, such as orphanages, children's homes and foster ‘care’ throughout Australia, up until the end of 1989. The Museum aims to ensure Australians do not forget the past and are reminded of our responsibility to protect all children in our community. The Museum is operated by Care Leavers Australasia Network (CLAN), an independent, peak membership body which provides support, advocacy, research and training for survivors of past abuse in child welfare systems in Australia and New Zealand. This includes former state wards, foster children, and children raised in orphanages and other institutions. The objectives of this grant opportunity are: to support the ongoing operational costs of the Museum to assist CLAN with identifying alternative funding sources to support the viability of the Museum to acknowledge and commemorate the experiences of those Australians who grew up in orphanages, children’s homes and other institutions and foster ‘care’ up until 1989.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=bb7320f7-eaec-4857-8e15-14952ccf85f5",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8554: Continuation of viral hepatitis prevention and response measures",
+      "goId": "GO8554",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The purpose of this grant opportunity is to provide funding to support organisations in the design and delivery of national viral hepatitis community-led initiatives and awareness raising campaigns that engage priority populations, including people at higher risk of acquiring viral hepatitis or with limited access to health care. These activities will help reduce stigma and encourage individuals to seek care and reduce hepatitis-related cancer mortality. This includes: • $6.9 million from 1 January 2027 to 30 June 2029 for National Hepatitis B projects. • $9.0 million 1 January 2027 to 30 June 2029 for National Hepatitis C projects. The objectives of the grant are: • To provide funding to eligible organisations to maintain nationally coordinated activities that improve prevention, testing, diagnosis and treatment outcomes for hepatitis B and C. • To provide funding to eligible organisations to deliver evidence-based activities that address gaps in hepatitis B and C continuum of care. • To address goals and targets in the Strategies. The intended outcomes of the grant opportunity are: • To support harm reduction, public awareness and education, and targeted approaches that increase testing, reduce stigma and discrimination, and strengthen access to culturally safe and appropriate care, particularly among priority populations experiencing inequitable health outcomes. • To reduce hepatitis-related cancer mortality. • To support the national elimination of hepatitis B and C as public health challenges in Australia by 2030. Note: Please see updated Grant Opportunity Guidelines – Version 3 and updated Frequently Asked Questions – Version 2, published on 25 September 2026. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=dfae1066-13b5-4bd4-bf5f-6bdbc71aad71",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8607: Festivals Australia - Round 23",
+      "goId": "GO8607",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "Festivals Australia provides funding to support individual art projects in regional or remote locations. Eligible projects take place at festivals, or significant one-off community events such as a town celebration or opening of a new community resource. Festivals Australia will: provide access to a diverse range of engaging, innovative arts projects that grow audiences at festivals across regional and remote Australia, support partnerships and collaboration across the arts sector, and encourage community participation in arts projects at regional and remote festivals. The program delivers two funding rounds each year usually opening in February and September. The Minister for the Arts (or their delegate) approves funding under the Program Guidelines. To check if your project is taking place in an eligible location, visit the Festivals Australia Eligibility Map. Enter the full address where your project will be delivered into the search box, or click on the location on the map. The remoteness classification, and whether this location is eligible, will be displayed.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=65d9c7b5-3208-4b47-bc48-44fd874d74e2",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8382: On Farm Connectivity Program Round 3",
+      "goId": "GO8382",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The On Farm Connectivity Program Round 3 assists Primary Producers to take advantage of digital agribusiness solutions to boost productivity and improve safety. The grant is provided as a rebate to Approved Suppliers following the sale, delivery, installation, and training, where applicable, of eligible equipment to eligible Primary Producers. Eligible Primary Producers must access the program through an Approved Supplier. The program forms part of the Australian Government’s Better Connectivity Plan for Regional and Rural Australia. To support equitable access to funding, assessments will be prioritised for applications where the Primary Producer has not previously received a benefit under earlier rounds of the On Farm Connectivity Program.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=d694b309-57f9-45a7-b1d2-493fec3aad88",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8589: Comprehensive Primary Health Care – New Entrants",
+      "goId": "GO8589",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The purpose of this grant opportunity is to provide funding for selected Aboriginal Community Controlled Health Services (ACCHSs), currently delivering General Practitioner services, to provide Comprehensive Primary Health Care (CPHC) under the Indigenous Australians’ Health Programme (IAHP) who have not previously been funded to do so. This funding will be available over four years from 2026-27 to 2029-30. The objectives of the grant opportunity are to: • provide First Nations people with improved access to culturally appropriate comprehensive primary health care services by: Supporting ACCHSs to expand or enhance service availability, service frequency, the range of services offered, workforce capability, service integration and geographic coverage • support ACCHSs to deliver culturally appropriate comprehensive primary health care services tailored to the health needs and priorities of their communities, and • support ACCHSs to embed Continuous Quality Improvement and best practice clinical and organisational governance into CPHC service delivery, supporting good health outcomes for clients and service sustainability. The intended outcomes of the grant opportunity are: • First Nations people can access culturally appropriate CPHC services, where and when they need it • ACCHSs deliver culturally appropriate CPHC services that meet the health needs and priorities of their local communities, and • ACCHSs deliver best practice CPHC services to their local communities. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=fb6c9150-a899-43ef-852a-de529c77d89f",
       "source": "GrantConnect"
     }
   ]
