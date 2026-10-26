@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T19:29:58.433Z",
+  "lastUpdated": "2026-10-26T16:21:51.097Z",
   "sources": [
     "GrantConnect",
     "Queensland Government",
@@ -7,8 +7,8 @@
   ],
   "sourceCounts": {
     "GrantConnect": {
-      "fetched": 123,
-      "matched": 66,
+      "fetched": 122,
+      "matched": 69,
       "displayed": 18
     },
     "Queensland Government": {
@@ -22,22 +22,10 @@
       "displayed": 0
     }
   },
-  "totalFetched": 123,
-  "totalMatched": 66,
+  "totalFetched": 122,
+  "totalMatched": 69,
   "totalDisplayed": 18,
   "grants": [
-    {
-      "title": "GO8606: Remote Training Hubs Network: Central Australia Remote Training Hubs Grant - Round 3",
-      "goId": "GO8606",
-      "agency": "",
-      "category": "",
-      "closeDate": "2024-02-13T00:00:00.000Z",
-      "closeDateText": "13 February 2024",
-      "amount": "",
-      "summary": "The Australian Government is inviting organisations via a closed, non-competitive process to apply to deliver services under Program 2.1: Building Skills and Capability from February 2027 to 30 June 2028. The Central Australia Remote Training Hubs Grant, funded through the Remote Training Hubs Network measure, was announced by the Prime Minister on 13 February 2024, under the A Better, Safer Future for Central Australia (Central Australia Plan), to support the delivery of vocational education and training in up to 7 remote community clusters in Central Australia, through the provision of funding for capital assets or improvements, remote training hub coordination and mentoring and participant transport to 30 June 2028. This third round of the Central Australia Remote Training Hubs grant opportunity is open to The Plenty cluster only. The remaining community clusters will be invited to apply in subsequent grant round(s). The Central Australia Mobile Training Units (MTUs) Grant (ID GO7445) is linked to this grant opportunity. If successful, you will be required to work in partnership with the Registered Training Organisations (RTOs) delivering services via the MTUs.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=f3fa75b1-eef2-46eb-b343-b62075b7e5ac",
-      "source": "GrantConnect"
-    },
     {
       "title": "GO8341: Modernised Multicultural Grants Program: Infrastructure for Multicultural Communities",
       "goId": "GO8341",
@@ -60,54 +48,6 @@
       "amount": "up to $10,000",
       "summary": "Assessment and notification of outcomes will be into 2 batches. The table below identifies the cut-off dates for all 2 batches: Batch 1 - closes 9:00 PM AEST on 29 July 2026 - ID 2025-5415 - Closed Batch 2 - closes 9:00 PM AEDT 21 January 2027 - ID 2025-5416 - Open. The Australian Government is inviting eligible organisations to apply for grant funding under the Saluting Their Service Commemorative Grants Program (STS program). The objective of the STS Program is to commemorate the service and sacrifice of Australia’s service personnel who served in wars, conflicts and peace operations, including National Service personnel, and their families. The intended outcome of the STS Program is to provide funding for projects and activities that: promote appreciation and understanding of the experiences of service, and the role of service personnel preserve, add to the sum of knowledge on, or provide access to information about Australia’s wartime heritage. 1. Community Grants Grants up to $10,000 are available for projects and activities that: are focused on the local community commemorate the service and sacrifice of local community members are primarily accessed by the local community. 2. Major Grants Grants between $10,001 and $150,000 are available for major commemorative projects and activities that are significant from a national, state, territory and/or broader regional perspective. These projects may include the construction of new war or peace memorials where none currently exist, as well as additions to existing memorials. If your project relates to restoring or changing a memorial or other commemorative artefact, there may be heritage and conservation considerations.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=f6ed4eff-7fcd-48ed-9641-9409d12012b9",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8607: Festivals Australia - Round 23",
-      "goId": "GO8607",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "Festivals Australia provides funding to support individual art projects in regional or remote locations. Eligible projects take place at festivals, or significant one-off community events such as a town celebration or opening of a new community resource. Festivals Australia will: provide access to a diverse range of engaging, innovative arts projects that grow audiences at festivals across regional and remote Australia, support partnerships and collaboration across the arts sector, and encourage community participation in arts projects at regional and remote festivals. The program delivers two funding rounds each year usually opening in February and September. The Minister for the Arts (or their delegate) approves funding under the Program Guidelines. To check if your project is taking place in an eligible location, visit the Festivals Australia Eligibility Map. Enter the full address where your project will be delivered into the search box, or click on the location on the map. The remoteness classification, and whether this location is eligible, will be displayed.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=65d9c7b5-3208-4b47-bc48-44fd874d74e2",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8640: Volunteer Grants 2025-26: Farrer",
-      "goId": "GO8640",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Australian Government is inviting organisations through a closed, non-competitive process to apply for a Volunteer Grant under the Families and Communities Program – Volunteer Grants Activity. The 2025–26 Volunteer Grants round began with a call for Expressions of Interest (EOI) by Federal Members of Parliament (MPs) who consulted with a community committee to develop a list of organisations to nominate. Following the EOI process, MPs nominated organisations to receive an invitation to apply. The nomination period for MPs to submit their nominations for the main 2025–26 Volunteer Grants round closed on 17 April 2026. This Volunteer Grants Activity is specific to the Farrer electorate only and is directly linked to the main Volunteer Grants Activity – 2025–26 Volunteer Grants round. Due to the resignation of the previous Federal MP for Farrer in February 2026, the 2025–26 Volunteer Grants process for this electorate was deferred until a new Federal MP was elected. The nomination period for the MP for Farrer closed on 14 September 2026. The Volunteer Grants Activity is an element of the Families and Communities Program, which recognises the valuable work of Australia’s volunteers. This initiative forms part of the Australian Government’s ongoing commitment to encourage, support and increase participation in volunteering. Eligible not-for-profit community organisations can use grant funding to cover expenses for online communication and insurance items, small equipment, training, and background screening checks for the main purpose of supporting the volunteer cohorts and volunteer-run activities specified in the 2025–26 Volunteer Grants – Farrer Grant Opportunity Guidelines. The intended outcome of the activity is to strengthen community functioning by supporting and increasing participation in volunteering.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=5dd94535-c14f-472a-aff6-296301ff96b8",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8589: Comprehensive Primary Health Care – New Entrants",
-      "goId": "GO8589",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The purpose of this grant opportunity is to provide funding for selected Aboriginal Community Controlled Health Services (ACCHSs), currently delivering General Practitioner services, to provide Comprehensive Primary Health Care (CPHC) under the Indigenous Australians’ Health Programme (IAHP) who have not previously been funded to do so. This funding will be available over four years from 2026-27 to 2029-30. The objectives of the grant opportunity are to: • provide First Nations people with improved access to culturally appropriate comprehensive primary health care services by: Supporting ACCHSs to expand or enhance service availability, service frequency, the range of services offered, workforce capability, service integration and geographic coverage • support ACCHSs to deliver culturally appropriate comprehensive primary health care services tailored to the health needs and priorities of their communities, and • support ACCHSs to embed Continuous Quality Improvement and best practice clinical and organisational governance into CPHC service delivery, supporting good health outcomes for clients and service sustainability. The intended outcomes of the grant opportunity are: • First Nations people can access culturally appropriate CPHC services, where and when they need it • ACCHSs deliver culturally appropriate CPHC services that meet the health needs and priorities of their local communities, and • ACCHSs deliver best practice CPHC services to their local communities. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=fb6c9150-a899-43ef-852a-de529c77d89f",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8579: Fetal Alcohol Spectrum Disorder (FASD) - Place-Based Funding",
-      "goId": "GO8579",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "Fetal Alcohol Spectrum Disorder (FASD) is a lifelong condition caused by prenatal exposure to alcohol, characterised by a range of physical, cognitive, behavioural, and developmental difficulties that can impact individuals, families, and communities. The purpose of this grant opportunity is designed to strengthen the diagnosis and management of FASD across Australian communities. By providing targeted funding, the program will enhance local capacity for screening, diagnosis, and ongoing monitoring, while fostering greater community awareness of the dangers associated with alcohol consumption during pregnancy or when planning to conceive. This grant opportunity will be made available through two (2) streams. Stream 1: FASD Diagnostic Services Stream 2: Innovative Models of Care Applicants must nominate one primary stream that best aligns with the core purpose of the activities being proposed. Where activities could align to both streams, applicants should select the stream that reflects the main intent and outcomes of the proposal. Funding and reporting requirements will align to the nominated stream. Note: Please refer to the Webinar slides and recording of the Drug and Alcohol Program Webinar that was held on 15 September 2026. Please also see Frequently Asked Questions - Version 2 published on 30 September 2026. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=bcabef3c-060b-489e-bb3e-eb606aac82de",
       "source": "GrantConnect"
     },
     {
@@ -190,8 +130,20 @@
       "closeDate": "",
       "closeDateText": "",
       "amount": "",
-      "summary": "The Supporting Participation Program (full title – Supporting Participation by Representatives of People with Disability in Key International Forums on Human Rights Program) provides funding for people with disability, through representative and advocacy organisations, to participate in key international disability and human rights forums. The program aims to ensure the voices and experiences of Australians with disability are represented in global discussions on disability rights, inclusion and policy development. Funding in 2027 will support participation at the: · United Nations (UN) 20th Session of the Conference of States Parties (COSP20) to the Convention on the Rights of Persons with Disabilities (CRPD), New York, USA, 9 to 11 June 2027 · UN 71st Session of the Commission on the Status of Women (CSW71), New York, USA, 8 to 19 March 2027; and · Asia-Pacific Ministerial Conference on Disaster Risk Reduction (APMCDRR), Sendai, Japan, 25 to 29 October 2027. Delegates will contribute to international discussions on disability rights, build advocacy skills, expand professional networks, and strengthen the Australian disability sector's engagement in global forums. The program includes both General Delegates (aged over 18 years) and Emerging Young Leaders (aged 18 to 35 years), with an emphasis on leadership development, mentoring and capacity building. Delegates and organisations are expected to actively participate in forum activities, collaborate with stakeholders, meet all program requirements, support delegate wellbeing, manage risks, and share outcomes and learnings with the disability sector. Funding primarily supports in-person attendance, while allowing flexibility for virtual participation where required. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "summary": "The Supporting Participation Program (full title – Supporting Participation by Representatives of People with Disability in Key International Forums on Human Rights Program) provides funding for people with disability, through representative and advocacy organisations, to participate in key international disability and human rights forums. The program aims to ensure the voices and experiences of Australians with disability are represented in global discussions on disability rights, inclusion and policy development. Funding in 2027 will support participation at the: · United Nations (UN) 20th Session of the Conference of States Parties (COSP20) to the Convention on the Rights of Persons with Disabilities (CRPD), New York, USA, 9 to 11 June 2027 · UN 71st Session of the Commission on the Status of Women (CSW71), New York, USA, 8 to 19 March 2027; and · Asia-Pacific Ministerial Conference on Disaster Risk Reduction (APMCDRR), Sendai, Japan, 25 to 29 October 2027. Delegates will contribute to international discussions on disability rights, build advocacy skills, expand professional networks, and strengthen the Australian disability sector's engagement in global forums. The program includes both General Delegates (aged over 18 years) and Emerging Young Leaders (aged 18 to 35 years), with an emphasis on leadership development, mentoring and capacity building. Delegates and organisations are expected to actively participate in forum activities, collaborate with stakeholders, meet all program requirements, support delegate wellbeing, manage risks, and share outcomes and learnings with the disability sector. Funding primarily supports in-person attendance, while allowing flexibility for virtual participation where required. NOTE:Refer to Easy Read documents (v2) published 20 October 2026. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=e0d1e575-e433-4a86-afbb-06efe6ae3af6",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8656: Fetal Alcohol Spectrum Disorder – National Funding",
+      "goId": "GO8656",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "This closed non-competitive grant opportunity will provide funding to eligible organisations to deliver a coordinated approach to reducing the impact of Fetal Alcohol Spectrum Disorder (FASD) across Australia. It seeks to foster best-practice initiatives through the development and implementation of accessible resources, enhancement of data collection, and evidence-based strategies. By supporting research, service delivery, and targeted interventions, the grant will empower communities, professionals, and families to better recognise, prevent, and manage FASD, ultimately improving outcomes for those affected and reducing the incidence of prenatal alcohol-related harm. The intended outcomes of the grant opportunity are to: • reduce the prevalence and impact of FASD across Australia • minimise stigma and improve quality of life for people with FASD • decrease harm from prenatal alcohol exposure and enhance health, social, and economic outcomes, and • promote equitable access, especially for priority populations such as First Nations people, women with substance use issues, affected families, and those with co-occurring conditions. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=11addf68-cbbd-4d3c-8cec-6a0037451baf",
       "source": "GrantConnect"
     },
     {
@@ -231,6 +183,18 @@
       "source": "GrantConnect"
     },
     {
+      "title": "GO8651: Thriving Kids - First Nations Early Years Best Practice and Capability Building",
+      "goId": "GO8651",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "This grant opportunity will fund SNAICC – National Voice for Our Children to deliver the Thriving Kids First Nations Early Years Best Practice and Capability Building Activity, supporting the Commonwealth’s commitment to provide dedicated First Nations national workforce activities. Funding will be provided over a 5-year period. The activity aims to ensure First Nations voices inform the design and implementation of Thriving Kids, strengthen the capability of the Aboriginal Community Controlled Organisation (ACCO) sector to identify and support children with developmental delay and autism, and improve the cultural safety and responsiveness of mainstream providers. The grant will be delivered through a two-stream approach. This includes ongoing collaboration between the Commonwealth, SNAICC, cross sector peaks and states and territories, to ensure that national activities align with and inform local implementation and priorities. The activity will complement state and territory investments and promote collaboration across the early childhood, education, health and community services sectors. The intended outcome is improved access to culturally safe and responsive Thriving Kids supports for Aboriginal and Torres Strait Islander children and families, supported by a skilled and capable community-controlled workforce and culturally responsive mainstream providers. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=c2af135f-dfd3-40fb-a30b-9fcbf1b01528",
+      "source": "GrantConnect"
+    },
+    {
       "title": "GO8649: LGBTIQA+ Health Program – Round 2",
       "goId": "GO8649",
       "agency": "",
@@ -240,6 +204,42 @@
       "amount": "",
       "summary": "The LGBTIQA+ Health Program (LHP) is administered by LGBTIQ+ Health Australia on behalf of the Australian Government Department of Health, Disability and Ageing. The LHP contributes to delivery of the National Action Plan for the Health and Wellbeing of LGBTIQA+ People 2025–2035 (National Action Plan) in line with the Public Governance, Performance and Accountability Act 2013 (PGPA Act) and the Commonwealth Grants Rules and Principles 2024 (CGRPs). Organisations with specialist expertise in LGBTIQA+ health and wellbeing are invited to apply for one-off competitive grants to support new and existing initiatives at the local, regional and national level that will foster access to appropriate, culturally sound and inclusive health care. The Australian Government has allocated a total of $11.9 million until the 2027-2028 financial year (inclusive) for the LHP. $8.1 million was committed to projects funded in the first round of the LHP. This is the final, planned substantive LHP grant round. LGBTIQ+ Health Australia (LHA) is the first point of contact for the LGBTIQA+ Health Program. All supporting documents related to this Grant Opportunity are available on the LHA website. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=4f5999a7-5582-4632-b5b4-0c190148d894",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8631: Veteran Wellbeing Grants (VWG) Program 2026-27",
+      "goId": "GO8631",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "up to $3.744 million",
+      "summary": "The Australian Government is providing funding under the VWG Program through a Targeted Competitive grants process. To be eligible to apply your organisation must be either: an ESO applying in its own right (as defined in the Grant Opportunity Guidelines), or as the lead organisation of a consortium, or a non-ESO applying as the lead member of a consortium with at least one ESO and be one of the legal entity types as outlined in the Grant Opportunity Guidelines. The Australian Government has announced a total of up to $3.744 million (GST exclusive) for the VWG Program for the 2026–27 financial year. Applications will be considered under 2 grant streams: Stream A Small Grants (up to a maximum of $50,000 per grant) and Stream B Large Grants (from $50,001 to a maximum of $200,000 per grant). There is no set proportion of the funding allocated per stream. The objectives of the VWG Program are to: maintain and improve the independence and quality of life of members of the veteran community, by providing funding for activities and projects that sustain or enhance health and social wellbeing deliver activities and projects not already provided by Australian, state, territory or local government funding to the veteran community to build future community capacity expand on existing activities and projects offered to the veteran community in new regions within Australia or in the development of new activities and projects that will be offered in more than one location raise awareness of the important issues faced by the veteran community.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=09966109-c7d1-4bfb-a5a0-6c3b6e4b87d9",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8372: MRFF – Indigenous Health Research Fund – 2026 Empowering Community-Controlled Research Grant Opportunity",
+      "goId": "GO8372",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Medical Research Future Fund (MRFF) Indigenous Health Research Fund aims to improve the health of Aboriginal and Torres Strait Islander people through: Indigenous-led research practice and governance knowledge translation evidence-based structural change in Aboriginal and Torres Strait Islander health practice building on the unique knowledge, strengths and endurance of our communities, with particular reference to Country, culture and spirituality The objective of this grant opportunity is to provide a grant of financial assistance to an organisation or consortium to run an Aboriginal and Torres Strait Islander Community-Controlled program to support Aboriginal and/or Torres Strait Islander led health and medical research projects. The successful applicant is required to undertake a review, develop a Strategic Priorities Investment Plan and partner with and support Aboriginal and Torres Strait Islander health and medical research projects and researchers. This grant opportunity is being administered by NHMRC on behalf of the Australian Government Department of Health, Disability and Ageing. Further information on the Medical Research Future Fund is available from the Department of Health, Disability and Ageing's website. A list of Eligible Organisations can be found on the NHMRC List of MRFF Eligible Organisations webpage.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=4fda1ebb-adab-45ba-a351-7dd25aa0d7cd",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8163: Partnership Projects 2026",
+      "goId": "GO8163",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "Partnership Projects will support collaborations, within the Australian context, that translate research evidence into health policy and health practice, to improve health services and processes. The objectives of the Partnership Project scheme are to: • Meet the need for more effective integration of research evidence into health policy and service delivery • Create partnerships among policy makers, managers, service providers and researchers • Provide support to answer often complex and difficult questions that policy makers, managers and service providers face when making decisions and implementing policies that affect Australians’ health and health care • Be highly responsive to the priorities of government, the community and health professionals • Enable applicants to apply for funding at any time during the year to allow researchers and Partner Organisations to develop timely collaborations.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=c62ff006-74fc-44fe-bf80-934b51f3dbfd",
       "source": "GrantConnect"
     }
   ]
