@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T16:21:51.097Z",
+  "lastUpdated": "2026-11-09T20:16:08.262Z",
   "sources": [
     "GrantConnect",
     "Queensland Government",
@@ -7,8 +7,8 @@
   ],
   "sourceCounts": {
     "GrantConnect": {
-      "fetched": 122,
-      "matched": 69,
+      "fetched": 121,
+      "matched": 73,
       "displayed": 18
     },
     "Queensland Government": {
@@ -22,8 +22,8 @@
       "displayed": 0
     }
   },
-  "totalFetched": 122,
-  "totalMatched": 69,
+  "totalFetched": 121,
+  "totalMatched": 73,
   "totalDisplayed": 18,
   "grants": [
     {
@@ -34,7 +34,7 @@
       "closeDate": "2026-05-18T00:00:00.000Z",
       "closeDateText": "18 May 2026",
       "amount": "up to $41.6 million",
-      "summary": "Information session An online information session scheduled to be held on Wednesday 7 October 2026 for Batch 2 applicants has been postponed. In the meantime, you can view the recording of an information session held earlier this year for this grant opportunity by visiting Infrastructure for Multicultural Grant – 6 May 2026 Information Session - Meeting Recording. Assessment and notification of outcomes will be divided into 2 batches. The table below identifies the cut-off dates for each batch: Batch 1 - closes 4:00 pm AEST on 18 May 2026 - ID 2025-5201 - Closed Batch 2 - closes 4:00 pm AEDT on 12 November 2026 - ID 2026-6462 - Open. The Australian Government is inviting organisations through an open competitive process to apply to deliver community infrastructure under the Infrastructure for Multicultural Communities program from 2026–27. The Infrastructure for Multicultural Communities grant opportunity provides total funding of up to $41.6 million (GST exclusive) for construction, upgrade or extension of infrastructure. You can apply for one of 3 streams of grant funding based on the type of infrastructure project and amount of grant funding you require for the project. The grant opportunity is comprised of 2 funding opportunities, called batches. You can apply for funding in one batch. Batch 1 opens on 7 April 2026 and closes on 18 May 2026. Batch 2 opens on 18 May 2026 and closes on 12 November 2026. The following groups and projects will be prioritised for funding: new and emerging multicultural communities, as defined below projects focussed on achieving positive outcomes for multicultural women, multicultural LGBTIQA+ community members, and multicultural people with a disability. Co-contributions are required towards the value of your project and the minimum amount of co funding is determined by whether you are applying as a priority group/project or other.",
+      "summary": "Assessment and notification of outcomes will be divided into 2 batches. The table below identifies the cut-off dates for each batch: Batch 1 - closes 4:00 pm AEST on 18 May 2026 - ID 2025-5201 - Closed Batch 2 - closes 4:00 pm AEDT on 12 November 2026 - ID 2026-6462 - Open. The Australian Government is inviting organisations through an open competitive process to apply to deliver community infrastructure under the Infrastructure for Multicultural Communities program from 2026–27. The Infrastructure for Multicultural Communities grant opportunity provides total funding of up to $41.6 million (GST exclusive) for construction, upgrade or extension of infrastructure. You can apply for one of 3 streams of grant funding based on the type of infrastructure project and amount of grant funding you require for the project. The grant opportunity is comprised of 2 funding opportunities, called batches. You can apply for funding in one batch. Batch 1 opens on 7 April 2026 and closes on 18 May 2026. Batch 2 opens on 18 May 2026 and closes on 12 November 2026. The following groups and projects will be prioritised for funding: new and emerging multicultural communities, as defined below projects focussed on achieving positive outcomes for multicultural women, multicultural LGBTIQA+ community members, and multicultural people with a disability. Co-contributions are required towards the value of your project and the minimum amount of co funding is determined by whether you are applying as a priority group/project or other. A recording of an information session held earlier this year for this grant opportunity can be found by visiting Infrastructure for Multicultural Grant – 6 May 2026 Information Session - Meeting Recording.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=38113ae0-7343-4103-9c1a-44af8b5d125c",
       "source": "GrantConnect"
     },
@@ -51,159 +51,27 @@
       "source": "GrantConnect"
     },
     {
-      "title": "GO8266: 2026 NHMRC-GACD: Multisectoral Approaches",
-      "goId": "GO8266",
+      "title": "GO8681: NIEA Expression of Interest for funding commencing in 2027",
+      "goId": "GO8681",
       "agency": "",
       "category": "",
-      "closeDate": "",
-      "closeDateText": "",
+      "closeDate": "2026-12-10T00:00:00.000Z",
+      "closeDateText": "10 December 2026",
       "amount": "",
-      "summary": "Together with other Global Alliance for Chronic Diseases (GACD) Associate Members, NHMRC is inviting investigators to submit applications for implementation research maximising collaboration and coordination with sectors and in settings beyond the healthcare system to tackle chronic non-communicable diseases (NCDs) in low- and middle-income countries (LMICs) (as defined by the World Bank) and/or underserved populations in high-income countries (HICs). For NHMRC funding support in HICs, research must focus on Australian Aboriginal and/or Torres Strait Islander communities. The objective of the 2026 NHMRC-GACD grant opportunity is to fund implementation research focused on strategies leveraging opportunities provided by settings and sectors beyond the health system in LMICs and/or for Aboriginal and/or Torres Strait Islander communities in Australia. While the focus is on settings outside of the healthcare system, collaboration with the relevant healthcare system(s) as part of the project is expected to facilitate effective design and knowledge mobilisation.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=76c4953a-2e2c-4eb8-a28b-1c7e2587e9a6",
+      "summary": "The Office of National Intelligence (ONI) is conducting an Expression of Interest (EOI) grant opportunity for the National Intelligence Explore Award (NIEA). The National Intelligence Community (NIC) Research Program enables the Australian academic community to undertake competitive, unclassified research into NIC research priorities. The program supports peer-reviewed research that deepens understanding of emerging science, social science, engineering and technology. NIC innovation is facilitated through the creation of sovereign expertise, discovery of new insights and development of an R&D ecosystem to underpin emerging technological capability. A NIEA (up to 12 available) provides up to $750k over three years to enable research into NIC research priorities and challenges. The NIEA will be awarded to early-mid career researchers partnering with experienced researchers and emerging PhD candidates. The NIEA will also enable the possibility for extension research. Research proposals are invited to address an Intelligence Science and Technology Challenge or a NIC-defined Research Topic. Two-stage Application Process 1. Expression of Interest (EOIs) applications open: 2 November 2026 close: 10 December 2026 2. Full applications by invitation only open: 21 December 2026 close: 3 March 2027 It is strongly recommended that you read the Grant Guidelines carefully to ensure your eligibility before applying.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=00a9859e-fdca-4172-a14a-79e507fe1005",
       "source": "GrantConnect"
     },
     {
-      "title": "GO8550: Our Marine Parks Grants – Round 5",
-      "goId": "GO8550",
+      "title": "GO8700: Forestry Industry - Support Plantation Establishment Round 4",
+      "goId": "GO8700",
       "agency": "",
       "category": "",
-      "closeDate": "",
-      "closeDateText": "",
+      "closeDate": "2026-12-16T00:00:00.000Z",
+      "closeDateText": "16 December 2026",
       "amount": "",
-      "summary": "The Australian Government is inviting organisations in an open process to apply to deliver services under the Our Marine Parks Grants Program, nationally, from June 2027 to May 2030. The objectives of the grant opportunity are to promote actions that align with the management programs of Australian Marine Parks Management Plans to: support Traditional Owners to: document and maintain their traditional knowledge, cultural sites and values associated with Sea Country in and adjacent to Australian Marine Parks participate in the management of Sea Country in Australian Marine Parks and in adjacent waters enhance community capacity and participation in marine park management, including through improved understanding of social and environmental values protect marine parks from threats and pressures, to minimise damage, and to improve the resilience of marine parks support relevant industries to understand and engage in marine park management – commercial and recreational fishing and tourism for example improve awareness and understanding of Australian Marine Parks and their management arrangements support compliance by marine park users improve scientific knowledge through research and monitoring in line with: Australian Marine Parks Science Priorities and/or the demonstrated priorities of First Nations groups with a connection to Australian Marine Parks. Note: if your project includes a component in adjacent waters, ensure you tell us in your application how this component contributes to Australian Marine Park management.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=1a8723dc-f721-482d-aea0-30074c782855",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8616: ASEAN-Australia Centre 2026-27 Grants Program",
-      "goId": "GO8616",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "For the 2026-27 grants opportunity, the ASEAN-Australia Centre welcomes applications aligned with its mission and four pillars across three streams: Economic engagement; Creative industry and cultural connections; and Asia capability. Economic engagement initiatives may support networking, information exchange, awareness-raising, business matching and Asia capability for Australian business, including First Nations businesses. Creative industry and cultural connections may support exchanges, residencies, capacity-building, professional development, collaboration, export pathways and market development. Asia capability initiatives may draw on Southeast Asian student expertise, establish professional benchmarking or accreditation, or develop Australian Curriculum-aligned teaching resources. Projects must involve multiple Southeast Asian countries and identify Southeast Asian partners. The intended outcome is to build business, cultural and community links between Southeast Asia and Australia.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=a66061f6-21ff-45ee-891b-4294352dc7c1",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8592: African Australian Communities Program Stream 1 – Round 3",
-      "goId": "GO8592",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Australian Government is inviting organisations through a closed non-competitive process to apply to deliver services in New South Wales, Victoria and Western Australia, under Program 2.5 Multicultural Affairs and Citizenship Program over 3 years from 2026-27 to 2028-29. The grant responds to the African Australian communities needs highlighted in the Multicultural Framework Review report, Towards Fairness: A Multicultural Australia for all. It will bolster assistance to African Australian communities to support their integration in the Australian community. The objective of the program is: to bolster the capacity of African-led and other organisations with demonstrated experience working with African Australians to further the settlement and integration journey of African Australian communities in Australia. The intended outcomes of the program are: to support African Australian communities to further their participation, integration and sense of belonging in Australia and enhance community cohesion. The invited applicants have demonstrated experience working with African Australian communities to deliver projects in one or more of the following key focus areas: youth programs that support African Australian youth to participate in Australian society or re-engage following experiences in the criminal justice mental health programs employment services and employment opportunities that are culturally appropriate and tailored to the specific needs of African Australians family programs such as, parenting support and support for survivors of domestic violence establishing projects to build capacity and capability in grassroots African Australian community organisations facilitating culturally appropriate access to Commonwealth services. This grant will be administered by the Community Grants Hub on behalf of the Department of Home Affairs. The grant is to be undertaken in accordance with the Commonwealth Grants Rules and Principles 2024.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=9b7c767e-93ef-4c2d-baf7-f04f34ea36b2",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8621: Thriving Kids – First Nations Sector Strengthening",
-      "goId": "GO8621",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The aim of the grant opportunity is to deliver the Thriving Kids First Nations Sector Strengthening activity, as part of the Commonwealth’s commitment to provide dedicated First Nations national workforce activities from December 2026 until 30 June 2031. Funding will be provided for a 5-year period. This grant opportunity: focuses on uplifting the capability of National Aboriginal Community Controlled Health Organisation (NACCHO) member organisations and jurisdictional affiliates, acknowledges that Thriving Kids will be delivered and facilitated by and within various sectors, and will require collaboration across education, early childhood, health and community services. The purpose of the grant is to: Bring a First Nations voice and perspective to design, implementation and roll-out of Thriving Kids services, through established Thriving Kids governance arrangements, including informing the development and implementation of the Thriving Kids Workforce and Training Capability Framework Enable the community-controlled sector to build workforce capability skills to identify/screen and connect Aboriginal and Torres Strait Islander children with developmental delay and autism, and their families, carers and kin with Thriving Kids supports that match their developmental support needs. Overall, the grant activity will engage NACCHO to deliver the sector strengthening activity in a two-steam approach, including ongoing collaboration between the Commonwealth, NACCHO, cross sector peaks and states and territories, to ensure that national activities align with and inform local implementation and priorities. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=c6fa8e11-1d36-4985-bd53-a2495f47502f",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8618: Children and Family Support",
-      "goId": "GO8618",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Australian Government is inviting eligible organisations via a restricted process to apply to deliver services under Program 2.1 Families and Communities – Families and Children Activity - Children and Family Support (CaFS) program from 1 July 2027 to 30 June 2032. The CaFS program aims to strengthen family wellbeing by delivering flexible, responsive supports for families with children aged 0–17 years, and young people up to age 25, where appropriate. The CaFS program aims to achieve the following 2 outcomes: Parents and caregivers receive the support they need to guide children’s social and emotional growth in families and communities that are safe and strong. Children and young people receive social and emotional support they need. Funding under the CaFS program will be targeted to the following 4 investment priorities: To invest early to improve family wellbeing, break cycles of disadvantage, and reduce the need for later interventions like child protection. Connected or integrated services that work together to meet family needs. Ensure services are informed by, and respond to, community needs. Improve outcomes for First Nations children and families by increasing the number of Aboriginal and Torres Strait Islander community-controlled organisations (ACCOs) delivering supports in locations with high First Nations populations.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=b7e46d91-7f7d-46c6-93c9-49e213377ff7",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8604: Supporting Participation Program – 2026-27",
-      "goId": "GO8604",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Supporting Participation Program (full title – Supporting Participation by Representatives of People with Disability in Key International Forums on Human Rights Program) provides funding for people with disability, through representative and advocacy organisations, to participate in key international disability and human rights forums. The program aims to ensure the voices and experiences of Australians with disability are represented in global discussions on disability rights, inclusion and policy development. Funding in 2027 will support participation at the: · United Nations (UN) 20th Session of the Conference of States Parties (COSP20) to the Convention on the Rights of Persons with Disabilities (CRPD), New York, USA, 9 to 11 June 2027 · UN 71st Session of the Commission on the Status of Women (CSW71), New York, USA, 8 to 19 March 2027; and · Asia-Pacific Ministerial Conference on Disaster Risk Reduction (APMCDRR), Sendai, Japan, 25 to 29 October 2027. Delegates will contribute to international discussions on disability rights, build advocacy skills, expand professional networks, and strengthen the Australian disability sector's engagement in global forums. The program includes both General Delegates (aged over 18 years) and Emerging Young Leaders (aged 18 to 35 years), with an emphasis on leadership development, mentoring and capacity building. Delegates and organisations are expected to actively participate in forum activities, collaborate with stakeholders, meet all program requirements, support delegate wellbeing, manage risks, and share outcomes and learnings with the disability sector. Funding primarily supports in-person attendance, while allowing flexibility for virtual participation where required. NOTE:Refer to Easy Read documents (v2) published 20 October 2026. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=e0d1e575-e433-4a86-afbb-06efe6ae3af6",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8656: Fetal Alcohol Spectrum Disorder – National Funding",
-      "goId": "GO8656",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "This closed non-competitive grant opportunity will provide funding to eligible organisations to deliver a coordinated approach to reducing the impact of Fetal Alcohol Spectrum Disorder (FASD) across Australia. It seeks to foster best-practice initiatives through the development and implementation of accessible resources, enhancement of data collection, and evidence-based strategies. By supporting research, service delivery, and targeted interventions, the grant will empower communities, professionals, and families to better recognise, prevent, and manage FASD, ultimately improving outcomes for those affected and reducing the incidence of prenatal alcohol-related harm. The intended outcomes of the grant opportunity are to: • reduce the prevalence and impact of FASD across Australia • minimise stigma and improve quality of life for people with FASD • decrease harm from prenatal alcohol exposure and enhance health, social, and economic outcomes, and • promote equitable access, especially for priority populations such as First Nations people, women with substance use issues, affected families, and those with co-occurring conditions. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=11addf68-cbbd-4d3c-8cec-6a0037451baf",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8600: Targeted Call for Research: Strengthening the Aboriginal and Torres Strait Islander Health Workforce Pipeline 2026",
-      "goId": "GO8600",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "A Targeted Call for Research (TCR) is a one-time request for grant applications designed to stimulate research in a particular area that will benefit the health of Australians or address a specific health issue. A strong, culturally safe and sustainable Aboriginal and Torres Strait Islander health workforce is widely recognised as an enabler of health equity, building stronger community engagement while improving access to health services and developing sustainable culturally responsive models of care. Aboriginal and Torres Strait Islander health professionals therefore play a vital role in improving trust in healthcare services, leading to better continuity of care that integrates community leadership and ultimately ensuring health systems are responsive to the needs of Aboriginal and Torres Strait Islander peoples. The objectives of TCR: Strengthening the Aboriginal and Torres Strait Islander Health Workforce Pipeline to Improve Health Equity 2026 are: • To improve understanding of the enablers and barriers influencing attraction, education, recruitment, retention, career progression and leadership across Aboriginal and Torres Strait Islander health workforce pipeline, including diverse and non-linear workforce pathways. • To evaluate the effectiveness, sustainability and cultural responsiveness of existing workforce development initiatives, models and strategies including contextual conditions that support their success. • To strengthen research and evaluation capability in the Aboriginal and Torres Strait Islander health workforce through meaningful participation, training and leadership opportunities. • To develop practical and culturally responsive tools, frameworks and measures to support workforce evaluation, planning and continuous improvement. • To generate evidence-based recommendations that support scalable, gender-balanced workforce development approaches and long-term improvements in health equity.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=3dc2642e-9d72-460a-a7b8-0233684e16d4",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8615: NHMRC Centres of Research Excellence 2027",
-      "goId": "GO8615",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The objectives of the CRE scheme are to improve health outcomes and promote or improve translation of research outcomes into policy and/or practice. The CRE scheme also supports researchers in capacity building activities, including in specific areas of need identified by NHMRC. The intended outcomes of the CRE scheme are to: • support the conduct and development of innovative, high quality, collaborative research • promote effective translation of research into knowledge gain, health policy and/or practice • foster and build capacity and capability in the health and medical research workforce • provide opportunities to expand and improve collaborations between research teams. The CRE 2027 grant opportunity will provide support for teams of researchers to purshue collaborative research and develop capacity in basic science research, clinical research, health services research and public health research. Applicants select the application stream that best fits their research proposal. Applicants should refer to the Centres of Research Excellence 2027 Guidelines for further guidance in selecting the appropriate stream. A CRE may be a single physical entity or institute, or a geographically disparate network linking across more than one institution. Centres are encouraged to collaborate with, and participate in, national and international research studies.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=b10bfb0f-38ed-4b34-849f-8858a1a7829d",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8477: MRFF – PHCRI – 2026 Primary Health Care Research Grant Opportunity",
-      "goId": "GO8477",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The Medical Research Future Fund (MRFF) – Primary Health Care Research Initiative (PHCRI) aims to enable or support an increase in Australia’s evidence base in primary health care through research to improve service delivery and patient outcomes, and translate this knowledge into action. The objective of this grant opportunity is to provide grants of financial assistance to support medical research and medical innovation projects that: investigate and trial approaches, including adapting successful trials, to advance equity in primary health care services. are co-designed with primary health care services and consumers. Two streams of funding are available: Stream 1 (Targeted Call for Research): The organisation undertaking the majority of the research must be located in any area according to the Modified Monash Model (MM1-7). Stream 2 (Targeted Call for Research): The organisation undertaking the majority of the research is located in, and the Chief Investigator A and 50% or more of all Chief Investigators, and all research participants, are primarily resident in a regional, rural or remote area according to the Modified Monash Model (MM2-7). The intended outcome of the research is to improve the health and wellbeing of Australians by advancing equity in primary health care services. Applicants to this grant opportunity must propose to conduct research that delivers against the above objectives and those of the Primary Health Care Research Initiative. This grant opportunity is being administered by NHMRC on behalf of the Australian Government Department of Health, Disability and Ageing. Further information on the Medical Research Future Fund is available from the Department of Health, Disability and Ageing's website. A list of Eligible Organisations can be found on the NHMRC List of MRFF Eligible Organisations webpage.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=ccc1e089-f6d8-4a54-8637-0162b929120d",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8651: Thriving Kids - First Nations Early Years Best Practice and Capability Building",
-      "goId": "GO8651",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "This grant opportunity will fund SNAICC – National Voice for Our Children to deliver the Thriving Kids First Nations Early Years Best Practice and Capability Building Activity, supporting the Commonwealth’s commitment to provide dedicated First Nations national workforce activities. Funding will be provided over a 5-year period. The activity aims to ensure First Nations voices inform the design and implementation of Thriving Kids, strengthen the capability of the Aboriginal Community Controlled Organisation (ACCO) sector to identify and support children with developmental delay and autism, and improve the cultural safety and responsiveness of mainstream providers. The grant will be delivered through a two-stream approach. This includes ongoing collaboration between the Commonwealth, SNAICC, cross sector peaks and states and territories, to ensure that national activities align with and inform local implementation and priorities. The activity will complement state and territory investments and promote collaboration across the early childhood, education, health and community services sectors. The intended outcome is improved access to culturally safe and responsive Thriving Kids supports for Aboriginal and Torres Strait Islander children and families, supported by a skilled and capable community-controlled workforce and culturally responsive mainstream providers. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=c2af135f-dfd3-40fb-a30b-9fcbf1b01528",
-      "source": "GrantConnect"
-    },
-    {
-      "title": "GO8649: LGBTIQA+ Health Program – Round 2",
-      "goId": "GO8649",
-      "agency": "",
-      "category": "",
-      "closeDate": "",
-      "closeDateText": "",
-      "amount": "",
-      "summary": "The LGBTIQA+ Health Program (LHP) is administered by LGBTIQ+ Health Australia on behalf of the Australian Government Department of Health, Disability and Ageing. The LHP contributes to delivery of the National Action Plan for the Health and Wellbeing of LGBTIQA+ People 2025–2035 (National Action Plan) in line with the Public Governance, Performance and Accountability Act 2013 (PGPA Act) and the Commonwealth Grants Rules and Principles 2024 (CGRPs). Organisations with specialist expertise in LGBTIQA+ health and wellbeing are invited to apply for one-off competitive grants to support new and existing initiatives at the local, regional and national level that will foster access to appropriate, culturally sound and inclusive health care. The Australian Government has allocated a total of $11.9 million until the 2027-2028 financial year (inclusive) for the LHP. $8.1 million was committed to projects funded in the first round of the LHP. This is the final, planned substantive LHP grant round. LGBTIQ+ Health Australia (LHA) is the first point of contact for the LGBTIQA+ Health Program. All supporting documents related to this Grant Opportunity are available on the LHA website. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
-      "link": "https://www.grants.gov.au/Go/Show?GoUuid=4f5999a7-5582-4632-b5b4-0c190148d894",
+      "summary": "Assessment and notification of outcomes will be divided into 2 batches. The table below identifies the cut-off dates for the 2 batches: Batch 1 - closes 4:00 pm AEDT on 16 December 2026 - ID 2026-6698 - Open Batch 2 - closes 4:00 pm AEST on 30 June 2027 - ID 2026-7196 - Closed. The Australian Government is inviting organisations via a Demand Driven (eligibility based) process to deliver services under the Forestry Industry - Support Plantation Establishment Program. Round 4 of the program will contribute to the Forestry Growth Fund, helping to grow Australia’s forestry industry by supporting regional jobs and rural communities, innovation, sustainable fibre supply, and domestic capacity to product high-value wood products for housing and construction. The objectives of the program are to: increase future plantation forest resources available for processing, as well as for plantation forest management, harvesting and haulage employment support private industry, First Nations businesses, farm foresters and state and territory forestry bodies to expand the Australian plantation forest estate contribute to meeting Australia’s carbon emission reduction targets, including under the United Nations Framework Convention on Climate Change, and the Kyoto Protocol to the Climate Change Convention. At the time of submitting your application, you must not have planted the trees as part of your project activities. You also can not include any activities that have or will be undertaken prior to the earliest activity start date for the relevant batch you are applying to as part of your grant funded or co-contribution activities. The earliest activity start dates for each batch are: Batch 1: May 2027 Batch 2: November 2027.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=bcde01f0-f147-4706-9d4d-5b18b060257f",
       "source": "GrantConnect"
     },
     {
@@ -216,6 +84,18 @@
       "amount": "up to $3.744 million",
       "summary": "The Australian Government is providing funding under the VWG Program through a Targeted Competitive grants process. To be eligible to apply your organisation must be either: an ESO applying in its own right (as defined in the Grant Opportunity Guidelines), or as the lead organisation of a consortium, or a non-ESO applying as the lead member of a consortium with at least one ESO and be one of the legal entity types as outlined in the Grant Opportunity Guidelines. The Australian Government has announced a total of up to $3.744 million (GST exclusive) for the VWG Program for the 2026–27 financial year. Applications will be considered under 2 grant streams: Stream A Small Grants (up to a maximum of $50,000 per grant) and Stream B Large Grants (from $50,001 to a maximum of $200,000 per grant). There is no set proportion of the funding allocated per stream. The objectives of the VWG Program are to: maintain and improve the independence and quality of life of members of the veteran community, by providing funding for activities and projects that sustain or enhance health and social wellbeing deliver activities and projects not already provided by Australian, state, territory or local government funding to the veteran community to build future community capacity expand on existing activities and projects offered to the veteran community in new regions within Australia or in the development of new activities and projects that will be offered in more than one location raise awareness of the important issues faced by the veteran community.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=09966109-c7d1-4bfb-a5a0-6c3b6e4b87d9",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8669: Volunteer Management Activity - 2027-2031",
+      "goId": "GO8669",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Australian Government is inviting Volunteering Australia via a restricted process to apply to deliver services under the Family and Communities Program, Volunteer Management Activity nationally from 1 January 2027 to 31 December 2031. The grant will contribute to Program 2.1.6: Volunteering and Community Connectedness under DSS Outcome 2 by funding a nationally coordinated model led by Volunteering Australia, supported by state and territory peak bodies, and targeted legal and capacity-building services. The grant opportunity is intended to strengthen community connectedness, improve inclusion and accessibility in volunteering. Funding will support the delivery of training, resources, tools, information and advisory services for volunteers and Volunteer Involving Organisations (VIOs), as well as targeted legal and capacity-building assistance. The activity will also support improved volunteer management practices, increased participation in volunteering, and greater inclusion and accessibility for diverse communities. The VMA aligns with the National Strategy for Volunteering 2023–2033 and aims to strengthen community connectedness, build organisational capability, and create a volunteering ecosystem that is responsive to the changing needs of volunteers, organisations and communities.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=9974ed3a-cfe8-432a-ae42-c390544d508b",
       "source": "GrantConnect"
     },
     {
@@ -240,6 +120,126 @@
       "amount": "",
       "summary": "Partnership Projects will support collaborations, within the Australian context, that translate research evidence into health policy and health practice, to improve health services and processes. The objectives of the Partnership Project scheme are to: • Meet the need for more effective integration of research evidence into health policy and service delivery • Create partnerships among policy makers, managers, service providers and researchers • Provide support to answer often complex and difficult questions that policy makers, managers and service providers face when making decisions and implementing policies that affect Australians’ health and health care • Be highly responsive to the priorities of government, the community and health professionals • Enable applicants to apply for funding at any time during the year to allow researchers and Partner Organisations to develop timely collaborations.",
       "link": "https://www.grants.gov.au/Go/Show?GoUuid=c62ff006-74fc-44fe-bf80-934b51f3dbfd",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8677: Alcohol and Other Drugs (AOD) Peak Organisations",
+      "goId": "GO8677",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "This closed non-competitive grant opportunity will provide funding to Alcohol and Other Drug (AOD) Peak Organisations to strengthen sector leadership, capacity building and advocacy, while also enhancing national data capability through improved data collection, analysis, evaluation and reporting. The objectives of the grant opportunity are to: • improve national alignment and consistency in AOD data collection, reporting, and performance monitoring in line with the National Drug Strategy and relevant national frameworks • strengthen organisational and workforce capability across the sector • support evidence-based decision-making by increasing access, reliability, and usefulness of data for service providers, policymakers, and stakeholders • support workforce development and training, including cultural safety and embedding a lived experience (peer) workforce • support program data collection and management • enable services to leverage digital infrastructure to support connected care • commission and disseminate research and data to inform policy and monitor emerging trends and issues, and • improve cross-system partnerships and governance, including representation from people with lived experience. Note: Please see updated Grant Opportunity Guidelines published on 4 November 2026. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=e51557e0-3680-4767-b61e-545fe4b78ef7",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8650: Distinguished Fellow for Prevention and Early Intervention in Child Health",
+      "goId": "GO8650",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Distinguished Fellow for Prevention and Early Intervention in Child Health grant opportunity aims to establish national leadership in prevention and early intervention research across child health through an investment of $5 million over five years (from 2026-27). The investment will provide leadership to support medical research into prevalent childhood conditions including obesity, cardiovascular disease, mental health conditions and disability. The grant will support the Distinguished Fellow position, Postdoctoral Fellows, Research Assistants, PhD Scholarships and associated research costs, to strengthen Australia’s capacity to generate and translate evidence that improves the health and wellbeing of children and young people. This opportunity aligns with the Intergenerational Report 2023 and National Preventative Health Strategy (2021-30) and the Government's commitment to improve health outcomes through prevention, early intervention, and evidence-based research for Australian Children. The grant opportunity will establish national leadership to advance research and translation in prevention and early intervention across these priority areas. Aims to support innovative, evidence-based approaches that reduce disease burden, improve long-term outcomes, and contribute to a more sustainable health system. The grant opportunity will also support research that addresses the prevention and early intervention needs of priority child and youth population groups who experience inequities in health outcomes. This includes Aboriginal and/or Torres Strait Islander children and young people, children and young people living in remote or rural communities, children with disability (including intellectual disability), children from culturally and linguistically diverse communities (including immigrants and refugees), and LGBTIQ+ children. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=e06c72b3-e4cc-4c3b-8205-cc8b91b4a515",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8674: National Support for Child and Youth Mental Health Program",
+      "goId": "GO8674",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "up to $32 million",
+      "summary": "This grant opportunity was initiated through the Australian Government Response to the National Mental Health Commission’s Review of Mental Health Programs and Services. The Review raised a number of issues around the delivery of child mental health programs and suggested particular benefit in bundling measures to provide more comprehensive, targeted, and integrated services and supports for this vulnerable population group. In response, the Australian Government announced it would work across portfolios to join up support for child mental health, commencing with the early years and going through to adolescence. This Grant Opportunity consists of 2 streams: • Stream 1: National Workforce Support in Child Mental Health initiative (National Workforce Centre for Child Mental Health) • Stream 2: Mental Health in Education initiative (Be You). Stream 1: National Workforce Support in Child Mental Health initiative (National Workforce Centre for Child Mental Health) This stream will provide funding of up to $32 million over four years for Emerging Minds to continue to deliver the National Workforce Centre for Child Mental Health from 1 July 2027 to 30 June 2031. Stream 2: Mental Health in Education initiative (Be You) This stream will provide funding of up to $92 million over four years for Beyond Blue to continue to deliver Be You from 1 July 2027 to 30 June 2031. Under Program 1.2: Mental Health and Suicide Prevention, the Australian Government is committed to improving the mental health and wellbeing of all Australians, including a focus on suicide prevention. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=818bc177-1db2-438e-89a1-6e350561f090",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8637: Accelerating Electric Vehicle Charging Program",
+      "goId": "GO8637",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Australian Government is inviting organisations via a restricted process to apply to deliver a grant under Accelerating Electric Vehicle Charging Program. For this Grant, $33.2 million GST exclusive is available over the 2027–28 and 2028–29 financial years. Grant activities must be completed by 30 April 2029. The Accelerating Electric Vehicle Charging Program seeks to leverage the complementary strengths of Distribution Network Service Providers (DNSPs) and Charge Point Operators (CPOs) to rapidly rollout electric vehicle (EV) chargers and support the creation of a dynamic market that can meet the future needs of Australian EV drivers. The deployment of EV chargers and electrification of light vehicles is a key part of the Australian Government’s plan to rapidly decarbonise the transport sector and meet emissions reduction targets. The objectives of this program are to: support emissions reduction in the transport sector to help meet net zero targets by building confidence in Australia’s public EV charging network and supporting Australians with their choice to purchase an EV accelerate the deployment of EV chargers by leveraging the complementary strengths of DNSPs and CPOs to reduce the time and cost to connect preserve competition while filling gaps in the public EV charging network, targeting the deployment of: kerbside EV chargers that offer affordable charging for Australians without access to home-charging; and EV chargers in regional blackspots that support journeys and regional communities. To view key program documents please create a login before clicking on the ‘Grant Opportunity Documents’ button in the left-hand pane.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=2b415bec-d992-4d2d-8e9a-bc350f895a76",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8502: Support at Home Thin Markets 2026-27 (Round 3)",
+      "goId": "GO8502",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Support at Home Thin Markets 2026-27 (Round 3) Grant Opportunity provides flexible funding to eligible Support at Home providers that deliver aged care services in thin markets. This grant opportunity is the third funding round under the Support at Home Thin Markets Grant program. Providers that received funding in Round 1 (GO7600) and/or Round 2 (GO7988) may also apply in Round 3. Providers that deliver rural and remote services in Modified Monash areas 3 to 7, or that deliver specialised services in any region, may be eligible to apply. This grant opportunity has two streams: • Stream One: Rural, remote and specialised services • Stream Two: Aboriginal and Torres Strait Islander services. Providers may apply for either Stream One OR Stream Two. Some grant applicants may require a valid Specialisation Verification for aged care services. As gathering the necessary documents can be time consuming, we encourage applicants to plan ahead. Note: Please see updated Frequently Asked Questions - Version 2 - published on 9 September 2026. To view the grant opportunity documents, please select the red \"Grant Opportunity Documents\" button on the left-hand side.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=cd563326-0c8a-4b8e-85db-5b720826fc86",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8696: Indigenous Visual Arts Industry Support program, Closed Non-Competitive Grant Round 2027",
+      "goId": "GO8696",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "Funding will be provided to organisations for activities that best contribute to delivery of the following Program outcomes: a professional, viable and ethical Indigenous visual arts industry that features strong participation by, and provides economic opportunities for, Aboriginal and Torres Strait Islander people the continued production, exhibition, critique, purchase and collection of Indigenous visual art.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=71c6585b-c40d-45a5-9772-5539176386e9",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8697: Indigenous Visual Arts Industry Support program, Open Competitive Grant Round 2027",
+      "goId": "GO8697",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "Funding will be provided to organisations for activities that best contribute to delivery of the following Program outcomes: a professional, viable and ethical Indigenous visual arts industry that features strong participation by, and provides economic opportunities for, Aboriginal and Torres Strait Islander people the continued production, exhibition, critique, purchase and collection of Indigenous visual art.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=a87bf9c3-31bd-4182-b4d8-00bf9230dcb4",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8662: 2026-27 Marking (First World War) Private Graves Grants Program",
+      "goId": "GO8662",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "up to $620",
+      "summary": "Throughout Australia, individuals and groups are working to identify private unmarked graves of First World War veterans and marking these graves to recognise their service. This Marking (First World War) Private Graves Grants (MPG) Program contributes to the cost of establishing a grave marker on currently unmarked private graves. The MPG Program provides one-off funding of up to $620 per grave to assist with the purchase of a grave marker for unmarked private graves of veterans of the First World War. You can seek funding for up to 10 grave markers in each individual application, and you may only submit a maximum of 2 applications. The objective of the grant opportunity is to contribute to community recognition of the service and sacrifice of service personnel in the First World War. It does this by providing funding to contribute to the cost of establishing a grave marker on currently unmarked private graves. The intended outcome of the MPG Program is to mark private graves of veterans of the First World War so as to: enable community recognition of service preserve and add to the knowledge of, or provide information about, Australia’s wartime heritage.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=b7042f53-2b38-47a1-adfc-eb89ae87c3c9",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8642: Indigenous Ranger Biosecurity Program - Ranger Capability Building Grants - Round 4",
+      "goId": "GO8642",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The Australian Government is inviting applications from Indigenous Ranger organisations with current fee-for-service contracts with the Department of Agriculture, Fisheries and Forestry (the department), via a restricted process, to apply for a grant under the Ranger Capability Building Grants Program, Round 4. For this grant, $5 million (GST exclusive) is available over the 2026–27 and 2027–28 financial years. Grant agreements will be up to 2 years in length. The Indigenous Ranger Biosecurity Program helps protect Australia’s $100 billion agriculture industries by partnering with Indigenous Rangers to provide vital surveillance needed for the early detection of biosecurity threats across northern Australia. The intended outcomes of the grant program are: Increased capacity of Indigenous Rangers to undertake current and future biosecurity fee-for-service activities for the department. Improved quality of biosecurity surveillance data and reporting. Increased community awareness of high-risk pests and diseases. Improved work health and safety for Indigenous Rangers in remote areas. Increased skills and capability of Indigenous Rangers to enhance their career pathways. Create a career pathway for Rangers with specialist skills in biosecurity. Facilitate Indigenous-led leadership, mentoring and training for rangers in pests and diseases and surveillance technique. Support achievement of place-based biosecurity objectives of traditional owners. Assist in integration of traditional First Nations environmental practices into biosecurity monitoring and surveillance.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=6ebfcadf-841b-4ff6-a175-bfb8c189095b",
+      "source": "GrantConnect"
+    },
+    {
+      "title": "GO8646: Schools Pathways Program Round 2",
+      "goId": "GO8646",
+      "agency": "",
+      "category": "",
+      "closeDate": "",
+      "closeDateText": "",
+      "amount": "",
+      "summary": "The grant opportunity is for an organisation to deliver a project which: facilitates an understanding of the defence industry provides access to defence industry career experiences, mentoring and networking opportunities, and encourages student participation in STEM activities and/or subjects. Projects under the grant opportunity can have national reach or specifically target the workforce needs of one or more critical defence industry hubs, such as the Hunter region of NSW, Cairns in North Queensland, and Edinburgh in South Australia.",
+      "link": "https://www.grants.gov.au/Go/Show?GoUuid=7063150e-fed7-4597-83c2-35155f850e69",
       "source": "GrantConnect"
     }
   ]
